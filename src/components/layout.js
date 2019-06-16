@@ -27,8 +27,6 @@ const FooterLink = styled.a`
 const Footer = styled.footer`
   display: flex;
   justify-content: center;
-  margin: 0 auto;
-  margin-bottom: 30px;
   text-align: right;
   width: 85%;
   height: 10%;
