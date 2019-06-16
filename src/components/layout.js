@@ -21,7 +21,7 @@ const Content = styled.div`
 `
 
 const FooterLink = styled.a`
-  margin-left: 5px;
+  margin-left: 1px;
 `
 
 const Footer = styled.footer`
@@ -55,9 +55,8 @@ const Layout = ({ children }) => (
           <main>{children}</main>
           <Footer>
             <ul>
-              <li><FooterLink href="https://twitter.com/mihirchronicles">Twitter |</FooterLink></li>
-              <li><FooterLink href="https://www.linkedin.com/in/mihirchronicles">LinkedIn |</FooterLink></li>
-              <li><FooterLink href="https://github.com/mihirchronicles">Github |</FooterLink></li>
+              <li><FooterLink href="https://twitter.com/mihirchronicles">Twitter|</FooterLink></li>
+              <li><FooterLink href="https://www.linkedin.com/in/mihirchronicles">Linkedin|</FooterLink></li>
               <li><FooterLink href="mailto:mihirptl89@gmail.com">Email</FooterLink></li>
             </ul>
 

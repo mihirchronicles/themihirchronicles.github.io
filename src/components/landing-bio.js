@@ -9,6 +9,8 @@ const Container = styled.div`
 	height: 60%;
 	width: 85%;
   font-size: 14px;
+  overflow-x:hidden;
+  overflow-y:auto;
   position: absolute;
   left: 0;
   right: 0;

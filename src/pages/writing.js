@@ -12,21 +12,20 @@ const Content = styled.div`
   padding: 1.45rem 1.0875rem;
 `
 
-const ArticleDate = styled.h5`
-  display: inline;
-  color: #70a2d1;
-  margin-bottom: 10px;
-`
-
 const MarkerHeader = styled.h3`
   display: inline;
   margin-bottom: 10px;
 `
 
-const ReadingTime = styled.h5`
+const ReadingDateTime = styled.h5`
   display: inline;
   color: #70a2d1;
   margin-bottom: 10px;
+`
+
+const ReadMore = styled.span`
+  color: #70a2d1;
+  font-weight: bold;
 `
 
 const IndexPage = ({ data }) => {
@@ -49,14 +48,12 @@ const IndexPage = ({ data }) => {
               <li>
               <MarkerHeader>{node.frontmatter.title} </MarkerHeader>
               <div>
-                <ArticleDate>{node.frontmatter.date}</ArticleDate>
-                <ReadingTime> - {node.fields.readingTime.text}</ReadingTime>
+                <ReadingDateTime>{node.frontmatter.date}</ReadingDateTime>
+                <ReadingDateTime> - {node.fields.readingTime.text}</ReadingDateTime>
               </div>
-              <p>{node.excerpt} <ArticleDate>Read more!</ArticleDate></p>
+              <p>{node.excerpt} <ReadMore>Read more!</ReadMore></p>
               </li>
             </ol>
-          
-              
             </Link>
           </div>
         ))}
