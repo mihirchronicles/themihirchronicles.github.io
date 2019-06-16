@@ -14,6 +14,7 @@ import Header from "./header"
 import Footer from "./footer"
 import "./layout.css"
 
+import "@fortawesome/fontawesome-svg-core/styles.css";
 import { library } from '@fortawesome/fontawesome-svg-core'
 import { fab } from '@fortawesome/free-brands-svg-icons'
 import { faBook, faBrush, faEnvelope, faCogs } from '@fortawesome/free-solid-svg-icons'
