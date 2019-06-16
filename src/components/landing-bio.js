@@ -3,6 +3,8 @@ import PropTypes from "prop-types"
 import { StaticQuery, graphql } from "gatsby"
 import styled from "@emotion/styled"
 
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
+
 const Container = styled.div`
   margin: auto;
 	text-align: left;
@@ -78,9 +80,10 @@ const LandingBio = () => (
           <NameHeader>{data.site.siteMetadata.title}</NameHeader>
             <Description>Me here, here!</Description>
             <Description>Building products at <a href="http://www.morningstar.com/">Morningstar </a>and <a href="https://wisecharlie.com/">Wise Charlie</a>. Curious about investment analysis. Fond of art, history, hiking & telescopes.</Description>
-            <Description>Book nerd. Enjoy building things. Process itself is the goal.</Description>
+            <Description>Book nerd <FontAwesomeIcon icon={'book'} />. Enjoy building things <FontAwesomeIcon icon={'brush'} />. Process itself is the goal <FontAwesomeIcon icon={'cogs'} />.</Description>
             <Cheers>- To Adventures & Fellowship!</Cheers>
             <Button type="text"><ButtonLink href="/writing">Essays!</ButtonLink></Button>
+            
         </Container>
       </OuterContainer>
     )}
