@@ -8,11 +8,9 @@ import SEO from "../components/seo"
 
 const Content = styled.div`
   margin: 0 auto;
-  max-width: 860px;
-  padding: 1.45rem 1.0875rem;
 `
 
-const MarkerHeader = styled.h3`
+const MarkerHeader = styled.h2`
   display: inline;
   margin-bottom: 10px;
 `

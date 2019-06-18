@@ -5,14 +5,15 @@ import { StaticQuery, graphql } from "gatsby"
 import styled from "@emotion/styled"
 
 const Container = styled.div`
-  margin: auto;
+  margin: 0 auto;
 	text-align: left;
 	height: 60%;
-	width: 85%;
+	width: 95%;
   font-size: 14px;
   overflow-x:hidden;
   overflow-y:auto;
   position: absolute;
+  padding: 0 1.0875rem 1rem;
   left: 0;
   right: 0;
   -ms-overflow-style: none;  /*  IE 10+ */ 
@@ -55,7 +56,9 @@ const Button = styled.button`
   border: solid #8cb4da 2px;
   text-decoration: none;
   position: absolute;
-  left: 4px;
+  left: 20px;
+  margin-top: 10px;
+
 `
 
 const ButtonLink = styled.a`

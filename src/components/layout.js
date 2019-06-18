@@ -23,9 +23,9 @@ library.add(fab, faBook, faBrush, faEnvelope, faCogs)
 
 const Content = styled.div`
   margin: 0 auto;
-  max-width: 860px;
+  margin-top: 10px;
+  width: 95%;
   padding: 0 1.0875rem 1rem;
-  padding-top: 0;
 `
 
 const Layout = ({ children }) => (

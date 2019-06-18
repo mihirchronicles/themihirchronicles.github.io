@@ -14,7 +14,7 @@ const Content = styled.div`
 	margin: 0 auto;
 	text-align: justify;
 	height: 10%;
-	width: 85%;
+	width: 95%;
   padding-top: 25px;
   font-size: 12px;
 `
@@ -26,7 +26,6 @@ const NavLink = styled(Link)`
   position: relative;
   font-family: "Source Code Pro", monospace;
   color: #70a2d1;
-  text-decoration: underline;
 `
 
 const HomeLink = styled(NavLink)`

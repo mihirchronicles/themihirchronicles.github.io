@@ -6,15 +6,6 @@ import SEO from "../components/seo"
 
 const Content = styled.div`
   margin: 0 auto;
-  padding: 1.45rem 1.0875rem;
-  margin: auto;
-	text-align: left;
-  overflow-x:hidden;
-  overflow-y:auto;
-  left: 0;
-  right: 0;
-  -ms-overflow-style: none;  /*  IE 10+ */ 
-  overflow: -moz-scrollbars-none;  /*  Firefox */
 `
 
 const Description = styled.p`
@@ -29,18 +20,18 @@ const IndexPage = ({ data }) => {
       <Content>
       <h1>Bookshelf</h1>
       <Description>Reading is a fun way to experience life and go on an adventure! It is important to make time to read what's fairly academic and super profound. We all know money compounds, but so does knowledge. To maintain lifelong curiosity, I use multi-disciplinary approach to select wide array of books. This bookshelf represents a complete catalog of books I own and/or I have read. Reading other people's list and browsing their bookshelves is a pure joy. Drop me a note if you have a book recommendation.</Description>
-      <h3>2019 Summaries</h3>
+      <h2>2019 Summaries</h2>
         <ol>
           <li><a href="https://github.com/mihirchronicles/book-notes/blob/master/creativity-inc.markdown"><strong>Creativity Inc</strong></a></li>
         </ol>
-        <h3>2018 Summaries</h3>
+        <h2>2018 Summaries</h2>
         <ol>
           <li><a href="https://github.com/mihirchronicles/book-notes/blob/master/shoe-dog.markdown"><strong>Shoe Dog</strong></a></li>
           <li><a href="https://github.com/mihirchronicles/book-notes/blob/master/seven-brief-lessons-on-physics.markdown"><strong>Seven Brief Lessons on Physics</strong></a></li>
           <li><a href="https://github.com/mihirchronicles/book-notes/blob/master/sapiens-a-brief-history-of-humankind.markdown"><strong>Sapiens: A Brief History of Humankind</strong></a></li>
           <li><a href="https://github.com/mihirchronicles/book-notes/blob/master/deep-work.markdown"><strong>Deep Work</strong></a></li>
         </ol>
-      <h3>No Summaries</h3>
+      <h2>No Summaries</h2>
         <ol>
           <li><strong>I Contain Multitudes: The Microbes Within Us and a Grander View of Life</strong></li>
           <li><strong>The Better Angels of Our Nature: Why Violence Has Declined</strong></li>
