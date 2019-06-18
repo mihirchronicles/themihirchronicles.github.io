@@ -1,7 +1,7 @@
 {
   "name": "personal-site",
   "private": true,
-  "description": "A personal site using Gatsby.",
+  "description": "Notes, Products and Books by The Mihir Chronicles.",
   "version": "0.1.0",
   "author": "Mihir Patel",
   "dependencies": {

@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
     title: `The Mihir Chronicles`,
-    description: `A minimal blog starter built with Gatsbyjs. The needes Gatsby files are included.`,
-    author: `@niklasmtj`,
+    description: `Notes, Products and Books by The Mihir Chronicles.`,
+    author: `Mihir Patel`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
