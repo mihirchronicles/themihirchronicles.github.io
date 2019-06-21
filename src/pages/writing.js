@@ -17,7 +17,7 @@ const MarkerHeader = styled.h2`
 
 const ReadingDateTime = styled.h5`
   display: inline;
-  color: #70a2d1;
+  color: #888;
   margin-bottom: 10px;
 `
 
