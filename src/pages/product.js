@@ -35,7 +35,7 @@ const Description = styled.p`
 const IndexPage = ({ data }) => {
   return (
     <Layout>
-      <SEO title="Blog" />
+      <SEO title="Product" />
       <Content>
       <h1>Product</h1>
       <Description>There is a pure joy in building and launching creative products. Building a product is like planting a seed while experimenting with new ideas. Visual language is a huge part of my product story telling. Following the journey of product building has allowed me to learn about various topics—design, code, user experience, writing, ethics, marketing, sales, product prototyping, engineering, manufacturing, supply chain, financing and so much more. My work is still in pogress. Below you will find my past and present product stories.</Description>
