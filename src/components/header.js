@@ -5,7 +5,7 @@ import React from "react"
 
 import logo from '../images/telescope.svg'
 
-const Logo = styled.div`
+const Logo = styled.img`
   width: 38px;
   height: 32px;
 `
@@ -42,9 +42,7 @@ const SiteHeader = styled.header`
 const Header = ({ siteTitle }) => (
   <SiteHeader>
     <Content>
-    <Logo>
-      <img src={logo} alt="MihirChronicles"/>
-    </Logo>
+    <Logo src={logo} alt="MihirChronicles"/>
       <p>
         <HomeLink to="/">Home</HomeLink>
         <NavLink to="/writing">Writing </NavLink>
