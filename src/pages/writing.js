@@ -10,21 +10,20 @@ const Content = styled.div`
   margin: 0 auto;
 `
 
-const MarkerHeader = styled.h2`
+const MarkerHeader = styled.p`
   display: inline;
-  margin-bottom: 10px;
 `
 
-const ReadingDateTime = styled.h5`
+const ReadingDateTime = styled.p`
   display: inline;
   color: #888;
   margin-bottom: 10px;
+  font-size: 12px;
 `
 
-const ReadMore = styled.span`
-  color: #70a2d1;
-  font-weight: bold;
-`
+// const ReadMore = styled.span`
+//   color: #70a2d1;
+// `
 
 const IndexPage = ({ data }) => {
   return (
@@ -33,6 +32,7 @@ const IndexPage = ({ data }) => {
       <Content>
         <h1>Writing</h1>
         <p>The importance of writing stems from the fact that it enhances  clarity and intellect. Writing allows me to express as a person and  promotes me to pose worthwhile questions. Writing ideas down helps me preserve them so that I can reflect upon them later. <i>Upwind</i> (chasing after hard topics) and <i>Primitives</i> (foundational basics) are a huge part of my writing.</p>
+        <h2>General Topics</h2>
         {data.allMarkdownRemark.edges.map(({ node }) => (
           <div key={node.id}>
             <Link
@@ -44,12 +44,12 @@ const IndexPage = ({ data }) => {
             >
             <ol>
               <li>
-              <MarkerHeader>{node.frontmatter.title} </MarkerHeader>
+              <MarkerHeader>{node.frontmatter.title}</MarkerHeader>
               <div>
                 <ReadingDateTime>{node.frontmatter.date}</ReadingDateTime>
                 <ReadingDateTime> - {node.fields.readingTime.text}</ReadingDateTime>
               </div>
-              <p>{node.excerpt} <ReadMore>Read more!</ReadMore></p>
+              {/* <p>{node.excerpt} <ReadMore>Read more!</ReadMore></p> */}
               </li>
             </ol>
             </Link>

@@ -22,9 +22,10 @@ const ProductTitle = styled.h2`
   margin: 0 auto;
 `
 
-const Time = styled.h3`
-  color: #70a2d1;
-  padding-bottom: 5px;
+const Time = styled.p`
+  display: inline;
+  color: #888;
+  margin-bottom: 5px;
 `
 
 const Description = styled.p`
@@ -73,7 +74,7 @@ const IndexPage = ({ data }) => {
       </li>
       <li>
       <Product>
-        <ProductTitle>Humble Pen, 2012-2015</ProductTitle>
+        <ProductTitle>Humble Pen</ProductTitle>
         <Time>2102-2015</Time>
         <p><strong>Story: </strong>The project was inspired during my trip to Haiti in 2012. While searching for meaningful work, I stumbled upon a project which would support education for children in need and reignite one's love for writing. <i>One-for-One Giving</i> business model was fitting. During my trip to Haiti, I asked all the kids at the visiting school in Haiti to write a letter to me. As I read those inspiring letters, it was easy to conclude that kids all around the world are filled with joy, have creative passion and are curious thinkers. A 10-year-old kid wrote to me she aspires to become an astronaut when she grows up. Her letter reminded me there are no limits to dreaming bold, no matter where you are in the world. The project stalled several times during the journey. It was due to my lack of experience in building physical products, lack of knowledge in supply chain and interacting with industrial designers. Eventually, the product launched and it was a success but the project was not sustainable.</p>
         <p><strong>Product: </strong>Humble Pen was a hand-made designer pen made out of bamboo packaged in a beautiful box. Each pen also came with selected artist inspired postcards. For every sale, the product supported educational needs for children in Haiti, India and Cambodia.</p>
