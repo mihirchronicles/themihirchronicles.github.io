@@ -44,12 +44,10 @@ const IndexPage = ({ data }) => {
             >
             <ol>
               <li>
-              <MarkerHeader>{node.frontmatter.title}</MarkerHeader>
-              <div>
-                <ReadingDateTime>{node.frontmatter.date}</ReadingDateTime>
-                <ReadingDateTime> - {node.fields.readingTime.text}</ReadingDateTime>
-              </div>
-              {/* <p>{node.excerpt} <ReadMore>Read more!</ReadMore></p> */}
+              <MarkerHeader>{node.frontmatter.title}
+                <ReadingDateTime> | {node.fields.readingTime.text} </ReadingDateTime>
+                <ReadingDateTime>({node.frontmatter.date})</ReadingDateTime>
+              </MarkerHeader>
               </li>
             </ol>
             </Link>
