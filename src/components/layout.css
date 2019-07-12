@@ -20,7 +20,7 @@ html, body {
 }
 body {
   font-size: 14px;
-  font-family: monospace;
+  font-family: arial, monospace;
 }
 article,
 aside,
@@ -54,13 +54,14 @@ template {
   display: none;
 }
 a {
-  color: inherit;
+  color: #70a2d1;
   text-decoration: none;
   font-weight: 800;
   -webkit-text-decoration-skip: objects;
 }
 a:active,
 a:hover {
+  color: black;
   outline-width: 0;
 }
 abbr[title] {
@@ -110,7 +111,7 @@ code,
 kbd,
 pre,
 samp {
-  font-family: monospace;
+  font-family: arial, monospace;
   font-size: 1em;
 }
 figure {
@@ -157,7 +158,7 @@ button::-moz-focus-inner {
 [type="reset"]:-moz-focusring,
 [type="submit"]:-moz-focusring,
 button:-moz-focusring {
-  outline: 1px dotted ButtonText;
+  outline: 1px dotted;
 }
 fieldset {
   border: 1px solid silver;
@@ -224,8 +225,8 @@ body {
   font-feature-settings: "kern", "liga", "clig", "calt";
 }
 img {
-  max-width: 50%;
-  max-height: 50%;
+  width: 300px;
+  height: 300px;
   margin: 0 auto;
   padding-bottom: 0;
   padding-left: 0;
@@ -356,7 +357,6 @@ ol {
   padding-left: 0;
   padding-right: 0;
   padding-top: 0;
-  margin-bottom: 1.45rem;
   list-style-position: outside;
   list-style-type: square;
   line-height: 30px;
@@ -601,7 +601,7 @@ code {
   background-color: hsla(0, 0%, 0%, 0.04);
   border-radius: 3px;
   font-family: "SFMono-Regular", Consolas, "Roboto Mono", "Droid Sans Mono",
-    "Liberation Mono", Menlo, Courier, monospace;
+    "Liberation Mono", Menlo, Courier, arial, monospace;
   padding: 0;
   padding-top: 0.2em;
   padding-bottom: 0.2em;
@@ -643,6 +643,8 @@ pre tt:after {
 }
 @media only screen and (max-width: 800px) {
   img {
+    width: auto;
+    height: auto;
     max-width: 100%;
     max-height: 100%;
   }

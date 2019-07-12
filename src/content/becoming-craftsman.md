@@ -1,5 +1,6 @@
 ---
 title: "Becoming A Craftsman"
+tags: ["general"]
 date: "2018-12-01"
 draft: false
 path: "/blog/becoming-craftsman"

@@ -14,7 +14,7 @@ const MarkedHeader = styled.h1`
   display: inline;
 `
 
-const HeaderDate = styled.h3`
+const HeaderDate = styled.p`
   margin-top: 10px;
   color: #888;
 `

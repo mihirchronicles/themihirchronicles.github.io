@@ -18,7 +18,7 @@ const ReadingDateTime = styled.p`
   display: inline;
   color: #888;
   margin-bottom: 10px;
-  font-size: 12px;
+  font-size: 11px;
 `
 
 // const ReadMore = styled.span`
@@ -39,7 +39,7 @@ const IndexPage = ({ data }) => {
               to={node.frontmatter.path}
               css={css`
                 text-decoration: none;
-                color: inherit;
+                color: #70a2d1;
               `}
             >
             <ol>
