@@ -17,7 +17,6 @@ const MarkerHeader = styled.p`
 const ReadingDateTime = styled.p`
   display: inline;
   color: #888;
-  margin-bottom: 10px;
   font-size: 11px;
 `
 
@@ -35,22 +34,20 @@ const IndexPage = ({ data }) => {
         <h2>General Topics</h2>
         {data.allMarkdownRemark.edges.map(({ node }) => (
           <div key={node.id}>
-            <Link
-              to={node.frontmatter.path}
-              css={css`
-                text-decoration: none;
-                color: #70a2d1;
-              `}
-            >
             <ol>
               <li>
-              <MarkerHeader>{node.frontmatter.title}
-                <ReadingDateTime> | {node.fields.readingTime.text} </ReadingDateTime>
-                <ReadingDateTime>({node.frontmatter.date})</ReadingDateTime>
-              </MarkerHeader>
+                <Link
+                to={node.frontmatter.path}
+                css={css`
+                  text-decoration: none;
+                  color: #70a2d1;
+                `}
+                >
+                  <MarkerHeader>{node.frontmatter.title} </MarkerHeader>
+                </Link>
+                <ReadingDateTime>| {node.fields.readingTime.text} ({node.frontmatter.date})</ReadingDateTime>
               </li>
             </ol>
-            </Link>
           </div>
         ))}
       </Content>
