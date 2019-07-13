@@ -1,6 +1,7 @@
 ---
 title: "Tribes & Ideologies"
 date: "2018-07-01"
+tags: ["general"]
 draft: false
 path: "/blog/tribes-ideologies"
 ---

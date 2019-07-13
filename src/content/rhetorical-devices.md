@@ -1,7 +1,7 @@
 ---
 title: "Rhetorical Devices"
 date: "2019-03-01"
-tags: ["product"]
+tags: ["general"]
 draft: false
 path: "/blog/rhetorical-devices"
 ---

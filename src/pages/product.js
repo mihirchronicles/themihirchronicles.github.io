@@ -24,7 +24,7 @@ const ProductTitle = styled.h2`
 
 const Time = styled.p`
   display: inline;
-  color: #888;
+  color: #000;
   margin-bottom: 5px;
 `
 

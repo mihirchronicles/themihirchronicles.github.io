@@ -1,7 +1,7 @@
 ---
 title: "Independent Thinking"
 date: "2018-01-01"
-tags: ["finance"]
+tags: ["general"]
 draft: false
 path: "/blog/independent-thinking"
 ---
