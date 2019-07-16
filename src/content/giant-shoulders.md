@@ -37,6 +37,7 @@ path: "/blog/giant-shoulders"
 25. [Bret Victr](http://worrydream.com/)
 26. [Patrick Collison](https://patrickcollison.com/)
 27. [Gwern Branwen](https://www.gwern.net/)
+
 <br>
 
 #### Articles
