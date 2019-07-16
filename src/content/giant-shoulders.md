@@ -2,11 +2,11 @@
 title: "Giant Shoulders"
 date: "5000-05-05"
 tags: ["general"]
-draft: true
+draft: false
 path: "/blog/giant-shoulders"
 ---
 
-“If I have seen further it is by standing on the shoulders of giants.” - Isaac Newton. Sir Isaac Newton knew the trick when he was on a quest for finding gravity. Besides books, I follow these interesting people below. I widen my ears and illuminate my focal point when they have something to say. The only way to climb the hierarchy of rational thinking is to stand on giant shoulders. There are many other giant shoulders that I follow but it would turn into an exhaustive list. Resources below are mostly centered around my interest in investing and philosophy which are in form of shareholder letters and long-form reading.
+“If I have seen further it is by standing on the shoulders of giants.” - Isaac Newton. Sir Isaac Newton knew the trick when he was on a quest for finding gravity. Besides books, I follow these interesting people below. I widen my ears and illuminate my focal point when they have something to say. The only way to climb the hierarchy of rational thinking is to stand on giant shoulders. There are many other giant shoulders that I follow but it would turn into an exhaustive list. Resources below are mostly centered around my interest in investing and philosophy which are in form of shareholder letters and long-form reading posts.
 
 #### Letters
 
@@ -35,7 +35,8 @@ path: "/blog/giant-shoulders"
 23. [Eugene Wei](https://www.eugenewei.com/)
 24. [Jerry Newmann](http://reactionwheel.net/)
 25. [Bret Victr](http://worrydream.com/)
-
+26. [Patrick Collison](https://patrickcollison.com/)
+27. [Gwern Branwen](https://www.gwern.net/)
 <br>
 
 #### Articles
