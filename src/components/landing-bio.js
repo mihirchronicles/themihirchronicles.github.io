@@ -84,7 +84,7 @@ const LandingBio = () => (
             <Description>Building products at <a href="http://www.morningstar.com/">Morningstar </a>and <a href="https://wisecharlie.com/">Wise Charlie</a>. Curious about investment analysis. Fond of art, history, hiking & telescopes.</Description>
             <Description>Book nerd <FontAwesomeIcon icon="book"/>. Enjoy building things <FontAwesomeIcon icon="brush"/>. Process itself is the goal <FontAwesomeIcon icon="cogs"/>.</Description>
             <Cheers>- To Adventures & Fellowship!</Cheers>
-            <Button type="text"><ButtonLink href="/writing">Essays!</ButtonLink></Button>
+            <Button type="text"><ButtonLink href="/essays">Essays!</ButtonLink></Button>
         </Container>
       </OuterContainer>
     )}

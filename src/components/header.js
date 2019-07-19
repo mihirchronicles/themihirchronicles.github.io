@@ -42,11 +42,13 @@ const SiteHeader = styled.header`
 const Header = ({ siteTitle }) => (
   <SiteHeader>
     <Content>
-    <Logo src={logo} alt="MihirChronicles"/>
+    <HomeLink to="/">
+      <Logo src={logo} alt="MihirChronicles"/>
+    </HomeLink>
       <p>
-        <HomeLink to="/">Home</HomeLink>
-        <NavLink to="/writing">Writing </NavLink>
-        <NavLink to="/bookshelf">Bookshelf</NavLink>
+        <NavLink to="/essays">Essays</NavLink>
+        <NavLink to="/explore">Explore</NavLink>
+        <NavLink to="/bookshelf">Books</NavLink>
         <NavLink to="/product">Product</NavLink>
       </p>
     </Content>
