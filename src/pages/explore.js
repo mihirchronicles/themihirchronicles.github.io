@@ -84,20 +84,21 @@ const IndexPage = ({ data }) => {
           <li><a href="http://siddharthamukherjee.com/">Siddhartha Mukherjee</a></li>
           <li><a href="https://www.microsoft.com/en-us/research/project/tuva-richard-feynman/">Richard Feynman</a></li>
         </ol>
-        <h2>Long Forms</h2>
-        <p>Below are also some of the most thought provoking long form articles that I go back to, time and time again.</p>
+        <h2>Individual Pieces</h2>
+        <p>Below are also some of the thought provoking articles that I go back to, time and time again.</p>
         <ol>
-          <li><a href="https://www.vulture.com/2018/11/jerry-saltz-how-to-be-an-artist.html">How to be an artist?</a></li>
+          <li><a href="https://www.vulture.com/2018/11/jerry-saltz-how-to-be-an-artist.html">How to be an artist</a></li>
           <li><a href="http://blog.samaltman.com/productivity">Productivity</a></li>
           <li><a href="https://meaningness.com/geeks-mops-sociopaths">Geeks, mops and sociopaths</a></li>
           <li><a href="https://www.edge.org/conversation/yuval_noah_harari-daniel_kahneman-death-is-optional">Death is optional</a></li>
-          <li><a href="https://jseliger.files.wordpress.com/2012/04/how-to-think-about-science-pdf.pdf">How to think about science?</a></li>
+          <li><a href="https://jseliger.files.wordpress.com/2012/04/how-to-think-about-science-pdf.pdf">How to think about science</a></li>
           <li><a href="https://www.newyorker.com/magazine/2009/06/01/the-cost-conundrum">The cost conundrum</a></li>
           <li><a href="https://kk.org/thetechnium/1000-true-fans/">1000 true fans</a></li>
           <li><a href="http://www.issendai.com/psychology/sick-systems.html">Sick systems</a></li>
           <li><a href="http://augmentingcognition.com/ltm.html">LTM</a></li>
           <li><a href="https://jamesclear.com/luck-vs-hard-work">Luck vs hard work</a></li>
           <li><a href="http://blakemasters.com/peter-thiels-cs183-startup">Peter Thiel cs183 essays</a></li>
+          <li><a href="https://theamericanscholar.org/solitude-and-leadership/#.XTSUg5NKifX">Solitude and leadership</a></li>
         </ol>
       </Content>
     </Layout>

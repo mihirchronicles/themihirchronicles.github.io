@@ -20,16 +20,23 @@ const IndexPage = ({ data }) => {
       <SEO title="Explore" />
       <Content>
       <h1>About</h1>
-      <Description>My goal is to learn, share, and explore in public. Selfishly speaking, self-care is really important to me so I spend a lot of time thinking about ways to improve my health, soul, and spirit. This allows me to be unselfish with others due to the momentum of surplus and positive energy by working towards good habits (nowhere close but always trying). Below are some of the challenges I have taken in the past few years. Also are the principles I try to live by.</Description>
+      <Description>My goal is to learn, share, and explore in public. Selfishly speaking, self-care is really important to me so I spend a lot of time thinking about ways to improve my health, soul, and spirit. However, this allows me to be unselfish with others due to the surplus of positive energy by working towards the good habits (nowhere close but always trying). The misssion is to keep building on this positive momentum. Below are some of the challenges I have taken in the past few years, questions I am pondering on, and the principles I try to live by.</Description>
         <h2>Challenges</h2>
         <ol>
           <li><strong>2010:</strong> visit Berkshire Hathaway shareholder meeting in Nebraska to listen to Warren Buffett and Charlie Munger.</li>
           <li><strong>2012:</strong> visit Haiti and learn about education and school systems. Recap <a href="https://vimeo.com/80200375">here</a>.</li>
-          <li><strong>2013:</strong> travel with a one-way ticket. Recap of the trip <a href="https://www.youtube.com/watch?v=qUGvvCtpIaY">here</a>.</li>
-          <li><strong>2014:</strong> launch and build a physical project. Recap <a href="https://www.instagram.com/humblepen/">here</a>.</li>
+          <li><strong>2013:</strong> travel with a one-way ticket. Recap <a href="https://www.youtube.com/watch?v=qUGvvCtpIaY">here</a>.</li>
+          <li><strong>2014:</strong> launch and build a physical product. See the project <a href="https://www.instagram.com/humblepen/">here</a>.</li>
           <li><strong>2016:</strong> move somewhere where there is no family or friends to learn to write code and spend time in the mountains. Ended up in Utah for 9 months.</li>
-          <li><strong>2018:</strong> learn to think independentally by using mental models. Built Wise Charlie <a href="www.wisecharlie.com">here</a>. </li>
+          <li><strong>2018:</strong> learn to think independentally by using mental models. See the project <a href="https://www.wisecharlie.com">here</a>. </li>
           <li><strong>2019:</strong> learn and share in public.</li>
+        </ol>
+        <h2>Questions</h2>
+        <ol>
+          <li>How can one build surplus of positive energy, given we have the control over the production?</li>
+          <li>How can telescopes drive curiosity and imagination for young kids?</li>
+          <li>What are some of the ways coaches provide feedback loop to young kids? What if you scale this to every child?</li>
+          <li>How can every human being help towards the cause of restoring art, history, culture, natural resources?</li>
         </ol>
         <h2>Principles</h2>
         <ol>
