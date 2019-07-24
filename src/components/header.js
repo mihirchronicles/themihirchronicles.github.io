@@ -25,7 +25,7 @@ const NavLink = styled(Link)`
   display: inline-block;
   position: relative;
   font-family: "Source Code Pro", monospace;
-  color: #70a2d1;
+  color: #26A7FF;
   border-bottom: 3px solid #fff;
 
   :last-child {

@@ -53,7 +53,7 @@ const Button = styled.button`
   font-family: Reenie Beanie;
   font-size: 17px;
   padding: 10px 10px 10px 10px;
-  border: solid #8cb4da 2px;
+  border: solid #2789e5 2px;
   text-decoration: none;
   position: absolute;
   left: 20px;
@@ -84,7 +84,7 @@ const LandingBio = () => (
             <Description>Building products at <a href="http://www.morningstar.com/">Morningstar </a>and <a href="https://wisecharlie.com/">Wise Charlie</a>. Curious about investment analysis. Fond of art, history, hiking & telescopes.</Description>
             <Description>Book nerd <FontAwesomeIcon icon="book"/>. Enjoy building things <FontAwesomeIcon icon="brush"/>. Process itself is the goal <FontAwesomeIcon icon="cogs"/>.</Description>
             <Cheers>- To Adventures & Fellowship!</Cheers>
-            <Button type="text"><ButtonLink href="/essays">Essays!</ButtonLink></Button>
+            <Button type="text"><ButtonLink href="/about">More!</ButtonLink></Button>
         </Container>
       </OuterContainer>
     )}

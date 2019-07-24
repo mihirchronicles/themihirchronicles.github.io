@@ -29,10 +29,10 @@ const List = styled.ul`
 const Footer = () => (
     <FooterContainer>
     <List>
-        <li><FooterLink href="https://twitter.com/mihirchronicles"><FontAwesomeIcon icon={["fab", "twitter"]} size="2x" style={{color:"#70a2d1"}} /></FooterLink></li>
-        <li><FooterLink href="https://www.linkedin.com/in/mihirchronicles"><FontAwesomeIcon icon={["fab", "linkedin"]} size="2x" style={{color:"#70a2d1"}} /></FooterLink></li>
-        <li><FooterLink href="https://github.com/mihirchronicles"><FontAwesomeIcon icon={["fab", "github"]} size="2x" style={{color:"#70a2d1"}} /></FooterLink></li>
-        <li><FooterLink href="mailto:mihirptl89@gmail.com"><FontAwesomeIcon icon="envelope" size="2x" style={{color:"#70a2d1"}} /></FooterLink></li>
+        <li><FooterLink href="https://twitter.com/mihirchronicles"><FontAwesomeIcon icon={["fab", "twitter"]} size="2x" style={{color:"#26A7FF"}} /></FooterLink></li>
+        <li><FooterLink href="https://www.linkedin.com/in/mihirchronicles"><FontAwesomeIcon icon={["fab", "linkedin"]} size="2x" style={{color:"#26A7FF"}} /></FooterLink></li>
+        <li><FooterLink href="https://github.com/mihirchronicles"><FontAwesomeIcon icon={["fab", "github"]} size="2x" style={{color:"#26A7FF"}} /></FooterLink></li>
+        <li><FooterLink href="mailto:mihirptl89@gmail.com"><FontAwesomeIcon icon="envelope" size="2x" style={{color:"#26A7FF"}} /></FooterLink></li>
     </List>
     </FooterContainer>
 )
