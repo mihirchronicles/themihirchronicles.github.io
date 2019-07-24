@@ -25,12 +25,8 @@ const NavLink = styled(Link)`
   display: inline-block;
   position: relative;
   font-family: "Source Code Pro", monospace;
-  color: #26A7FF;
+  color: #3d9cdf;
   border-bottom: 3px solid #fff;
-
-  :last-child {
-    border-bottom: 3px solid #2789e5;
-  }
   
   :hover {
     border-bottom: 3px solid #2789e5;

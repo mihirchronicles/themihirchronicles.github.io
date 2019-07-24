@@ -21,7 +21,7 @@ const ReadingDateTime = styled.p`
 `
 
 // const ReadMore = styled.span`
-//   color: #26A7FF;
+//   color: #3d9cdf;
 // `
 
 const IndexPage = ({ data }) => {
@@ -39,7 +39,7 @@ const IndexPage = ({ data }) => {
                 to={node.frontmatter.path}
                 css={css`
                   text-decoration: none;
-                  color: #26A7FF;
+                  color: #3d9cdf;
                 `}
                 >
                   <MarkerHeader>{node.frontmatter.title} </MarkerHeader>
