@@ -8,6 +8,7 @@ import logo from '../images/telescope.svg'
 const Logo = styled.img`
   width: 38px;
   height: 32px;
+  margin-bottom: 5px;
 `
 
 const Content = styled.div`
@@ -21,7 +22,7 @@ const Content = styled.div`
 
 const NavLink = styled(Link)`
   margin-left: 15px;
-  margin-top: 20px;
+  margin-top: 5px;
   display: inline-block;
   position: relative;
   font-family: "Source Code Pro", monospace;

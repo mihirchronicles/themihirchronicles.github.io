@@ -41,28 +41,30 @@ const Cheers = styled.h3`
   margin-bottom: 10px;
 `
 const Button = styled.button`
+  color: #ffffff;
   background: #2789e5;
-  background-image: -webkit-linear-gradient(top, #2789e5, #2789e5);
-  background-image: -moz-linear-gradient(top, #2789e5, #2789e5);
-  background-image: -ms-linear-gradient(top, #2789e5, #2789e5);
-  background-image: -o-linear-gradient(top, #2789e5, #2789e5);
-  background-image: linear-gradient(to bottom, #2789e5, #2789e5);
   -webkit-border-radius: 25;
   -moz-border-radius: 25;
   border-radius: 25px;
   font-family: Reenie Beanie;
   font-size: 17px;
   padding: 10px 10px 10px 10px;
-  border: solid #2789e5 2px;
+  border: solid #c5c8c6 2px;
   text-decoration: none;
   position: absolute;
   left: 20px;
   margin-top: 10px;
 
+  :hover {
+    cursor: pointer;
+    background: #c5c8c6;
+    border: #3d9cdf;
+  }
+
 `
 
 const ButtonLink = styled.a`
-  color: #ffffff; 
+  color: #ffffff;
 `
 
 const LandingBio = () => (
@@ -84,7 +86,8 @@ const LandingBio = () => (
             <Description>Building products at <a href="http://www.morningstar.com/">Morningstar </a>and <a href="https://wisecharlie.com/">Wise Charlie</a>. Curious about investment analysis. Fond of art, history, hiking & telescopes.</Description>
             <Description>Book nerd <FontAwesomeIcon icon="book"/>. Enjoy building things <FontAwesomeIcon icon="brush"/>. Process itself is the goal <FontAwesomeIcon icon="cogs"/>.</Description>
             <Cheers>- To Adventures & Fellowship!</Cheers>
-            <Button type="text"><ButtonLink href="/about">More!</ButtonLink></Button>
+            <ButtonLink href="/about"><Button type="text">More!</Button></ButtonLink>
+            
         </Container>
       </OuterContainer>
     )}
