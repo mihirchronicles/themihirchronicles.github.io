@@ -49,7 +49,7 @@ const Button = styled.button`
   font-family: Reenie Beanie;
   font-size: 17px;
   padding: 10px 10px 10px 10px;
-  border: solid #c5c8c6 2px;
+  border: solid #2789e5 2px;
   text-decoration: none;
   position: absolute;
   left: 20px;
@@ -57,7 +57,7 @@ const Button = styled.button`
 
   :hover {
     cursor: pointer;
-    background: #c5c8c6;
+    background: #494949;
     border: #3d9cdf;
   }
 
