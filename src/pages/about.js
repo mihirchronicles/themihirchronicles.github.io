@@ -35,10 +35,10 @@ const IndexPage = ({ data }) => {
         <ol>
           <li>How can financial intitatives like ESG transform the environmental transformation (terraforming)?</li>
           <li>How can telescopes drive curiosity and imagination for young kids?</li>
-          <li>What are some ways coaches provide feedback loop to young kids? What if you scale this to every child?</li>
+          <li>What are some ways coaches provide feedback loop to young kids? What if we scale this to every child?</li>
           <li>How do institutions like universities, media and politics drive socioeconomics?</li>
-          <li>How one can speed up by an order of magnitude without sacrificing safety or reliability?</li>
-          <li>How can one build surplus of energy knowing we control the energy production?</li>
+          <li>How can we speed up by an order of magnitude without sacrificing safety or reliability?</li>
+          <li>How can we build surplus of energy and momentum knowing we control the energy production (in other words — optimism, choices, etc.?)</li>
         </ol>
         <h2>Principles</h2>
         <ol>

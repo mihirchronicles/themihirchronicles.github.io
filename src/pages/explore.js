@@ -99,6 +99,7 @@ const IndexPage = ({ data }) => {
           <li><a href="https://jamesclear.com/luck-vs-hard-work">Luck vs hard work</a></li>
           <li><a href="http://blakemasters.com/peter-thiels-cs183-startup">Peter Thiel cs183 essays</a></li>
           <li><a href="https://theamericanscholar.org/solitude-and-leadership/#.XTSUg5NKifX">Solitude and leadership</a></li>
+          <li><a href="https://www.albertbridgecapital.com/drew-views/2019/6/17/stay-in-the-game">Stay in the game</a></li>
         </ol>
       </Content>
     </Layout>
