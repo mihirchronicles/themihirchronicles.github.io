@@ -24,6 +24,11 @@ const FooterContainer = styled.footer`
 const List = styled.ul`
   margin-left: -20px;
   text-align: center;
+
+  li {
+    float: left;
+    list-style-type: none;
+  }
 `
 
 const Footer = () => (

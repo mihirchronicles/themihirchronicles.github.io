@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Reenie+Beanie');
 
 code {
-  background-color: hsla(0, 0%, 0%, 0.04);
+  background-color:#494949;
 }
 
 * {
@@ -522,8 +522,7 @@ ol li {
 }
 ul li {
   padding-left: 0;
-  list-style-type: none;
-  float: left;
+  line-height: 30px;
 }
 li > ol {
   margin-left: 1.45rem;
@@ -598,13 +597,16 @@ td:last-child {
 }
 tt,
 code {
-  background-color: hsla(0, 0%, 0%, 0.04);
+  background-color: #494949;
   border-radius: 3px;
   font-family: "SFMono-Regular", Consolas, "Roboto Mono", "Droid Sans Mono",
     "Liberation Mono", Menlo, Courier, arial, monospace;
   padding: 0;
   padding-top: 0.2em;
   padding-bottom: 0.2em;
+  padding-left: 0.3em;
+  margin-right: 0.2em;
+  color: #fff;
 }
 pre code {
   background: none;

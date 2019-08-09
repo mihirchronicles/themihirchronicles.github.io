@@ -32,7 +32,7 @@ const ProductImage = styled.div`
 `
 
 const ProductTitle = styled.h2`
-  border-bottom: 3px dotted rgb(39, 137, 229);
+  border-bottom: 3px solid rgb(39, 137, 229);
   padding-bottom: 2px;
   display: inline-block;
 `

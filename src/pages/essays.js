@@ -30,7 +30,7 @@ const IndexPage = ({ data }) => {
       <SEO title="Essays" />
       <Content>
         <h1>Essays</h1>
-        <p>The importance of writing stems from the fact that it enhances  clarity and intellect. Writing allows me to express as a person and  promotes me to pose worthwhile questions. Writing ideas down helps me preserve them so that I can reflect upon them later. <i>Upwind</i> (chasing after hard topics) and <i>Primitives</i> (foundational basics) are a huge part of my writing.</p>
+        <p>The importance of writing stems from the fact that it enhances clarity and intellect. Writing allows me to express my thoughts and helps pose worthwhile questions. Writing is an ultimate reflection of thinking and rationalize complex topics.</p>
         {data.allMarkdownRemark.edges.map(({ node }) => (
           <div key={node.id}>
             <ol>
@@ -63,7 +63,9 @@ export const query = graphql`
         title
       }
     }
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
+    allMarkdownRemark(
+      filter: { fileAbsolutePath: { regex: "/content/blog/" } }
+      sort: { fields: [frontmatter___date], order: DESC }) {
       totalCount
       edges {
         node {

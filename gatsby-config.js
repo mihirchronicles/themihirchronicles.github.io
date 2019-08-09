@@ -9,8 +9,8 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: `markdown-pages`,
-        path: `${__dirname}/src/content`,
+        name: `blog`,
+        path: `${__dirname}/src/content/blog`,
       },
     },
     {
@@ -18,6 +18,13 @@ module.exports = {
       options: {
         name: `images`,
         path: `${__dirname}/src/images`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `explore`,
+        path: `${__dirname}/src/content/explore`,
       },
     },
     `gatsby-transformer-sharp`,

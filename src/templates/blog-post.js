@@ -17,7 +17,7 @@ const MarkedHeader = styled.h1`
 const HeaderDate = styled.p`
   margin-top: 10px;
   color: #000;
-  border-bottom: 1px solid;
+  border-bottom: 1px solid #2789e5;
 `
 
 const MarkdownContent = styled.div`
