@@ -1,6 +1,6 @@
 ---
 title: Types
-date: "2018-07-01"
+date: "2019-06-01"
 path: "/explore/types"
 ---
 

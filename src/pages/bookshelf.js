@@ -8,6 +8,11 @@ const Content = styled.div`
   margin: 0 auto;
 `
 
+const Horizontal = styled.hr`
+  border: 1px solid #2789e5;
+  background-color: #3d9cdf;
+`
+
 const Description = styled.p`
   padding: 0;
   margin-bottom: 1rem;
@@ -20,6 +25,7 @@ const IndexPage = ({ data }) => {
       <Content>
       <h1>Bookshelf</h1>
       <Description>Reading is a fun way to experience life and go on an adventure! It is important to make time to read what's fairly academic and super profound. We all know money compounds, but so does knowledge. To maintain lifelong curiosity, I use multi-disciplinary approach to select wide array of books. This bookshelf represents a complete catalog of books I own and/or I have read. Reading other people's list and browsing their bookshelves is a pure joy. Drop me a note if you have a book recommendation.</Description>
+      <Horizontal/>
       <h2>2019 Summaries</h2>
         <ol>
           <li><a href="https://github.com/mihirchronicles/book-notes/blob/master/creativity-inc.markdown"><strong>Creativity Inc</strong></a></li>

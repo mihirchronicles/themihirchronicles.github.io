@@ -18,6 +18,11 @@ const ProductContainer = styled.div`
   display: block;
 `
 
+const Horizontal = styled.hr`
+  border: 1px solid #2789e5;
+  background-color: #3d9cdf;
+`
+
 const ProductContent = styled.div`
   text-align: left;
   background-color: #fff;
@@ -32,7 +37,6 @@ const ProductImage = styled.div`
 `
 
 const ProductTitle = styled.h2`
-  border-bottom: 3px solid rgb(39, 137, 229);
   padding-bottom: 2px;
   display: inline-block;
 `
@@ -54,6 +58,7 @@ const IndexPage = ({ data }) => {
       <h1>Product</h1>
       <Description>There is a pure joy in building and launching creative products. Building a product is like planting a seed while experimenting with new ideas. Visual language is a huge part of my product story telling. Following the journey of product building has allowed me to learn about various topics—design, code, user experience, writing, ethics, marketing, sales, product prototyping, engineering, manufacturing, supply chain, financing and so much more. My work is still in pogress. Below you will find my past and present product stories.</Description>
       <ProductContainer>
+        <Horizontal/>
         <ProductTitle>Wise Charlie</ProductTitle>
         <ProductImage>
           <img src={wisecharlie} alt="wisecharlie"/>
@@ -67,9 +72,9 @@ const IndexPage = ({ data }) => {
           <p><strong>Instagram</strong>: <a href="https://www.instagram.com/heywisecharlie/"><strong>@heywisecharlie</strong></a></p>
           <p><strong>Website</strong>: <a href="https://wisecharlie.com/"><strong>www.wisecharlie.com</strong></a></p>
         </ProductContent>
-        
       </ProductContainer>
       <ProductContainer>
+        <Horizontal/>
         <ProductTitle>Morningstar Design System</ProductTitle>
         <ProductContent className="test">
           <Time>[ 2018 - Current ]</Time>
@@ -78,6 +83,7 @@ const IndexPage = ({ data }) => {
         </ProductContent>
       </ProductContainer>
       <ProductContainer>
+        <Horizontal/>
         <ProductTitle>Spend Out</ProductTitle>
         <ProductContent>
           <Time>[ 2013 ]</Time>
@@ -88,6 +94,7 @@ const IndexPage = ({ data }) => {
         </ProductContent>
       </ProductContainer>
       <ProductContainer>
+        <Horizontal/>
         <ProductTitle>Humble Pen</ProductTitle>
         <ProductImage>
           <img src={humblepen1} alt="humblepen"/>

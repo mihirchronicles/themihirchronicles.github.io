@@ -10,6 +10,11 @@ const Content = styled.div`
   padding: 1.45rem 1.0875rem;
 `
 
+const Horizontal = styled.hr`
+  border: 1px solid #2789e5;
+  background-color: #3d9cdf;
+`
+
 const MarkedHeader = styled.h1`
   display: inline;
 `
@@ -17,7 +22,6 @@ const MarkedHeader = styled.h1`
 const HeaderDate = styled.p`
   margin-top: 10px;
   color: #000;
-  border-bottom: 1px solid #2789e5;
 `
 
 const MarkdownContent = styled.div`
@@ -34,6 +38,7 @@ export default ({ data }) => {
         <HeaderDate>
           {post.frontmatter.date} - {post.fields.readingTime.text}
         </HeaderDate>
+        <Horizontal/>
         <MarkdownContent dangerouslySetInnerHTML={{ __html: post.html }} />
       </Content>
     </Layout>

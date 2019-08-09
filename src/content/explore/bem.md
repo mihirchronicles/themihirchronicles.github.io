@@ -1,6 +1,6 @@
 ---
 title: BEM
-date: "2018-07-01"
+date: "2019-02-01"
 path: "/explore/bem"
 ---
 

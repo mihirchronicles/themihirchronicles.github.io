@@ -1,6 +1,6 @@
 ---
 title: Ternary Operators
-date: "2018-07-01"
+date: "2019-05-01"
 path: "/explore/ternary-operators"
 ---
 

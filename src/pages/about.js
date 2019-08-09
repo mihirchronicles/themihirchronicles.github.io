@@ -10,7 +10,8 @@ const Content = styled.div`
 `
 
 const Horizontal = styled.hr`
-  border: 2px solid #2789e5;
+  border: 1px solid #2789e5;
+  background-color: #3d9cdf;
 `
 
 const Description = styled.p`
@@ -25,7 +26,8 @@ const IndexPage = ({ data }) => {
       <Content>
       <h1>About</h1>
       <Description>Selfishly speaking, self-care is really important to me so I spend a lot of time thinking about ways to improve my health, soul, and spirit. However, this allows me to be unselfish with others due to the surplus of positive energy created by working towards the good habits (nowhere close but always trying). The misssion is to build on this positive momentum, learn, share, and explore in public. Below are some of the challenges I have taken on in the past few years, the questions I am pondering on, and the principles I try to live by.</Description>
-        <h2>Challenges</h2>
+      <Horizontal/>
+      <h2>Challenges</h2>
         <ol>
           <li><strong>2010:</strong> visit Berkshire Hathaway shareholder meeting in Nebraska to listen to Warren Buffett and Charlie Munger.</li>
           <li><strong>2012:</strong> visit Haiti and learn about education and school systems. Recap <a href="https://vimeo.com/80200375">here</a>.</li>
@@ -62,85 +64,6 @@ const IndexPage = ({ data }) => {
           <li><strong>Optimism and Positivity:</strong> be realist but optimistic and make wise choices. Your decisions will define your process and path, so choose wisely. Asking a question in a positive manner generates a better response. Example: "'Preacher, preacher can I smoke while I'm praying?' Answer: no. 'Preacher, preacher can I pray whilst I'm smoking?' Answer: Of course you can." Positive thinking is an incredibly powerful tool. Positive, proactive behavior spurs positive, proactive behavior. The pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty. Positive people don't just have a good day; they make it a good day. People who think positively usually see endless possibilities. Success doesn't create optimism but optimism leads to progress. Do not compare yourself with others and neither judge them. Cut negative people and negative energy out instantly.</li>
           <li><strong>Frugality:</strong> consume to meet the basic needs, waste nothing and be content with what you have. But don’t make mistake frugality with letting go of your youth and having fun. Both fun and frugality can co-exist. People who live far below their means enjoy a freedom that people busy upgrading their lifestyles can’t fathom.</li>
           <li><strong>Perseverance:</strong> stubbornness means being persistent. Don't give up or complain if something is not working out. Results are always on the opposite side of giving up. Being vulnerable is part of the process. In failing, there is humility. Accept any obstacles in your way and overcome it. While obstacles persist, don't lose your cool. Be calm and solve problems rationally to overcome them. When in an unproductive state, start with a small win. Momentum in everyday life is highly underrated. Its all about effort. Reflect back when you fail to analyze symptoms from the disease. Enduring pain will help you take larger challenges and help you grow. If you have big goals, you will also fall hard but that is okay! It is part of the process. Struggling to get them will help you evolve. Courage (risk-taking) is the highest virtue. The journey of discovery is often tedious, filled with dead ends, and above all random but persistence through randomness will always prevail. Grit comes from learning you can get back up after you get knocked down.</li>
-        </ol>
-        <Horizontal/>
-        <h1>Interesting People, Blogs & Articles</h1>
-        <Description>Last section is all about people I find interesting and some individual pieces I keep coming back to. “If I have seen further it is by standing on the shoulders of giants.” - Isaac Newton. The only way to climb the hierarchy of rational thinking is to stand on giant shoulders and learn from others. I widen my ears and illuminate my focal point when they have something to say.</Description>
-        <ol>
-          <h2>Shareholder Letters</h2>
-          <li><a href="http://www.berkshirehathaway.com/">Warren Buffett</a></li>
-          <li><a href="https://www.jpmorganchase.com/corporate/investor-relations/annual-report-proxy.htm">Jamie Dimon</a></li>
-          <li><a href="https://www.oaktreecapital.com/insights/howard-marks-memos">Howard Marks</a></li>
-          <li><a href="https://www.blackrock.com/corporate/investor-relations/larry-fink-chairmans-letter">Larry Fink</a></li>
-          <li><a href="http://1icz9g2sdfe31jz0lglwdu48.wpengine.netdna-cdn.com/wp-content/uploads/2012/09/Seth-Klarman-Baupost-Group-Letters.pdf">Seth Klarman</a></li>
-          <li><a href="https://ir.aboutamazon.com/annual-reports">Jeff Bezos</a></li>
-          <li><a href="https://www.csisoftware.com/category/pres-letters/">Mark Leonard</a></li>
-          <li><a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=77768">Clifford Asness</a></li>
-          <li><a href="https://www.socialcapital.com/annual-letters/">Chamath Palihapitiya</a></li>
-          <li><a href="https://www.adventur.es/annual-letters/">Brent Beshore</a></li>
-          <h2>Valuation & Investing</h2>
-          <li><a href="https://aswathdamodaran.blogspot.com/">Aswath Damodaran</a></li>
-          <li><a href="http://michaelmauboussin.com/">Michael J. Mauboussin</a></li>
-          <li><a href="https://www.collaborativefund.com/blog/authors/morgan/">Morgan Housel</a></li>
-          <li><a href="http://jasonzweig.com/">Jason Zweig</a></li>
-          <li><a href="https://25iq.com/">Tren Griffin</a></li>
-          <li><a href="https://stratechery.com/">Ben Thompson</a></li>
-          <li><a href="http://investorfieldguide.com/">Patrick O’Shaughnessy</a></li>
-          <li><a href="http://abovethecrowd.com/">Bill Gurley</a></li>
-          <li><a href="http://www.philosophicaleconomics.com/">Jessie Livermore (anonymous)</a></li>
-          <li><a href="https://www.fooledbyrandomness.com/">Nassim Taleb</a></li>
-          <li><a href="http://www.econtalk.org/">Russell Roberts</a></li>
-          <h2>Broad Thinkers</h2>
-          <li><a href="http://paulgraham.com/articles.html">Paul Graham</a></li>
-          <li><a href="https://www.eugenewei.com/">Eugene Wei</a></li>
-          <li><a href="http://reactionwheel.net/">Jerry Newmann</a></li>
-          <li><a href="http://cdixon.org/">Chris Dixon</a></li>
-          <li><a href="https://patrickcollison.com/">Patrick Collison</a></li>
-          <li><a href="https://www.gwern.net/">Gwern Branwen</a></li>
-          <li><a href="https://meltingasphalt.com/">Kevin Simler</a></li>
-          <li><a href="https://www.kalzumeus.com/">Patrick McKenzie</a></li>
-          <li><a href="https://www.perell.com/">David Perell</a></li>
-          <h2>Code</h2>
-          <li><a href="https://twitter.com/mbostock">Mike Bostock</a></li>
-          <li><a href="https://twitter.com/NadiehBremer">Nadieh Bremer</a></li>
-          <li><a href="https://twitter.com/chriscoyier">Chris Coyier</a></li>
-          <li><a href="https://www.andrewng.org/">Andrew Ng</a></li>
-          <li><a href="http://gregbrockman.com/">Greg Brockman</a></li>
-          <li><a href="http://worrydream.com/">Bret Victr</a></li>
-          <li><a href="https://blog.codinghorror.com/">Jeff Atwood</a></li>          
-          <h2>Product</h2>
-          <li><a href="http://juliezhuo.com/">Julie Zhuo</a></li>
-          <li><a href="https://eightshapes.com/nathan-curtis.html">Nathan Curtis</a></li>
-          <li><a href="https://designcode.io">Meng To</a></li>
-          <li><a href="https://www.indiehackers.com/">Courtland Allen</a></li>
-          <li><a href="https://twitter.com/pablostanley">Pablo Stanley</a></li>          
-          <h2>Humanities, Art & Literature</h2>
-          <li><a href="https://slatestarcodex.com/about/">Scott Alexander</a></li>
-          <li><a href="http://swiss-miss.com">Tina Roth Eisenberg</a></li>
-          <li><a href="https://www.brainpickings.org/">Maria Popova</a></li>
-          <li><a href="https://www.oliverjeffers.com/">Oliver Jeffers</a></li>
-          <li><a href="https://boydvarty.com/">Boyd Varty</a></li>
-          <li><a href="http://blas.com">Blas Moros</a></li>
-          <li><a href="https://fs.blog/">Shane Parrish</a></li>
-          <h2>Science</h2>
-          <li><a href="http://siddharthamukherjee.com/">Siddhartha Mukherjee</a></li>
-          <li><a href="https://www.microsoft.com/en-us/research/project/tuva-richard-feynman/">Richard Feynman</a></li>
-        </ol>
-        <h2>Individual Pieces</h2>
-        <ol>
-          <li><a href="https://www.vulture.com/2018/11/jerry-saltz-how-to-be-an-artist.html">How to be an artist</a></li>
-          <li><a href="http://blog.samaltman.com/productivity">Productivity</a></li>
-          <li><a href="https://meaningness.com/geeks-mops-sociopaths">Geeks, mops and sociopaths</a></li>
-          <li><a href="https://www.edge.org/conversation/yuval_noah_harari-daniel_kahneman-death-is-optional">Death is optional</a></li>
-          <li><a href="https://jseliger.files.wordpress.com/2012/04/how-to-think-about-science-pdf.pdf">How to think about science</a></li>
-          <li><a href="https://www.newyorker.com/magazine/2009/06/01/the-cost-conundrum">The cost conundrum</a></li>
-          <li><a href="https://kk.org/thetechnium/1000-true-fans/">1000 true fans</a></li>
-          <li><a href="http://www.issendai.com/psychology/sick-systems.html">Sick systems</a></li>
-          <li><a href="http://augmentingcognition.com/ltm.html">LTM</a></li>
-          <li><a href="https://jamesclear.com/luck-vs-hard-work">Luck vs hard work</a></li>
-          <li><a href="http://blakemasters.com/peter-thiels-cs183-startup">Peter Thiel cs183 essays</a></li>
-          <li><a href="https://theamericanscholar.org/solitude-and-leadership/#.XTSUg5NKifX">Solitude and leadership</a></li>
-          <li><a href="https://www.albertbridgecapital.com/drew-views/2019/6/17/stay-in-the-game">Stay in the game</a></li>
         </ol>
       </Content>
     </Layout>

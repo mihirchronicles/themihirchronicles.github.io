@@ -10,6 +10,11 @@ const Content = styled.div`
   margin: 0 auto;
 `
 
+const Horizontal = styled.hr`
+  border: 1px solid #2789e5;
+  background-color: #3d9cdf;
+`
+
 const MarkerHeader = styled.p`
   display: inline;
 `
@@ -31,6 +36,7 @@ const IndexPage = ({ data }) => {
       <Content>
         <h1>Essays</h1>
         <p>The importance of writing stems from the fact that it enhances clarity and intellect. Writing allows me to express my thoughts and helps pose worthwhile questions. Writing is an ultimate reflection of thinking and rationalize complex topics.</p>
+        <Horizontal/>
         {data.allMarkdownRemark.edges.map(({ node }) => (
           <div key={node.id}>
             <ol>
