@@ -7,7 +7,6 @@ import SEO from "../components/seo"
 
 const Content = styled.div`
   margin: 0 auto;
-  padding-bottom: 40px;
 `
 
 const ContentPost = styled.p`
@@ -37,9 +36,11 @@ const IndexPage = ({ data }) => {
         {data.allMarkdownRemark.edges.map(({ node }) => (
           <div key={node.id}>
           <Horizontal/>
-          <h2>{node.frontmatter.title} </h2>
-          <ReadingDateTime>({node.frontmatter.date})</ReadingDateTime>
-          <ContentPost dangerouslySetInnerHTML={{ __html: node.html }} />
+          <ContentPost>
+            <h2>{node.frontmatter.title} </h2>
+            <ReadingDateTime>({node.frontmatter.date})</ReadingDateTime>
+            <Content dangerouslySetInnerHTML={{ __html: node.html }} />
+          </ContentPost>
           </div>
         ))}
       </Content>

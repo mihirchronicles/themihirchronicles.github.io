@@ -12,26 +12,28 @@ import wisecharlie1 from "../images/wise_charlie1.png"
 
 const Content = styled.div`
   margin: 0 auto;
+  padding-bottom: 20px;
 `
 
 const ProductContainer = styled.div`
   display: block;
+  background-color: #f7f4f4;
+  padding: 15px;
+  border-radius: 5px;
 `
 
 const Horizontal = styled.hr`
+  margin-top: 20px;
   border: 1px solid #2789e5;
   background-color: #3d9cdf;
 `
 
 const ProductContent = styled.div`
   text-align: left;
-  background-color: #fff;
   border-radius: 3px;
-  margin-bottom: 20px;
 `
 const ProductImage = styled.div`
   max-width: 100%;
-  background-color: #fff;
   border-radius: 3px;
   vertical-align: top;
 `
@@ -57,8 +59,8 @@ const IndexPage = ({ data }) => {
       <Content>
       <h1>Product</h1>
       <Description>There is a pure joy in building and launching creative products. Building a product is like planting a seed while experimenting with new ideas. Visual language is a huge part of my product story telling. Following the journey of product building has allowed me to learn about various topics—design, code, user experience, writing, ethics, marketing, sales, product prototyping, engineering, manufacturing, supply chain, financing and so much more. My work is still in pogress. Below you will find my past and present product stories.</Description>
+      <Horizontal/>
       <ProductContainer>
-        <Horizontal/>
         <ProductTitle>Wise Charlie</ProductTitle>
         <ProductImage>
           <img src={wisecharlie} alt="wisecharlie"/>
@@ -73,8 +75,8 @@ const IndexPage = ({ data }) => {
           <p><strong>Website</strong>: <a href="https://wisecharlie.com/"><strong>www.wisecharlie.com</strong></a></p>
         </ProductContent>
       </ProductContainer>
+      <Horizontal/>
       <ProductContainer>
-        <Horizontal/>
         <ProductTitle>Morningstar Design System</ProductTitle>
         <ProductContent className="test">
           <Time>[ 2018 - Current ]</Time>
@@ -82,8 +84,8 @@ const IndexPage = ({ data }) => {
           <p><strong>Website</strong>: <a href="http://designsystem.morningstar.com/"><strong>http://designsystem.morningstar.com/</strong></a></p>
         </ProductContent>
       </ProductContainer>
+      <Horizontal/>
       <ProductContainer>
-        <Horizontal/>
         <ProductTitle>Spend Out</ProductTitle>
         <ProductContent>
           <Time>[ 2013 ]</Time>
@@ -93,8 +95,8 @@ const IndexPage = ({ data }) => {
           <p><strong>Media</strong>: <a href="http://www.chicagotribune.com/bluesky/originals/81828315-132.html">Chicago Tribune Coverage</a></p>
         </ProductContent>
       </ProductContainer>
+      <Horizontal/>
       <ProductContainer>
-        <Horizontal/>
         <ProductTitle>Humble Pen</ProductTitle>
         <ProductImage>
           <img src={humblepen1} alt="humblepen"/>
