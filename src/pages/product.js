@@ -12,18 +12,17 @@ import wisecharlie1 from "../images/wise_charlie1.png"
 
 const Content = styled.div`
   margin: 0 auto;
-  padding-bottom: 20px;
 `
 
 const ProductContainer = styled.div`
   display: block;
-  background-color: #f7f4f4;
-  padding: 15px;
+  background-color: #e7e7e7;
+  padding: 15px 15px 5px 15px;
+  margin-bottom: 20px;
   border-radius: 5px;
 `
 
 const Horizontal = styled.hr`
-  margin-top: 20px;
   border: 1px solid #2789e5;
   background-color: #3d9cdf;
 `
@@ -47,18 +46,13 @@ const Time = styled.p`
   font-weight: bold;
 `
 
-const Description = styled.p`
-  padding: 0;
-  margin-bottom: 1rem;
-`
-
 const IndexPage = ({ data }) => {
   return (
     <Layout>
       <SEO title="Product" />
       <Content>
       <h1>Product</h1>
-      <Description>There is a pure joy in building and launching creative products. Building a product is like planting a seed while experimenting with new ideas. Visual language is a huge part of my product story telling. Following the journey of product building has allowed me to learn about various topics—design, code, user experience, writing, ethics, marketing, sales, product prototyping, engineering, manufacturing, supply chain, financing and so much more. My work is still in pogress. Below you will find my past and present product stories.</Description>
+      <p>There is a pure joy in building and launching creative products. Building a product is like planting a seed while experimenting with new ideas. Visual language is a huge part of my product story telling. Following the journey of product building has allowed me to learn about various topics—design, code, user experience, writing, ethics, marketing, sales, product prototyping, engineering, manufacturing, supply chain, financing and so much more. My work is still in pogress. Below you will find my past and present product stories.</p>
       <Horizontal/>
       <ProductContainer>
         <ProductTitle>Wise Charlie</ProductTitle>

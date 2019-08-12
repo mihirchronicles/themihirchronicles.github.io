@@ -25,10 +25,6 @@ const ReadingDateTime = styled.p`
   font-size: 11px;
 `
 
-// const ReadMore = styled.span`
-//   color: #3d9cdf;
-// `
-
 const IndexPage = ({ data }) => {
   return (
     <Layout>

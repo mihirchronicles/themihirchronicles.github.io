@@ -9,9 +9,10 @@ const Content = styled.div`
   margin: 0 auto;
 `
 
-const ContentPost = styled.p`
-  background-color: #f7f4f4;
-  padding: 15px;
+const PostContainter = styled.div`
+  background-color: #e7e7e7;
+  padding: 15px 15px 5px 15px;
+  margin-bottom: 20px;
   border-radius: 5px;
 `
 
@@ -32,15 +33,15 @@ const IndexPage = ({ data }) => {
       <SEO title="Explore" />
       <Content>
         <h1>Explore</h1>
-        <p>My goal is to learn in bit size and document things for myself, and share with others. Unlike essays with deep analysis, this is a quick exploration and exit. The goal is to go on an adventure, follow a trail and exit. Below are the people, articles and topics I have explored.</p>
+        <p>My goal is to learn in bit sizes, document things for myself, and share with others. Unlike essays with deep analysis, this is a quick exploration and exit. The goal is to go on an adventure, follow a lead on the trail, get lost and find the trail back again, and exit. Below are the people (analogous to giant shoulders), articles and topics I have explored.</p>
         {data.allMarkdownRemark.edges.map(({ node }) => (
           <div key={node.id}>
           <Horizontal/>
-          <ContentPost>
+          <PostContainter>
             <h2>{node.frontmatter.title} </h2>
             <ReadingDateTime>({node.frontmatter.date})</ReadingDateTime>
             <Content dangerouslySetInnerHTML={{ __html: node.html }} />
-          </ContentPost>
+          </PostContainter>
           </div>
         ))}
       </Content>

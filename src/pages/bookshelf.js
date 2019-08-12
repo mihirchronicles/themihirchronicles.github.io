@@ -13,18 +13,13 @@ const Horizontal = styled.hr`
   background-color: #3d9cdf;
 `
 
-const Description = styled.p`
-  padding: 0;
-  margin-bottom: 1rem;
-`
-
 const IndexPage = ({ data }) => {
   return (
     <Layout>
       <SEO title="Books" />
       <Content>
       <h1>Bookshelf</h1>
-      <Description>Reading is a fun way to experience life and go on an adventure! It is important to make time to read what's fairly academic and super profound. We all know money compounds, but so does knowledge. To maintain lifelong curiosity, I use multi-disciplinary approach to select wide array of books. This bookshelf represents a complete catalog of books I own and/or I have read. Reading other people's list and browsing their bookshelves is a pure joy. Drop me a note if you have a book recommendation.</Description>
+      <p>Reading is a fun way to experience life and go on an adventure! It is important to make time to read what's fairly academic and super profound. We all know money compounds, but so does knowledge. To maintain lifelong curiosity, I use multi-disciplinary approach to select wide array of books. This bookshelf represents a complete catalog of books I own and/or I have read. Reading other people's list and browsing their bookshelves is a pure joy. Drop me a note if you have a book recommendation.</p>
       <Horizontal/>
       <h2>2019 Summaries</h2>
         <ol>
