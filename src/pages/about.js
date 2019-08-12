@@ -5,6 +5,44 @@ import styled from "@emotion/styled"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
+import mehere from '../images/mehere.png'
+
+const About = styled.div`
+  width: 100%;
+  :after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+`
+
+const AboutContent = styled.div`
+  width: 100%;
+
+  @media screen and (max-width: 600px) {
+    {
+      width: 100%;
+    }
+  }
+`
+
+const Logo = styled.img`
+  float: left;
+  width: 200px;
+  height: 300px;
+  margin-bottom: 5px;
+  background-color: #e7e7e7;
+  padding: 15px 15px 15px 15px;
+  border-radius: 5px;
+  margin-right: 30px;
+
+  @media screen and (max-width: 600px) {
+    {
+      width: 100%;
+    }
+  }
+`
+
 const Content = styled.div`
   margin: 0 auto;
 `
@@ -20,10 +58,16 @@ const IndexPage = ({ data }) => {
       <SEO title="About" />
       <Content>
       <h1>About</h1>
-      <p>Exploration has always been dear to my heart. I do not use the term "exploration" loosely. If you look at the challenges below, I have always put a huge emphasis on exploring and following my own curiosity. And I hope that does not change as I get older. I am using this blog as a platform to learn openly in public and share those gems with others as I find them interesting. Learning is one thing, but teaching is another. The latter is much harder to strive for because you have to put your demons like ego and selfish acts to rest.</p>
-      <p>The game of investing in markets is always fun. There is no better way to learn about real world than throwing yourself out there. I purchased my first stock at the age of 17, which also happend to be right before the 2008 recession. In a few months, I lost all my savigns that I accumulated from my summer jobs. This is when understanding the psychology of markets became fascinating to me. In the end, markets are people, corporations, government and everything else in between. If you understand markets, you understand people, and vice-versa.</p>
-      <p>The game of creation is another one. There is something beautiful about bringing abstraction to life. If I wouldn't have studied finance and accounting, I would have gone to design or engineering school. I built my first product after graduating from college. By no means was it rocket science - it was a simple pen packaged beautifully. But the ability to bring the vision to life and sharing with others was fulfilling. Soon after that, I learned how to write code. Now I will jump onto anything that helps me create. My motto has become something like “don't complain, create.”</p>
-      <p>Lastly, the game of finding harmony with your soul. I truly cherish immersing into different cultures, being out in the woods, hiking trails, climbing mountains, gazing at stars, reading in solitude, teaching kids about life and creating things. When I pursue these things, I am in my truest element. There is no pain and more importantly my soul is most alive! All these things help me build surplus of positive energy. All I am striving for is to keep building on this momentum. Ralph Waldo Emerson said it best about leadership and friendship, <strong><i>“He who should inspire and lead his race must be defended from travelling with the souls of other men, from living, breathing, reading, and writing in the daily, time-worn yoke of their opinions. The soul environs itself with friends, that it may enter into a grander self-acquaintance or solitude.”</i></strong></p>
+      <About>
+        <Logo src={mehere} alt="MihirChronicles"/>
+        <AboutContent>
+          <p>Exploration has always been dear to my heart. I do not use the term "exploration" loosely. If you look at the challenges below, I have always put a huge emphasis on exploring and following my own curiosity. And I hope that does not change as I get older. I am using this blog as a platform to learn openly in public and share those gems with others as I find them interesting. Learning is one thing, but teaching is another. The latter is much harder to strive for because you have to put your demons like ego and selfish acts to rest.</p>
+          <p>The game of investing in markets is always fun. There is no better way to learn about real world than throwing yourself out there. I purchased my first stock at the age of 17, which also happend to be right before the 2008 recession. In a few months, I lost all of my savings that I accumulated from my summer jobs. This is when understanding the psychology of markets became fascinating to me. In the end, markets are people, corporations, government and everything else in between. If you understand markets, you understand people, and vice-versa.</p>
+          <p>The game of creation is another one. There is something beautiful about bringing abstraction to life. If I wouldn't have studied finance and accounting, I would have gone to design or engineering school. I built my first product after graduating from college. By no means was it rocket science - it was a simple pen packaged beautifully. But the ability to bring the vision to life and sharing with others was fulfilling. Soon after that, I learned how to write code. Now I will jump onto anything that helps me create. My motto has become something like “don't complain, create.”</p>
+          <p>Lastly, the game of finding harmony with your soul. I truly cherish immersing into different cultures, being out in the woods, hiking trails, climbing mountains, gazing at stars, reading in solitude, teaching kids about life and creating things. When I pursue these things, I am in my truest element. There is no pain and more importantly my soul is most alive! All these things help me build surplus of positive energy. All I am striving for is to keep building on this momentum.</p>  
+          <p><strong><i>Ralph Waldo Emerson said it best about leadership and friendship, “He who should inspire and lead his race must be defended from travelling with the souls of other men, from living, breathing, reading, and writing in the daily, time-worn yoke of their opinions. The soul environs itself with friends, that it may enter into a grander self-acquaintance or solitude.”</i></strong></p>
+        </AboutContent>
+      </About>
       <Horizontal/>
       <h2>Challenges</h2>
         <ol>

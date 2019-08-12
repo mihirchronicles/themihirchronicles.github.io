@@ -40,6 +40,7 @@ const NameHeader = styled.h1`
 const Cheers = styled.h3`
   margin-bottom: 10px;
 `
+
 const Button = styled.button`
   color: #ffffff;
   background: #2789e5;
@@ -57,7 +58,7 @@ const Button = styled.button`
 
   :hover {
     cursor: pointer;
-    background: #494949;
+    background: #373737;
     border: #3d9cdf;
   }
 

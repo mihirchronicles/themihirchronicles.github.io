@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Reenie+Beanie');
 
 code {
-  background-color:#494949;
+  background-color:#373737;
 }
 
 * {
@@ -61,7 +61,7 @@ a {
 }
 a:active,
 a:hover {
-  color: #494949;
+  color: #373737;
   outline-width: 0;
 }
 abbr[title] {
@@ -215,7 +215,7 @@ html {
   box-sizing: inherit;
 }
 body {
-  color: #494949;
+  color: #373737;
   font-weight: normal;
   word-wrap: break-word;
   font-kerning: normal;
@@ -598,7 +598,7 @@ td:last-child {
 }
 tt,
 code {
-  background-color: #494949;
+  background-color: #373737;
   border-radius: 3px;
   font-family: "SFMono-Regular", Consolas, "Roboto Mono", "Droid Sans Mono",
     "Liberation Mono", Menlo, Courier, arial, monospace;
