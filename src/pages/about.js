@@ -28,7 +28,7 @@ const AboutContent = styled.div`
 
 const Logo = styled.img`
   float: left;
-  width: 200px;
+  width: 230px;
   height: 300px;
   margin-bottom: 5px;
   background-color: #e7e7e7;
@@ -39,6 +39,7 @@ const Logo = styled.img`
   @media screen and (max-width: 600px) {
     {
       width: 100%;
+      height: 400px;
     }
   }
 `
