@@ -4,16 +4,15 @@ date: "2019-08-08"
 path: "/explore/articles"
 ---
 
-- [How to be an artist](https://www.vulture.com/2018/11/jerry-saltz-how-to-be-an-artist.html)
-- [Productivity](http://blog.samaltman.com/productivity)
-- [Geeks, mops and sociopaths](https://meaningness.com/geeks-mops-sociopaths)
-- [Death is optional](https://www.edge.org/conversation/yuval_noah_harari-daniel_kahneman-death-is-optional)
-- [How to think about science](https://jseliger.files.wordpress.com/2012/04/how-to-think-about-science-pdf.pdf)
-- [The cost conundrum](https://www.newyorker.com/magazine/2009/06/01/the-cost-conundrum)
-- [1000 true fans](https://kk.org/thetechnium/1000-true-fans/)
-- [Sick systems](http://www.issendai.com/psychology/sick-systems.html)
-- [LTM](http://augmentingcognition.com/ltm.html)
-- [Luck vs hard work](https://jamesclear.com/luck-vs-hard-work)
-- [Peter Thiel cs183 essays](http://blakemasters.com/peter-thiels-cs183-startup)
-- [Solitude and leadership](https://theamericanscholar.org/solitude-and-leadership/#.XU5OtJNKifU)
-- [Stay in the game](https://www.albertbridgecapital.com/drew-views/2019/6/17/stay-in-the-game)
+- [How to be an artist](https://www.vulture.com/2018/11/jerry-saltz-how-to-be-an-artist.html): Jerry Saltz is a Pulitzer prize winner for art critcism. Here he shares his thoughts on creativity and how to be an artist.
+- [Productivity](http://blog.samaltman.com/productivity): Sam Altman shares his thoughts on optimizing productivity. What hit home for me was just like how money compounds, making incremental productivity hacks can also compound. Sleep was a big one! I no longer preach "sleep when I die" attitude. It is actually completely opposite today. If I don't get enough sleep, my body really feels the pain.
+- [Geeks, mops and sociopaths](https://meaningness.com/geeks-mops-sociopaths): this one was fascinating about how things take off and the role geeks, mops and sociopaths play a role. This can be applied to so many things, especially the bitcoin.
+- [Death is optional](https://www.edge.org/conversation/yuval_noah_harari-daniel_kahneman-death-is-optional): I am a huge fan of Yuval and his work on Homo Sapiens. And there is no one better other than Daniel Kahneman to lead the discussion on access to medicine and how society will play a role. Sad to say, it does not surprise me there will be inequality in health care just how we are facing income inequality today.
+- [The cost conundrum](https://www.newyorker.com/magazine/2009/06/01/the-cost-conundrum): Atul Gawande does an exceptional job explaining how healthcare cost varies in two seprate towns in Texas for the same treatment. A long but worth the read to understand the industry.
+- [1000 true fans](https://kk.org/thetechnium/1000-true-fans/): no more chasing millions and 20x growth rate because a creator's job is to find the true fans. Let's start with finding 1000 true fans.
+- [Sick systems](http://www.issendai.com/psychology/sick-systems.html): this is deep and I still haven't had a chance to fully analyze this piece. But there is so much validity to how system of keeping someone forever works in professional world.
+- [LTM](http://augmentingcognition.com/ltm.html): I have a personal fascination with long term memory and I still haven't crack the code but I am a huge believer in space repition and its benefits. Michael Nielsen does a great job covering space repition techniques using the tool called Anki.
+- [Luck vs hard work](https://jamesclear.com/luck-vs-hard-work): can't get any simpler than the title itself. A great piece on luck vs hard work.
+- [Peter Thiel cs183 essays](http://blakemasters.com/peter-thiels-cs183-startup): Peter Thiel is one of the most outcry and an independent thinker. These notes capture his wisdom he shared during one of the CS183 lecture on startups. 
+- [Solitude and leadership](https://theamericanscholar.org/solitude-and-leadership/#.XU5OtJNKifU): leadership is solitude and solitude is leadership. Be able to think for yourself is one of the most underrated skill. This is how leaders our born!
+- [Stay in the game](https://www.albertbridgecapital.com/drew-views/2019/6/17/stay-in-the-game): this one is emotional and hit home for me. We all have demons but Max had demons which were beyond his control. He stayed in the game and kept battling. A must read!
