@@ -27,6 +27,13 @@ module.exports = {
         path: `${__dirname}/src/content/explore`,
       },
     },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `bookshelf`,
+        path: `${__dirname}/src/content/bookshelf`,
+      },
+    },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     `gatsby-plugin-emotion`,

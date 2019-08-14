@@ -1,4 +1,6 @@
 import React from "react"
+import { Link, graphql } from "gatsby"
+import { css } from "@emotion/core"
 import styled from "@emotion/styled"
 
 import Layout from "../components/layout"
@@ -13,26 +15,44 @@ const Horizontal = styled.hr`
   background-color: #3d9cdf;
 `
 
+const MarkerHeader = styled.p`
+  display: inline;
+`
+
+const ReadingDateTime = styled.p`
+  display: inline;
+  color: #000;
+  font-size: 11px;
+`
+
 const IndexPage = ({ data }) => {
   return (
     <Layout>
       <SEO title="Books" />
       <Content>
-      <h1>Bookshelf</h1>
-      <p>Reading is a fun way to experience life and go on an adventure! It is important to make time to read what's fairly academic and super profound. We all know money compounds, but so does knowledge. To maintain lifelong curiosity, I use multi-disciplinary approach to select wide array of books. This bookshelf represents a complete catalog of books I own and/or I have read. Reading other people's list and browsing their bookshelves is a pure joy. Drop me a note if you have a book recommendation.</p>
-      <Horizontal/>
-      <h2>2019 Summaries</h2>
-        <ol>
-          <li><a href="https://github.com/mihirchronicles/book-notes/blob/master/creativity-inc.markdown"><strong>Creativity Inc</strong></a></li>
-        </ol>
-        <h2>2018 Summaries</h2>
-        <ol>
-          <li><a href="https://github.com/mihirchronicles/book-notes/blob/master/shoe-dog.markdown"><strong>Shoe Dog</strong></a></li>
-          <li><a href="https://github.com/mihirchronicles/book-notes/blob/master/seven-brief-lessons-on-physics.markdown"><strong>Seven Brief Lessons on Physics</strong></a></li>
-          <li><a href="https://github.com/mihirchronicles/book-notes/blob/master/sapiens-a-brief-history-of-humankind.markdown"><strong>Sapiens: A Brief History of Humankind</strong></a></li>
-          <li><a href="https://github.com/mihirchronicles/book-notes/blob/master/deep-work.markdown"><strong>Deep Work</strong></a></li>
-        </ol>
-      <h2>No Summaries</h2>
+        <h1>Bookshelf</h1>
+        <p>Reading is a fun way to experience life and go on an adventure! It is important to make time to read what's fairly academic and super profound. We all know money compounds, but so does knowledge. To maintain lifelong curiosity, I use multi-disciplinary approach to select wide array of books. This bookshelf represents a complete catalog of books I own and/or I have read. Reading other people's list and browsing their bookshelves is a pure joy. Drop me a note if you have a book recommendation.</p>
+        <Horizontal/>
+        <h2>Summaries</h2>
+        {data.allMarkdownRemark.edges.map(({ node }) => (
+          <div key={node.id}>
+            <ol>
+              <li>
+                <Link
+                to={node.frontmatter.path}
+                css={css`
+                  text-decoration: none;
+                  color: #3d9cdf;
+                `}
+                >
+                  <MarkerHeader>{node.frontmatter.title} </MarkerHeader>
+                </Link>
+                <ReadingDateTime>| {node.fields.readingTime.text} ({node.frontmatter.date})</ReadingDateTime>
+              </li>
+            </ol>
+          </div>
+        ))}
+        <h2>No Summaries</h2>
         <ol>
           <li>I Contain Multitudes: The Microbes Within Us and a Grander View of Life</li>
           <li>The Better Angels of Our Nature: Why Violence Has Declined</li>
@@ -194,6 +214,28 @@ export const query = graphql`
     site {
       siteMetadata {
         title
+      }
+    }
+    allMarkdownRemark(
+      filter: { fileAbsolutePath: { regex: "/content/bookshelf/" } }
+      sort: { fields: [frontmatter___date], order: DESC }) {
+      totalCount
+      edges {
+        node {
+          id
+          frontmatter {
+            title
+            date(formatString: "DD MMMM, YYYY")
+            path
+          }
+          fields {
+            slug
+            readingTime {
+              text
+            }
+          }
+          excerpt
+        }
       }
     }
   }

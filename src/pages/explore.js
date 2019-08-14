@@ -38,7 +38,7 @@ const IndexPage = ({ data }) => {
           <div key={node.id}>
           <Horizontal/>
           <PostContainter>
-            <h2>{node.frontmatter.title} </h2>
+            <h2>{node.frontmatter.title}</h2>
             <ReadingDateTime>({node.frontmatter.date})</ReadingDateTime>
             <Content dangerouslySetInnerHTML={{ __html: node.html }} />
           </PostContainter>
