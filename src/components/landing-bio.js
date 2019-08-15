@@ -13,11 +13,17 @@ const Container = styled.div`
   overflow-x:hidden;
   overflow-y:auto;
   position: absolute;
-  padding: 0 1.0875rem 1rem;
+  padding-left: 15px;
   left: 0;
   right: 0;
   -ms-overflow-style: none;  /*  IE 10+ */ 
   overflow: -moz-scrollbars-none;  /*  Firefox */
+
+  @media screen and (max-width: 600px) {
+    {
+      height: 65%;
+    }
+  }
 `
 
 const OuterContainer = styled.div`
@@ -62,6 +68,12 @@ const Button = styled.button`
     border: #3d9cdf;
   }
 
+  @media screen and (max-width: 600px) {
+    {
+      display: none;
+    }
+  }
+
 `
 
 const ButtonLink = styled.a`
@@ -87,8 +99,7 @@ const LandingBio = () => (
             <Description>Building products at <a href="http://www.morningstar.com/">Morningstar </a>and <a href="https://wisecharlie.com/">Wise Charlie</a>. Curious about investment analysis. Fond of art, history, hiking & telescopes.</Description>
             <Description>Book nerd <FontAwesomeIcon icon="book"/>. Enjoy building things <FontAwesomeIcon icon="brush"/>. Process itself is the goal <FontAwesomeIcon icon="cogs"/>.</Description>
             <Cheers>- To Adventures & Fellowship!</Cheers>
-            <ButtonLink href="/about"><Button type="text">More!</Button></ButtonLink>
-            
+            <ButtonLink href="/about"><Button type="text">More!</Button></ButtonLink> 
         </Container>
       </OuterContainer>
     )}

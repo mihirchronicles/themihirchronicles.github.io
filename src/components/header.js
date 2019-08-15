@@ -9,19 +9,25 @@ const Logo = styled.img`
   width: 38px;
   height: 32px;
   margin-bottom: 5px;
+  margin-left: 10px;
 `
 
 const Content = styled.div`
-	margin: 0 auto;
 	text-align: justify;
 	height: 10%;
-	width: 95%;
+  width: 96%;
   padding-top: 25px;
   font-size: 12px;
+
+  @media screen and (max-width: 600px) {
+    {
+      padding-top: 5px;
+    }
+  }
 `
 
 const NavLink = styled(Link)`
-  margin-left: 15px;
+  margin-left: 12px;
   margin-top: 5px;
   display: inline-block;
   position: relative;

@@ -25,7 +25,7 @@ const Content = styled.div`
   margin: 0 auto;
   margin-top: 10px;
   width: 95%;
-  padding: 0 1.0875rem 1rem;
+  padding: 0 5px 0 5px;
 `
 
 const Layout = ({ children }) => (
