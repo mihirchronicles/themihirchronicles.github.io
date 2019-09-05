@@ -1,6 +1,5 @@
 ---
 title: Articles
-date: "2019-08-08"
 path: "/explore/articles"
 ---
 

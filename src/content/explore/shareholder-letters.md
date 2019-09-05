@@ -1,6 +1,5 @@
 ---
 title: Shareholder Letters
-date: "2019-08-08"
 path: "/explore/shareholder-letters"
 ---
 

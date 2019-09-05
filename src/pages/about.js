@@ -77,6 +77,7 @@ const IndexPage = ({ data }) => {
           <li><strong>2013:</strong> travel with a one-way ticket for a backpacking trip in India. Recap <a href="https://www.youtube.com/watch?v=qUGvvCtpIaY">here</a>.</li>
           <li><strong>2014:</strong> launch and build a physical product. See the project <a href="https://www.instagram.com/humblepen/">here</a>.</li>
           <li><strong>2016:</strong> move somewhere where there is no family or friends to learn to write code and spend time in the mountains in solitude. Ended up in Utah for 9 months.</li>
+          <li><strong>2017:</strong> volunteer at the Adler Planetarium to teach kids how to use telescopes. Nothing concrete to share but my friends and family can share a lot about my obsession.</li>
           <li><strong>2018:</strong> learn to think independentally by using mental models. See the project <a href="https://www.wisecharlie.com">here</a>.</li>
           <li><strong>2019:</strong> learn how to paint. </li>
         </ol>

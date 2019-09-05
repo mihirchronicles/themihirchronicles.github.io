@@ -21,25 +21,18 @@ const Horizontal = styled.hr`
   background-color: #3d9cdf;
 `
 
-const ReadingDateTime = styled.p`
-  display: inline;
-  color: #000;
-  font-size: 11px;
-`
-
 const IndexPage = ({ data }) => {
   return (
     <Layout>
       <SEO title="Explore" />
       <Content>
         <h1>Explore</h1>
-        <p>My goal is to learn in bit sizes, document things for myself, and share with others. Unlike essays with deep analysis, this is a quick exploration and exit. The goal is to go on an adventure, follow a lead on the trail, get lost and find the trail back again, and exit. Below are the people (analogous to giant shoulders), articles and topics I have explored.</p>
+        <p>The goal is to learn in bit sizes, document things for myself, and share with others. This is a an exploration with others. The goal is to go on an adventure with people who have deep expertise in their subject matter. Below are the people and noteworthy articles I have explored.</p>
         {data.allMarkdownRemark.edges.map(({ node }) => (
           <div key={node.id}>
           <Horizontal/>
           <PostContainter>
             <h2>{node.frontmatter.title}</h2>
-            <ReadingDateTime>({node.frontmatter.date})</ReadingDateTime>
             <Content dangerouslySetInnerHTML={{ __html: node.html }} />
           </PostContainter>
           </div>
@@ -59,8 +52,7 @@ export const query = graphql`
       }
     }
     allMarkdownRemark(
-      filter: { fileAbsolutePath: { regex: "/content/explore/" } }
-      sort: { fields: [frontmatter___date], order: DESC }) {
+      filter: { fileAbsolutePath: { regex: "/content/explore/" } }) {
       totalCount
       edges {
         node {
@@ -68,7 +60,6 @@ export const query = graphql`
           id
           frontmatter {
             title
-            date(formatString: "DD MMMM, YYYY")
             path
           }
         }
