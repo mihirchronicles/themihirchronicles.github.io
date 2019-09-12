@@ -55,3 +55,8 @@ Readers and listeners are naturally delighted when we use metaphors because some
 Metaphors challenges our creativity and let our imagination loose. They are the fundamental language of poetry. We should read more poetry. Poetry is rich in imagery and metaphorical language. By reading it, we can train our brain into thinking metaphorically. The more we read, the better we'll be able to conjure up elegant metaphors. A metaphor is a concise, memorable, and often colorful way to express emotions.
 
 A favorite meaphor that I enjoy a lot, “Books are the mirrors of soul.” — Virginia Wolf
+
+--- 
+
+#### Notes & Resources:
+- People I find interesting who use colorful analogies and metaphors — Mike Moritz, Warren Buffett and Charlie Munger.
