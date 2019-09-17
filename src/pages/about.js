@@ -118,20 +118,20 @@ const IndexPage = ({ data }) => {
           <li>I don't have strong political beliefs in either direction because it does not allow me to think rationally.</li>
           <li>I don't believe in stereotypes or biases because they masks our inability to understand.</li>
           <li>I believe in capitalism but not at the cost of ruining our planet or moral values.</li>
-          <li>I don't believe in growth at all cost but I believe in healthy competition.</li>
+          <li>I don't believe in growth at all cost but I believe in a healthy competition.</li>
           <li>I believe in winners attitude even in defeat. Learning from failure is the best life lesson.</li>
           <li>I find there is a huge difference between luck and skill but we are psychologically incompetent to tell the difference between the two.</li>
-          <li>I believe in executing but more importantly executing with patience because willingness to wait longer than other people is a biggest natural edge.</li>
+          <li>I believe in executing with patience because willingness to wait longer than other people is a biggest natural edge.</li>
           <li>I find short-term thinking to be at the root of all of our problems.</li>
           <li>I find debt toxic and a root cause of destructing families and society. How come debt is tax-deductible yet drugs are illegal?</li>
           <li>I find incentives to drive everyone's behavior, whether it is morally good or bad.</li>
           <li>I find people's expectations grow faster than their wealth. The western world has never been so rich yet unhappier than ever.</li>
           <li>I find strong correlation between knowledge and humility. People who spend few minutes studying a topic think they have it all figured it out, while people with decades of experience realize how little they know.</li>
-          <li>I've learned that what looks like tomorrow's biggest threat almost never is. Most are worried about macroeconomic issues such as war, severe economic downturns or something else, which rarely or never occurs. The biggest risk in front of us is excessive pessimism.</li>
-          <li>I believe in mindfulness. Being present with full attention is morally good thing for everyone.</li>
-          <li>I believe in nourishing both my mind and body.</li>
+          <li>I've learned what looks like tomorrow's biggest threat almost never is. Most are worried about macroeconomic issues such as war, severe economic downturns or something else, which rarely or never occurs. The biggest risk in front of us is excessive pessimism.</li>
+          <li>I believe in mindfulness. Being present with full attention is morally good for everyone.</li>
+          <li>I believe in nourishing my mind and body.</li>
           <li>I believe in sharing my thoughts openly without any fear of being judged. Learning in public will keep ego in check.</li>
-          <li>I believe in people who take care of me especially my friends and family.</li>
+          <li>I believe in people who take care of me especially friends and family.</li>
           <li>I believe in exploration and exploring beyond the planet earth.</li>
           <li>I believe in people and humanity.</li>
           <li>I believe as I grow older, these beliefs will evolve as I gain more wisdom.</li>
