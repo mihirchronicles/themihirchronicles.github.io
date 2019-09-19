@@ -24,7 +24,7 @@ path: "/blog/how-to-write-well"
     - Punctuation
     - Feltre Notes
     - Bibliography
-- Style usage
+- Stylistic choice
 - Structure
 - Giant shoulders
     - Great writers
@@ -34,6 +34,7 @@ path: "/blog/how-to-write-well"
 </details>
 <br>
 
+---
 The underlying motivation for this piece stemmed from reading a ton. Some time ago, I started reading a lot which led to fiddling with lots of ideas. However, none of these ideas were concrete. I couldn't connect them to its origin and articulate them well. Writing became the next natural step of progression. The question I keep bumping into, ”how to write well?” Here is my attempt to answer that!
 
 #### Why write?
@@ -42,7 +43,7 @@ Writing is an investigative tool to explore your thinking. Writing explores ques
 
 Writing helps you win! How? The person who can best formulate ideas can communicate the best argument. Writing preserves truth. It allows you to have profound and original ideas at your fingertip. Writing helps you sharpen your capacity to think, debate and present intelligently. Writing prevents you from falling prey to fads and ideologies.
 
-The most complex hierarchies such as law, medicine, business, politics or academics require clear thinking and communicating well. At this level of competency, you are required to defend your strategy in businss, economic policy in politics or defend your thesis in academia research. Thus, well formulated thoughts become necessary and valuable. Warren Buffett said it well.
+The most complex hierarchies such as law, medicine, business, politics or academics require clear thinking and communicating well. At this level of competency, you are required to defend your strategy in businss, economic policy in politics or defend your thesis in academia research. Thus, well formulated thoughts become necessary and valuable to persuade your audience. Warren Buffett said it well.
 
 > Some of the things I think I think, I find don’t make any sense when I start trying to write them down. You ought to be able to explain why you’re taking the job you’re taking, why you’re making the investment you’re making, or whatever it may be. And if it can’t stand applying pencil to paper, you’d better think it through some more.
 
@@ -56,10 +57,24 @@ First, use radically simple sentences and do not worry about grammatical syntax.
 
 #### Singular Purpose
 
-You must define your purpose for writing. In this case, I want to become a better writer so I could think and articulate well. This purpose becomes the center of universe when exploring and writing around the topic. You should let go of sentences or ideas that has nothing to do with the topic. Vagueness causes confusion! To create a bond with a reader, you need to stay ultra-focused on your purpose. If you start to diverge from the original topic, it is time to rethink about the purpose. Lack of clarity will break the bond with your reader. For brevity, try to have one purpose for each sentence. But don't overkill on making your sentences so pure that they are boring or too dry to read. Narrative is as important as purpose to capture reader's attention. We'll address stylistic choices later for more fluid narrative.
+You must define your purpose for writing. In this case, I want to become a better writer so I could think and articulate well. This purpose becomes the center of universe when exploring and writing on the topic. You should let go of sentences or ideas that has nothing to do with the topic. Vagueness causes confusion! To create a bond with a reader, you need to stay ultra-focused on your purpose. If you start to diverge from the original topic, it is time to rethink about the purpose. Lack of clarity will break the bond with your reader. For brevity, try to have one purpose for each sentence. But don't overkill on making your sentences so pure that they are boring or too dry to read. Narrative is as important as purpose to capture reader's attention. We'll address stylistic choices later for more fluid narrative.
 
 **Use ultra-focused titles to help you stay focused on your purpose.** Titles are important. If anytime you feel diverged, titles can be a good reminder for your purpose. Using something like ”Society & Culture” can be dangerous because it does not allow a reader to understand the purpose of your writing. The title is so vague here. It is impossible to tell which society and which culture. A better title could be ”A brief history of American culture.” This will draw readers who are interested in American history. It is clear and concise.
 
 #### Clarity
 
-Sharpen your sentences. Each sentence should examine the truth. Revise your sentences over and over again until each sentence becomes readable and believable. Remember, brevity is the ultimate soul of wit. A good writing always conveys purpose with clarity. Clarity is an absolute must requirement to be a great writer.
+Brevity is the ultimate soul of wit. Use fewer words because readers have no tolerance for rambling. Make your point and get out of their way. Essays Remember in school, you were asked to write a 10 page essay? Schools actually do a disservice to students. Classroom instructors force students to go on a tangent by going at maximum length to explain a topic. Students would be forced to think if instructors demanded their students to explain US Constitution in no more than two pages. The primary reason to write an essay is to formulate and organize informed and logical set of ideas about something important. However, it is not to test whether a student can write a 10 page essay on a topic.
+
+Sharpen your sentences. Each sentence should examine the truth. Revise your sentences over and over again until each sentence becomes readable and believable. A good writing always conveys purpose with clarity. Clarity is an absolute must requirement to be a great writer.
+
+#### Revise
+
+#### Stylistic choice
+
+#### Structure
+
+#### Giant shoulders
+
+#### Conclusion
+
+#### Notes & sources
