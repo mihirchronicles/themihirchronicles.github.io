@@ -11,6 +11,7 @@ path: "/blog/how-to-write-well"
   <br>
 
 - Purpose
+- Trivium
 - Why write?
 - How to make writing less taxing?
     - Simple sentences
@@ -26,10 +27,8 @@ path: "/blog/how-to-write-well"
     - Inversion
     - Multi-disciplinary approach
     - Short experiments
-    - Read, research and take more notes
-        - Questions
-        - Books & publications
-        - A note on note taking
+    - Questions to research and read more
+    - A note on note taking
 - Outlining
 - First draft
 - Second draft
@@ -51,7 +50,7 @@ path: "/blog/how-to-write-well"
 - Final draft
     - Resolutions
     - Rhythm & Style
-    - Bibliography
+    - References & Bibliography
 - Getting better
 - Notes
 </details>
@@ -60,7 +59,23 @@ path: "/blog/how-to-write-well"
 ---
 
 ## Purpose
-The underlying motivation for the piece stemmed from reading a ton. I started reading a lot a few years ago which led to the fiddling with ideas. However, none of these ideas were concrete. I couldn't connect them to its origin and neither could I articulate them well. Writing became the next natural step of progression. Below are my notes compiled from observing others.
+The underlying motivation for the piece stemmed from reading a ton. I started reading a lot a few years ago which led to the fiddling with ideas. However, none of these ideas were concrete. I couldn't connect them to its origin and neither could I articulate them well. Writing became the next natural step of progression. Below are my notes compiled from my reading and learning.
+
+## Trivium
+
+This guide is to communicate your thoughts more clearly. Clear sentences depend upon trivium. The discipline of logic, rhetoric and grammar, known collectively as trivium.
+
+- Logical perspective is an expository prose based on factual language. It is the product of your thinking. This requires critical thinking, collecting facts and reason from first principles. Logical perspective demands two questions:
+    - What exactly are we talking about?
+    - What exacly are you saying about it?
+- Rhetoric style depends on what words you use and how you design your sentences. Designing your sentence depends upon logic.
+- Grammar is the foundation upon which both logic and rhetoric rest. This one is notorious because you can confuse rules with regulations.
+    - A regulation is an order for which we can see no real reason.
+    - A rule is a requirement based on reason.
+    - The writer, like craftsman, works with the rules, and violates them when he or she must insightfully.
+The two disciplines (logical and rhetorical) are actually at odds with each other because one appeals to your reasona nd the the your emotions. 
+
+The conscientious writer or speaker will know the rules of grammar, understand the requirements of clear thinking, and constantly aware of the effects of a particular style. How to orchestrate these 3 creative forces is the job upon us.
 
 ## Why write?
 Writing broadens your mind by turning abstraction such as intuition and ideas into concrete words. You are full of fuzzy ideas that are strongly supported by your intuition. However, intuition isn't a tool. It is a gut feeling. Intuition fuels your biased decision making process. Turning intuition into tools means understanding their origins, limitations and how they interact with other ideas.
@@ -75,7 +90,7 @@ The most complex hierarchies such as law, medicine, business, politics or academ
 
 Warren Buffett once said:
 
-> Some of the things I think I think, I find don’t make any sense when I start trying to write them down. You ought to be able to explain why you’re taking the job you’re taking, why you’re making the investment you’re making, or whatever it may be. And if it can’t stand applying pencil to paper, you’d better think it through some more.
+> Some of the things I think, I find don’t make any sense when I start trying to write them down. You ought to be able to explain why you’re taking the job you’re taking, why you’re making the investment you’re making, or whatever it may be. And if it can’t stand applying pencil to paper, you’d better think it through some more.
 
 Lastly, exposing writing to others will question your intent and thought process. There is no better way to get feedback. The more you write and share, the more feedback you'll receive creating a positive feedback loop. As the saying goes, the pen is mightier than the sword.
 
@@ -83,15 +98,10 @@ Lastly, exposing writing to others will question your intent and thought process
 Writing takes cognitive load which introduces writer's block. But it can be less taxing if you go after the incremental wins.
 
 - Use radically simple sentences and do not worry about grammatical syntax. The goal is to pen down whatever comes to your mind. For example, let's pick capitalism.
-
     &nbsp;&nbsp;&nbsp;*"Capitalism is a free market. Capitalism is an economic system. America is built on capitalism."*
-
 - Pretend you are writing a letter to someone either asking questions or explaining what you know. You should choose a person who you admire the most and pretend you are having a conversation with that person. This will bring forth your natural flow and tone. Writing this way will also raise several questions which will make it easy to gather information when you start researching more. For example:
-
     &nbsp;&nbsp;&nbsp;*"Dear Buffett & Munger, I want to explore what capitalism is and the implications of the economic system on our society today. I understand capitalism is not perfect but is it the only system that works the best out of all the options available? If that is true, then how is China prospering built on socialist economic system?"* 
-
     &nbsp;&nbsp;&nbsp;*"Let me explain you how did capitalism came about."*
-
 - Do not worry about polishing or editing your material just yet. Keep going!
 - Do not worry about the length of your piece. The goal is to write down everything you know. Reading and research will come later.
 
@@ -102,7 +112,7 @@ You should let go of sentences or ideas that has nothing to do with the topic. V
 
 For brevity, try to have one purpose for each sentence. But don't overkill on making your sentences so pure that they are boring or too dry to read. Narrative is as important as purpose to capture reader's attention. I'll address stylistic choices later for more fluid narrative. However, each sentence, paragraph and the essay should relentlessly focus on only one purpose.
 
-### Use ultra-focused titles to help you stay focused on your purpose
+### Use titles to define your purpose
 Titles are important. If anytime you feel diverged, titles can be a good reminder of your purpose. If you can't understand your topic, your reader will most likely feel the same. Using something like ”Systems, Free Society & Economy” can be dangerous because it does not allow a reader to understand the purpose of your writing. The title is so vague here. It is impossible to tell which type of systems or which free society. A better title could be ”Capitalism and its role in America.” This will draw readers who are interested in understanding capitalism and its role in American economy. It is clear and concise.
 
 ### Disadvantages of purpose
@@ -117,6 +127,7 @@ How to gather information on a topic you want to write about?
 - Use multi-disciplinary approach to find how the topic is relevant in other fields. This can be simply by googling, "What is the relevance of X in the field ABC?" For example, *"How adaptive system such as survival of the fittest in biology and capitalism in economics are related to each other?"*
 - Run short experiments and tests by stress testing a set of data to derive a conclusion from the study. Running a short study should give you a direction on where to take your research. You should gather data from credible resources. Keep in mind, you are not a data analyst so don't spiral yourself into analysis paralysis. This step is to ensure that you have done your homework. Relying on other academic research should also be sufficient.
 
+### Questions to research and read more
 By now, you may also feel you are running out of ideas. What do you do when ideas stop flowing?
 
 The simplest answer is to read more and research more. If you can't brain dump your ideas then there is nothing to share. In such a situation, don't pride yourself with "know it all" or coming up with excuses such as "writer's block." Instead, go to a local library to research more. Ask your local librarian for book recommendations on the topic you are writing about. Ask yourself two key questions to continue exploring and researching further:
@@ -181,7 +192,7 @@ By now, you should have gathered enough material to move forward. Create a skele
         - What are some moral issues associated with capitalism?
     - An opinion on few things we can enhance within the system.
 - Conclusion
-- Sources & Bibliography
+- References & Bibliography
 
 Once you have listed your key topics, take a moment to examine your outline. Ask yourself, what is still needed to convincingly and logically tie your points together? Ask yourself the two key questions we asked earlier to continue exploring and researching further:
 
@@ -215,17 +226,17 @@ Once you feel comfortable with your first draft, it is time to revise by cutting
 
 Slice every paragraph by each sentence and place it on its own line. The purpose of this step is to analyze each sentence in its isolation to explore an opportunity to cut words out. The point of cutting your writing isn’t to make it shorter. The point of cutting it is to make it better. Below are a few examples on how to cut.
 
-- *Keep track of your word count before and after. This will make you realize how much verbose it was than necessary.*
-- *Cut, cut more and cut it again and again. When you cut your writing, you want **~~to know that**~~ nothing else **~~is~~** **to** get**~~ting~~** in.*
-- *Use minimalism to achieve clarity. **~~While you are writing, ask~~** **Ask** yourself, is it possible to preserve the original message without that punctuation mark, ~~**that**~~ word, ~~**that**~~ sentence, ~~**that**~~ paragraph or **~~that~~** section? Cut extra words or commas out whenever you can.*
-- *If you ~~**feel, you**~~ cannot cut, you are fooling yourself. **~~The weather forecast calls for rainy conditions.~~** It will probably rain.*
-- ~~***Keep searching for sentences to kill.**~~  ~~**Cut until it hurts, and beyond.**~~ Kill sentences until it hurts.*
-- *Find sentences with multiple clauses that run on and on~~**, saying more than you need to, and confusing the heck out of your readers~~.***
-- *Slaughter every single adverb. You **~~probably~~**, do not ~~**actually**~~ need them because they are ~~**really**~~ pointless.*
-- *Slaughter clichés. **~~A serious crisis.~~** If a crisis isn’t serious, what is it? Or “**~~mounting, incredible, interesting~~** concerns/**~~mounting, incredible, interesting~~** pressure/**~~mounting, incredible, interesting~~** evidence.” Everything seems to be “mounting, incredible or interesting” nowadays.*
-- *Write ~~**comprehensibly**~~ clearly at a vocabulary level you have mastered so others can understand.*
-- *When writers use these rephrases, **~~"In other words"~~** or ~~**"That is to say"**~~ or ~~**"Put another way"**~~, it is often a red flag. Say something once, why explain it again? Are you not confident in your original statement that you have to explain it again?*
-- *Don't ~~italicize~~ or use ~~"quotations"~~  to emphasize your arguments. If what you’re saying is important, you don’t need fonts or punctuation marks to prove it. And if what you’re saying isn’t important, no amount of italics or quotation marks can make it so. If what you’re saying can’t speak for itself, why are you speaking for it? If you really need to drive your points home, you can **bold** them.*
+- _Keep track of your word count before and after. This will make you realize how much verbose it was than necessary._
+- _Cut, cut more and cut it again and again. When you cut your writing, you want **~~to know that**~~ nothing else **~~is~~** **to** get**~~ting~~** in._
+- _Use minimalism to achieve clarity. **~~While you are writing, ask~~** **Ask** yourself, is it possible to preserve the original message without that punctuation mark, ~~**that**~~ word, ~~**that**~~ sentence, ~~**that**~~ paragraph or **~~that~~** section? Cut extra words or commas out whenever you can._
+- _If you ~~**feel, you**~~ cannot cut, you are fooling yourself. **~~The weather forecast calls for rainy conditions.~~** It will probably rain._
+- _~~***Keep searching for sentences to kill.**~~  ~~**Cut until it hurts, and beyond.**~~ Kill sentences until it hurts._
+- _Find sentences with multiple clauses that run on and on ~~**,saying more than you need to, and confusing the heck out of your readers**~~._
+- _Slaughter every single adverb. You **~~probably~~**, do not ~~**actually**~~ need them because they are ~~**really**~~ pointless._
+- _Slaughter clichés. **~~A serious crisis.~~** If a crisis isn’t serious, what is it? Or “**~~mounting, incredible, interesting~~** concerns/**~~mounting, incredible, interesting~~** pressure/**~~mounting, incredible, interesting~~** evidence.” Everything seems to be “mounting, incredible or interesting” nowadays._
+- _Write ~~**comprehensibly**~~ clearly at a vocabulary level you have mastered so others can understand._
+- _When writers use these rephrases, **~~"In other words"~~** or ~~**"That is to say"**~~ or ~~**"Put another way"**~~, it is often a red flag. Say something once, why explain it again? Are you not confident in your original statement that you have to explain it again?_
+- _Don't ~~italicize~~ or use ~~"quotations"~~  to emphasize your arguments. If what you’re saying is important, you don’t need fonts or punctuation marks to prove it. And if what you’re saying isn’t important, no amount of italics or quotation marks can make it so. If what you’re saying can’t speak for itself, why are you speaking for it? If you really need to drive your points home, you can **bold** them._
 
 ### Rewriting
 The essence of rewriting is destruction. Cutting is bloody, but rewriting is destructive, because it requires brutal self-examination after you already put all that work into striving for perfection. Rewrite your sentences to be more precise (short and simple) and meaningful. Let go of whatever you love the most. Great writers don’t try to fix their own work but they try to destroy it. 
@@ -254,11 +265,11 @@ Let’s rewrite a paragraph without unnecessary words:
 
 That leaves us with:
 
-"*To be brief on the sentence-level, remove words that don’t add necessary context. Extra words cause readers to slow down and do extra work. That makes it harder for them to recognize the sentence’s point. And when you exhaust readers, they quit reading."*
+*"To be brief on the sentence-level, remove words that don’t add necessary context. Extra words cause readers to slow down and do extra work. That makes it harder for them to recognize the sentence’s point. And when you exhaust readers, they quit reading."*
 
 Let's try rewriting again:
 
-"*Your sentence is brief when no additional words can be removed. Being succinct is important because filler buries your talking points and bores readers into quitting."*
+*"Your sentence is brief when no additional words can be removed. Being succinct is important because filler buries your talking points and bores readers into quitting."*
 
 Rewrite in a way that you are explaining a complex topic to a ten-year-old. The complexity of your writing should emerge from the strength of its ideas, not from how those ideas are worded. Remember don't drop key information while simplifying. By removing grammatical overhead, the underlying point stands out.‍
 
@@ -336,11 +347,11 @@ In a similar failure, some verbs feel active but fade into passivity in the wron
 
 What is this junk about “one reason” that “stemmed from the fact that”? The reason didn’t stem from anything! To make the sentence active, do this:
 
-"*The struggling retail chain survived for years because consumers couldn’t find cheaper prices elsewhere."*
+*"The struggling retail chain survived for years because consumers couldn’t find cheaper prices elsewhere."*
 
 That makes the sentence a full 33% shorter, much clearer, and much more active. It also makes it say what the writer means. A subtle form of passive language is hard to spot but easy to fix. For example:
 
-"*The President said Congress was likely to approve the bill by Tuesday, despite many members of both houses being away from the nation’s capital for the long holiday weekend."*
+*"The President said Congress was likely to approve the bill by Tuesday, despite many members of both houses being away from the nation’s capital for the long holiday weekend."*
 
 That “despite…being” or “despite [VERB]-ing” structure is common as dust and just as appealing. So far as I can tell, it’s become common because so many people refuse to write the simplest of all verbs: is, was, and were. Kill the “despite,” and you get:
 
@@ -570,7 +581,9 @@ Your goal is to make your writing so concise that it can’t be summarized furth
 - *Paragraph*: sentences should be properly arranged and sequenced inside a paragraph.
 - **Paragraph arrangement*: all of the paragraphs have to be arranged in a logical progression, from the beginning of the essay to the end to get us to the final destination.
 - *Essay as a whole*: an essay without originality or creativity can fail because it is not interesting or important. Sometimes a creative person, who is not technically proficient as a writer, can make the opposite mistake. Their choice of word is poor, their sentences are badly constructed and poorly organized within their paragraphs, their paragraphs has no intelligible relationship to one another, and yet the essay as a whole can succeed because there are valuable thoughts trapped within it.
-- *Reader*: an essay necessarily exists within a context of interpretation, made up of the reader. When you are writing something for someone, you need to know your audience.
+- *Reader*: an essay necessarily exists within a context of interpretation, made up of the reader. When you are writing something for someone, you need to know your audience. Questions to ask while you write:
+    - Who is your audience? What assumptions can you make about the audience? 
+    - What is the purpose of your writing?
 - *Culture*: an essay necessarily exists within a context of interpretation, made up of culture that the reader is embedded in. Knowing your audience's culture is as important as knowing your audience. Context matters!
 
 ### Rhythm & style
@@ -601,7 +614,18 @@ Great writers orchestrate that interplay between tension, suspense, surprise, re
 Lastly, providing examples is another stylistic choice. Examples make abstract statements specific. Your brain best remembers things this way. Provide before-and-after examples, or counterexamples, to clarify what you don’t **mean. Help readers orient themselves on a spectrum of right and wrong. If you make examples fun and topical, readers pay more attention. Don't waste time with examples if you're confident your point was self-evident.
 
 ### References & Bibliography
+Jordan Peterson on references and biliogrpahy
 
+- When you write a sentence that contains what is supposed to be a fact or at least an informed opinion, and you have picked it up from something you read, then you have to refer to that source. Otherwise, following convention, people may accuse you of plagiarism, which is a form of theft (of intellectual property).
+- There are a large number of conventions that you can follow to properly structure your references and your bibliography (which is a list of books and articles that you have read to obtain relevant background information, but from which you may not have drawn any ideas specific enough to require a reference).
+- The conventions of the American Psychological Association (APA) are commonly used by essay writers. This convention generally requires the use of the last names of the authors of the source in parentheses after the sentence requiring a reference. For example, it is necessary to add a reference after a sentence containing an opinion which is not your own, or a fact that you have acquired from some source material (Peterson, 2014).
+- This sentence could also be constructed like this: Peterson (2014) claims that it is necessary to add a reference after a sentence containing an opinion which is not your own, or a fact that you have acquired from some source material.
+- There are also many conventions covering the use of a direct quote, which have to be followed when you directly quote someone, rather than paraphrasing them. Here is an example, adding the specific (fictional) number of the page containing the quoted material in the original manuscript:
+Peterson (2014, p. 19) claims that “the conventions of the American Psychological Association (APA) are commonly used by essay writers.”In the Reference List, at the end of the essay, Peterson’s paper might be listed, as follows (this is a fictional reference): Peterson, J.B. (2014). Essay writing for writers. Journal of Essay Writing, 01, 15-24.
+- Different conventions hold for different types of source material such as webpages, books, and articles. All the details regarding APA style can be found at [http://www.apastyle.org/](http://www.apastyle.org/)
+- Your instructor may have recommended, or demanded, use of a different set of conventions. Information about other techniques and rules can be found at [http://www.easybib.com/reference/guide/mla/general](http://www.easybib.com/reference/guide/mla/general). It is necessary to master at least one convention. The rules are finicky and annoying. However, they are necessary, so that readers know what writers are up to. Furthermore, you only have to learn them once, so bite the bullet and do it.
+- [https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/general_format.html](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/general_format.html)
+- [https://blog.apastyle.org/apastyle/2011/04/how-to-use-five-levels-of-heading-in-an-apa-style-paper.html](https://blog.apastyle.org/apastyle/2011/04/how-to-use-five-levels-of-heading-in-an-apa-style-paper.html)
 
 ## Getting Better
 > What an astonishing thing a book is. It’s a flat object made from a tree with flexible parts on which are imprinted lots of funny dark squiggles. But one glance at it and you’re inside the mind of another person, maybe somebody dead for thousands of years. Across the millennia, an author is speaking clearly and silently inside your head, directly to you.– Carl Sagan
@@ -617,8 +641,9 @@ Lastly, providing examples is another stylistic choice. Examples make abstract s
     - Discoveries — Highlight new findings
     - Arguments — Present your case
     - Narratives — Share the beginning of a narrative
-- Use commonplace to dissect good writing and emulate great readers.
-- Great writers & books:
+- Use commonplace to dissect good writing and emulate great writers. Think of it as a practice book where you transcribe great sentences you come across. This is not a thinking book or a journal.
+- How can you develop the inner ear it takes to hear, and make the music of language? Read, read, read.
+- You can also study some of the world’s best writers on what separates good writing from bad:
     - [Kevin Simler](https://meltingasphalt.com/archive/)
     - [Sarah Constantin](https://srconstantin.wordpress.com/)
     - [Nadia Eghbal](https://nadiaeghbal.com/posts/)
@@ -629,10 +654,20 @@ Lastly, providing examples is another stylistic choice. Examples make abstract s
     - [Slate Star Codex](https://slatestarcodex.com/2015/12/24/how-bad-are-things/)
     - [Marc Andreessen](https://pmarchive.com/guide_to_career_planning_part0.html)
     - [Paul Graham](http://paulgraham.com/articles.html)
-    - Ambrose Bierce, who wrote some of the most brightly sparkling prose of any American author, perpetrated a style guide called [Write It Right](https://www.gutenberg.org/files/12474/12474-h/12474-h.htm), an amusing but testy attack on anyone who dared to use slang or believed that language should grow or change.
-    - How can you develop the inner ear it takes to hear, and make the music of language? Read, read, read. You can also study some of the world’s best writers on what separates good writing from bad:
-        - **Mark Twain, “[Fenimore Cooper’s Literary Offenses](http://twain.lib.virginia.edu/projects/rissetto/offense.html)”**
-        - **H.L. Mencken, “[Mencken on Veblen](http://jasonzweig.com/wp-content/uploads/2018/12/Mencken-on-Veblen.pdf)”**
-        - **Virginia Woolf, “[Craftsmanship](https://www.brainpickings.org/2013/04/29/craftsmanship-virginia-woolf-speaks-1937/)“**
-        - **George Orwell, “[Politics and the English Language](https://faculty.washington.edu/rsoder/EDLPS579/HonorsOrwellPoliticsEnglishLanguage.pdf)”**
-    - If you think Shakespeare or Dickens or Dante or Woolf or Twain or Tolstoy or Austen or Orwell or Flaubert or Faulkner or any other great writer was ever completely satisfied with a single page he or she wrote, you need to read a few literary biographies.
+    - Thomas S. Kane, The New Oxford Guide To Writing 
+    - Mark Twain, [Fenimore Cooper’s Literary Offenses](http://twain.lib.virginia.edu/projects/rissetto/offense.html)
+    - H.L. Mencken, [Mencken on Veblen](http://jasonzweig.com/wp-content/uploads/2018/12/Mencken-on-Veblen.pdf)
+    - Virginia Woolf, [Craftsmanship](https://www.brainpickings.org/2013/04/29/craftsmanship-virginia-woolf-speaks-1937/)
+    - George Orwell, [Politics and the English Language](https://faculty.washington.edu/rsoder/EDLPS579/)
+    - Ambrose Bierce, [Write It Right](https://www.gutenberg.org/files/12474/12474-h/12474-h.htm)
+    - William Shakespeare
+    - Charles John Huffam Dickens
+    - William Faulkner
+    - Gustave Flaubert
+    - Jane Austen
+    - Leo Tolstoy
+    - Dante Alighieri
+
+---
+## Notes
+The notes above are compiled from the following artciles: Notes on writing well by Michael Nielsen, On writing better, part 1: getting started by Jason Zweig, On writing better, part 2: sharpening your tools by Jason Zweig, On writing better, part 3: becoming a writer by Jason Zweig, Why I hate adverbs by Jason Zweig, Essay writing guide by Jordan B Peterson, Writing Well by Julian Shaprio, Punctuation by Julian Shaprio, Novelist Cormac McCarthy’s tips on how to write a great science paper
