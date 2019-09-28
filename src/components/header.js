@@ -58,7 +58,7 @@ const Header = ({ siteTitle }) => (
       <Logo src={logo} alt="MihirChronicles"/>
     </HomeLink>
       <p>
-        <NavLink to="/essays">Essays</NavLink>
+        <NavLink to="/notes">Notes</NavLink>
         <NavLink to="/bookshelf">Books</NavLink>
         <NavLink to="/explore">Explore</NavLink>
         <NavLink to="/product">Product</NavLink>

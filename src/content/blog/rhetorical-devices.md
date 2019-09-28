@@ -14,7 +14,7 @@ Logic alone, though, cannot persuade an audience to believe what we are saying. 
 
 Let's explore some of the rhetorical devices — metaphor, simile and analogy which we use in our day-to-day communication. The meaning of three things are inconsistent from place to place. Using the first principles, we will compare the three rhetorical devices and then end with the importance of metaphors.
 
-#### Metaphors
+## Metaphors
 A is B.
 
 Metaphor, a literary technique, which originated from the Greek word metapherein meaning to transfer.
@@ -23,7 +23,7 @@ A metaphor is a figure of speech which states that one thing is another thing (A
 
 Take metaphor literally and we will find them very strange. For example, the branches of a family tree are not literal branches, but they have the same relationship to each other that real branches have to each other. The defining thing about a metaphor is that it is not literal.
 
-#### Similes
+## Similes
 A is like B, or A is as B.
 
 Simile, a literary technique, which originated form the Latin word similis meaning similar or like. The comparison will typically contain, like or as.
@@ -32,7 +32,7 @@ A simile compares two different things in order to create a new meaning. Simile 
 
 For example, the world sucks my soul like a vampire drinks the blood of his victims or he is brave as a lion.
 
-#### Analogy
+## Analogy
 Comparing A with B.
 
 Analogy, an argumentative technique, which originated from classical Latin analogia, meaning ratio or proportion. Analogies are great to internalize difficult concepts. They help you relate things to what you already know and that helps build the base.
@@ -41,7 +41,7 @@ Analogy is comparable to metaphor and simile that it shows how two different thi
 
 For example, if you live in the US and you've never heard of canton before, a helpful analogy to explain canton — "Cantons in Switzerland are like states in the USA." Here, cantons are analogous to states, and the comparison can help us understand an unfamiliar term.
 
-#### Relationship Between The Three
+## Relationship Between The Three
 Both simile and metaphor are figures of speech, and both operate by comparing the thing with something else in a figurative way (not literal). This is why simile and metaphor can be confusing. Whereas, an analogy is a logical device for an argumentative purpose. An analogy is a comparison between two similar things. Metaphors and similes are just one way to express that comparison.
 
 A metaphor is almost always more forceful than an analogy, but we have to rely on the reader or listener's intuition to infer what we really mean. An analogy is clear and straightforward about what we mean, but it doesn't always have the same force as a metaphor, nor is it so easy to visualize.
@@ -58,5 +58,5 @@ A favorite meaphor that I enjoy a lot, “Books are the mirrors of soul.” — 
 
 --- 
 
-#### Notes & Resources:
+## Notes & Resources:
 - People I find interesting who use colorful analogies and metaphors — Mike Moritz, Warren Buffett and Charlie Munger.

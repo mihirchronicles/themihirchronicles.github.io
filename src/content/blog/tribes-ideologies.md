@@ -10,7 +10,7 @@ In modern culture, we all associate ourselves to a certain tribe. Primitive huma
 
 Ideologies (ideas) become part of who we are. People get invested in their ideologies, especially if they get invested publicly and identify with their own ideologies. So there are many forces against changing your mind. Flip-flopping is a bad word to people. It shouldn't be. Within sciences, people who give up and change their mind get good points. It's a rare quality of a good scientist, but it's an esteemed one.
 
-#### Why should you avoid being tribal?
+## Why should you avoid being tribal?
 Being tribal causes intense ideologies. Intense ideologies cabbages up one’s mind. You start out as a kid with orthodox ideologies, you keep pounding on, gradually ruining your mind. Preachers will keep preaching their views. It happens daily, in every corner of life. The only core ideology is to not get hung up on what you already know or believe in. Listen to both sides because everyone comes from different experiences.
 
 The solution to prevent intense ideologies is to get involved in more of tribal ideologies, not avoid them. Primarily, ego gets in the way because we think we know what is right and wrong. Staying neutral is what many choose but the world is not neutral. This is immensely powerful from an aspect of social learning. Tribes are schools of storytelling, connection, sense making, evolution, persuasion, human behavior and many other things. If any of these things are useful to you, you have to get involved. You can't learn these things from books or any other platform.

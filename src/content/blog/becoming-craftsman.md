@@ -10,13 +10,13 @@ People always ask, “What do you want to do with your life?” Then, there is a
 
 This second question has been on my mind lately for a period of time. But, before I address the second question, let's briefly cover how to answer the first question. Everyone is given a plain canvas in their lives and it is up to them to create their masterpiece. Before you know what this masterpiece is going to be, you have to explore what options are available to you.
 
-#### Exploring your masterpiece
+## Exploring your masterpiece
 
 We are novelty seeking priates, in permanent quest to find secrets & shortcuts to be absolutely & relatively better off. Exploring your masterpiece is not supposed to be easy. It can take several years, maybe a decade or two. If you want to be a doctor, go volunteer at a hospital. If you want to solve hunger, go visit a developing nation to experience what people go through living on dollar-a-day. Go take jobs in industries you think you may like. If you want to be an art illustrator, explore great artists and work for them. In the process, you will run into demoralizing evemnts. You will experience less moral support from your friends and family asking you to stay put at one job. Income will not be sustainable during this exploratory period. You may think you wasted two years working at a job you didn't like. But fear not, these are all short-term hiccups. All these experimental experiences will help you narrow down your choices, avoid what you don’t like while you meet amazing people who are incredible at their own craft.
 
 Parents and schools rely on “aptitude” which is an innate ability of a student. Relying on aptitude is a bit misleading because aptitude does not present all options available to you. Instead, present yourself with some hard questions like “How can you unite people around the world?” or “What are the consequences of climate change on nature?” Then seek answers to those questions. Meet people in the field who are working on answering those questions. Note, it will take years to articulate great questions. Craftsmen mold their aptitude with curiosity to answer the question, “What do you want to do with your life?”
 
-#### Craftsmanship
+## Craftsmanship
 
 Now the follow-up question, “What are you good at?” Einstein, Shakespeare, Adam Smith, Henry Ford, Ada Lovelace, Grace Hopper and so many others were all great craftsmen and craftswomen. Do you think Einstein was gritting his teeth and diligently trying to solve great mysteries of our universe? Of course not! He was having fun. That is why he was so good.
 
