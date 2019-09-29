@@ -113,6 +113,7 @@ const IndexPage = ({ data }) => {
         <h2>Beliefs</h2>
         <ol>
           <li>I don't find any difference between work and play. They both require balance and hard work.</li>
+          <li>I believe in working harder when odds are against me.</li>
           <li>I don't believe in handouts, but I believe that a giving nature is when we are at best.</li>
           <li>I believe in a democratic platform despite of extremeness on both sides.</li>
           <li>I don't have strong political beliefs in either direction because it does not allow me to think rationally.</li>

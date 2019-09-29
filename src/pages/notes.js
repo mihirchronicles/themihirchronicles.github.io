@@ -31,7 +31,7 @@ const IndexPage = ({ data }) => {
       <SEO title="Notes" />
       <Content>
         <h1>Notes</h1>
-        <p>The importance of writing stems from the fact that it enhances clarity and intellect. Writing allows me to express my thoughts and helps pose worthwhile questions. Writing is an ultimate reflection of thinking and rationalization of complex topics. Below are short pieces of writing and my attempt to explore a topic or answer a question.</p>
+        <p>The importance of writing stems from the fact that it enhances clarity and intellect. Writing allows me to express my thoughts and pose worthwhile questions. Writing is an ultimate reflection of thinking and rationalization of complex topics. Below are few topics I have explored.</p>
         <Horizontal/>
         {data.allMarkdownRemark.edges.map(({ node }) => (
           <div key={node.id}>
