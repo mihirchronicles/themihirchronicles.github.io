@@ -219,7 +219,7 @@ Slice every paragraph by each sentence and place it on its own line. The purpose
 - _Cut, cut more and cut it again and again. When you cut your writing, you want ~~**to know that**~~ nothing else **~~is~~** **to** get**~~ting~~** in._
 - _Use minimalism to achieve clarity. **~~While you are writing, ask~~** **Ask** yourself, is it possible to preserve the original message without that punctuation mark, ~~**that**~~ word, ~~**that**~~ sentence, ~~**that**~~ paragraph or **~~that~~** section? Cut extra words or commas out whenever you can._
 - _If you ~~**feel, you**~~ cannot cut, you are fooling yourself. **~~The weather forecast calls for rainy conditions.~~** It will probably rain._
-- _~~***Keep searching for sentences to kill.**~~  ~~**Cut until it hurts, and beyond.**~~ Kill sentences until it hurts._
+- _~~**Keep searching for sentences to kill.**~~  ~~**Cut until it hurts, and beyond.**~~ Kill sentences until it hurts._
 - _Find sentences with multiple clauses that run on and on ~~**,saying more than you need to, and confusing the heck out of your readers**~~._
 - _Slaughter every single adverb. You **~~probably~~**, do not ~~**actually**~~ need them because they are ~~**really**~~ pointless._
 - _Slaughter clichés. **~~A serious crisis.~~** If a crisis isn’t serious, what is it? Or “**~~mounting, incredible, interesting~~** concerns/**~~mounting, incredible, interesting~~** pressure/**~~mounting, incredible, interesting~~** evidence.” Everything seems to be “mounting, incredible or interesting” nowadays._
