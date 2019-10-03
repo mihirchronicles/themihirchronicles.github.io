@@ -1,9 +1,9 @@
 ---
-title: "Notes On Deliberate Practice"
+title: "Deliberate Practice"
 tags: ["general"]
 date: "2019-10-03"
 draft: false
-path: "/blog/notes-on-deliberate-practice"
+path: "/blog/deliberate-practice"
 ---
 
 ## I. Law of Productivity
