@@ -99,7 +99,7 @@ const LandingBio = () => (
             <Description>Building products at <a href="http://www.morningstar.com/">Morningstar </a>and <a href="https://wisecharlie.com/">Wise Charlie</a>. Curious about investment research. Fond of art, design, history, hiking & telescopes.</Description>
             <Description>Book nerd <FontAwesomeIcon icon="book"/>. Enjoy building things <FontAwesomeIcon icon="brush"/>. Process itself is the goal <FontAwesomeIcon icon="cogs"/>.</Description>
             <Cheers>- To Adventures & Fellowship!</Cheers>
-            <ButtonLink href="https://tinyletter.com/mihirchronicles"><Button type="text">Newsletter!</Button></ButtonLink> 
+            <ButtonLink href="https://tinyletter.com/mihirchronicles"><Button type="text">Let's Be Friends!</Button></ButtonLink> 
         </Container>
       </OuterContainer>
     )}
