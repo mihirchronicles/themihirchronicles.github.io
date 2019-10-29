@@ -52,15 +52,19 @@ path: "/blog/how-to-write-well"
 ## I. Purpose
 The underlying motivation for the piece stemmed from reading. I started reading a lot a few years ago which led to the fiddling with many ideas. However, none of these ideas were concrete. I couldn't connect them to its origin and neither could I articulate them well. Writing became the next natural step of progression. Below are my notes compiled from many resources on how to write well so the future me can review them again.
 
+ > Writing is thinking. To write well is to think clearly. That's why it's so hard. — David McCullough
+ 
+ > If you can't explain it simply, you don't understand it well enough. — Einstein
+
 ## II. Trivium
 
 This guide is to communicate your thoughts more clearly. Clear sentences depend upon trivium. The discipline of logic, rhetoric and grammar, known collectively as trivium.
 
-- I. Logical perspective is an expository prose based on factual language. It is the product of your thinking. This requires critical thinking, collecting facts and reason from first principles. Logical perspective demands two questions:
+1. Logical perspective is an expository prose based on factual language. It is the product of your thinking. This requires critical thinking, collecting facts and reason from first principles. Logical perspective demands two questions:
     - What exactly are you talking about?
     - What exacly are you saying about it?
-- II. Rhetoric style depends on what words you use and how you design your sentences. Designing your sentence depends upon logic.
-- III. Grammar is the foundation upon which both logic and rhetoric rest. This one is notorious because you can confuse rules with regulations. The writer, like craftsman, works with the rules, and violates them when he or she must insightfully.
+2. Rhetoric style depends on what words you use and how you design your sentences. Designing your sentence depends upon logic.
+3. Grammar is the foundation upon which both logic and rhetoric rest. This one is notorious because you can confuse rules with regulations. The writer, like craftsman, works with the rules, and violates them when he or she must insightfully.
     - A regulation is an order for which you can see no real reason.
     - A rule is a requirement based on reason.
 
@@ -123,8 +127,8 @@ By now, you may also feel you are running out of ideas. What do you do when idea
 
 The simplest answer is to read more and research more. If you can't brain dump your ideas then there is nothing to share. In such a situation, don't pride yourself with know-it-all or coming up with excuses such as writer's block. Instead, go to a local library to read and research more. Ask your local librarian for book recommendations on the topic you are writing about. Ask yourself two key questions to continue exploring and researching further:
 
-- **What are key supporting points for your argument?**
-- **What are key inversion points for your topic?**
+- _What are key supporting points for your argument?_
+- _What are key inversion points for your topic?_
 
 In our case on the topic of capitalism: 
 
@@ -242,11 +246,11 @@ Check out the revised [manuscript](https://www.themorgan.org/literary-historical
 
 So how do you rewrite? To examine each sentence, ask yourself the following questions:
 
-- **Logic — what didn’t you agree with in your sentence?**
-- **Clarity — what is unclear about your sentence?**
-- **Interest — what is boring in your sentence?**
-- **Brevity — what is not necessary in your sentence?**
-- **Expansion — what unanswered questions were left out in your sentence?**
+- _Logic — what didn’t you agree with in your sentence?_
+- _Clarity — what is unclear about your sentence?_
+- _Interest — what is boring in your sentence?_
+- _Brevity — what is not necessary in your sentence?_
+- _Expansion — what unanswered questions were left out in your sentence?_
 
 Rewrite in a way that you are explaining a complex topic to a ten-year-old. The complexity of your writing should emerge from the strength of its ideas, not from how those ideas are worded. Remember don't drop key information while simplifying. By removing grammatical overhead, the underlying point stands out.‍ Let’s rewrite a paragraph without unnecessary words:
 
@@ -397,7 +401,7 @@ There is loss of clarity when misusing punctuation and marks the writers as some
 
     Commas denote a pause in speaking. Speak the sentence aloud to find pauses.
 
-    - A. You need a comma around a word located at the extreme end of a sentence that addresses someone being spoken to.
+    - You need a comma around a word located at the extreme end of a sentence that addresses someone being spoken to.
 
         - Correct: *“Matt, you eat way too many pimply pickles.”*
         - Correct: *“Why do you keep flicking my belly button, Matt?”*
@@ -411,7 +415,7 @@ There is loss of clarity when misusing punctuation and marks the writers as some
 
         What nonsense? You don't eat grandpa. Notice how the above two sentences have entirely different meanings based on the presence of a comma. The *confusing* example can be mistaken for, “Where is the kitchen mat [that I stand on while cooking]?” as opposed to, “Hey, Matt, where exactly is the kitchen located?” Comma rules make up the bulk of this page. Because not knowing when to use a comma is the most common punctuation mistake.
 
-    - B. You need a comma around a word located at the extreme end of a sentence that answers a question with a *yes* or *no* word.
+    - You need a comma around a word located at the extreme end of a sentence that answers a question with a *yes* or *no* word.
 
         - Correct: *“Yeah, he smelled like rabies and burned sausage.”*
         - Correct: *“Correct, I’m still waiting for Santa Claus’ therapist.”*
@@ -424,9 +428,7 @@ There is loss of clarity when misusing punctuation and marks the writers as some
 
         In the first example, you’re stating that *nobody is here*. In the second, you’re responding to a question in the negative (“no”) then clarifying that “one [person] is still here.”
 
-    - C. In a list, use a comma before the final “and”
-
-        When you have a series of items separated by commas, ensure that you place a final comma (an “Oxford comma”) before *and*:
+    - In a list, use a comma before the final “and.” When you have a series of items separated by commas, ensure that you place a final comma (an “Oxford comma”) before *and*:
 
         - Correct: *To my parents, Jeff Bridges, and Wonder Woman.*
         - Incorrect: *To my parents, Jeff Bridges and Wonder Woman.*
@@ -435,9 +437,7 @@ There is loss of clarity when misusing punctuation and marks the writers as some
 
         Takeaway: At the end of a list of items, always use a comma before the final “and.”
 
-    - D. Use a comma before introducing a question
-
-        Place a comma before introducing a question — regardless of whether the question is wrapped in quotation marks:
+    - Use a comma before introducing a question. Place a comma before introducing a question — regardless of whether the question is wrapped in quotation marks:
 
         - Correct: *I’ve been wondering, Why is that turtle so nasty?*
         - Incorrect: *I’ve been wondering why is that turtle is so nasty?*
@@ -447,9 +447,7 @@ There is loss of clarity when misusing punctuation and marks the writers as some
 
         Tip: Quotes only surround a question when you’re word-for-word quoting something that was said. If you’re instead hypothetically *posing* a question, as is the case in the first example, then quotes are not needed.
 
-    - E. Don’t use a comma to represent vocal pauses
-
-        Commas serve many purposes, but representing arbitrary pauses in speech is not one of them. For example, this is not when you should use a comma:
+    - Don’t use a comma to represent vocal pauses. Commas serve many purposes, but representing arbitrary pauses in speech is not one of them. For example, this is not when you should use a comma:
 
         - Incorrect: *“It’s a tough day in a man’s life, when he finds out he’s a robot.”*
         - Correct: *“It’s a tough day in a man’s life when he finds out he’s a robot.”*
@@ -613,10 +611,10 @@ Peterson (2014, p. 19) claims that “the conventions of the American Psychologi
 - By “reading more,” I mean reading as closely and deeply as you can. It doesn’t matter what you read, so long as it is good — and your definition of good doesn’t have to match mine. It only has to match yours. When you find writers you love, read everything they’ve written. Only by reading and rereading your favorite writers can you internalize what makes them great.
 - Your goal is not to parrot their style, but to learn from their craft. Every great writer is great in a different way, and you can learn from all of them. I’ve read dozens of my favorite books (and articles) dozens of times apiece; I’ve read hundreds of books and articles several times each. You don’t have to be as obsessed as I am, but if you want to become a much better writer you will have to become a much more diligent reader.
 - To practice more, you can place your topic under these four buckets:
-    - **Questions — Pose an intriguing question**
-    - **Discoveries — Highlight new findings**
-    - **Arguments — Present your case**
-    - **Narratives — Share the beginning of a narrative**
+    - _Questions — Pose an intriguing question_
+    - _Discoveries — Highlight new findings_
+    - _Arguments — Present your case_
+    - _Narratives — Share the beginning of a narrative_
 - Use commonplace to dissect good writing and emulate great writers. Think of it as a practice book where you transcribe great sentences you come across. This is not a thinking book or a journal.
 - How can you develop the inner ear it takes to hear, and make the music of language? Read, read, read.
 - You can also study some of the world’s best writers on what separates good writing from bad:
@@ -646,11 +644,12 @@ Peterson (2014, p. 19) claims that “the conventions of the American Psychologi
 
 ---
 ## Notes
-- The notes above are compiled from the following artciles: Notes on writing well by Michael Nielsen
-- On writing better, part 1: getting started by Jason Zweig
-- On writing better, part 2: sharpening your tools by Jason Zweig
-- On writing better, part 3: becoming a writer by Jason Zweig
-- Why I hate adverbs by Jason Zweig, Essay writing guide by Jordan B Peterson
-- Writing Well by Julian Shaprio
-- Punctuation by Julian Shaprio
-- Novelist Cormac McCarthy’s tips on how to write a great science paper
+- Sources:
+    - Notes on writing well by Michael Nielsen
+    - On writing better, part 1: getting started by Jason Zweig
+    - On writing better, part 2: sharpening your tools by Jason Zweig
+    - On writing better, part 3: becoming a writer by Jason Zweig
+    - Why I hate adverbs by Jason Zweig, Essay writing guide by Jordan B Peterson
+    - Writing Well by Julian Shaprio
+    - Punctuation by Julian Shaprio
+    - Novelist Cormac McCarthy’s tips on how to write a great science paper
