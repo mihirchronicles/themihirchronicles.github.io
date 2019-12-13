@@ -55,7 +55,7 @@ We all experience chemical imbalances if we work too much or not exercise or not
 - Oxytocin: spend time with your loved ones
 
 ---
-**Notes**
+## Notes
 - Notes from Coursera course [Learning How To Learn](https://www.coursera.org/learn/learning-how-to-learn)
     - Tools: chunking, pomodoro, space repitition with Ankii, visual memory system – index cards, memory palace techniques, visual metaphors or analogy (ex: Syria like Cereal), exercise is far effective than any drug, test checklist, sleeping, breathing, optimism — turning a negative situation into positive helps you relieve stress, will power and focused instrumental music.
     - Focused mode & Diffused mode (breaks/exercise, sleeping washes away metabolic toxins). Use pomodora technique and chunking for focused, non-distracted learning.
