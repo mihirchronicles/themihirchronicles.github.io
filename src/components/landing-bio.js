@@ -37,6 +37,7 @@ const OuterContainer = styled.div`
 const Description = styled.p`
   padding: 0;
   margin-bottom: 1rem;
+  line-height: 30px;
 `
 
 const NameHeader = styled.h1`
@@ -45,6 +46,8 @@ const NameHeader = styled.h1`
 
 const Cheers = styled.h3`
   margin-bottom: 10px;
+  font-family: Reenie Beanie,Arial,Helvetica,sans-serif,cursive;
+  font-size: 1.50rem;
 `
 
 const Button = styled.button`
@@ -99,7 +102,7 @@ const LandingBio = () => (
             <Description>Building products at <a href="http://www.morningstar.com/">Morningstar </a>and <a href="https://wisecharlie.com/">Wise Charlie</a>. Curious about investment research. Fond of art, design, history, hiking & telescopes.</Description>
             <Description>Book nerd <FontAwesomeIcon icon="book"/>. Enjoy building things <FontAwesomeIcon icon="brush"/>. Process itself is the goal <FontAwesomeIcon icon="cogs"/>.</Description>
             <Cheers>- To Adventures & Fellowship!</Cheers>
-            <ButtonLink href="https://tinyletter.com/mihirchronicles"><Button type="text">Let's Be Friends!</Button></ButtonLink> 
+            <ButtonLink href="/notes"><Button type="text">Notes</Button></ButtonLink> 
         </Container>
       </OuterContainer>
     )}

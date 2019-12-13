@@ -50,11 +50,13 @@ path: "/blog/how-to-write-well"
 ---
 
 ## I. Purpose
-The underlying motivation for the piece stemmed from reading. I started reading a lot a few years ago which led to the fiddling with many ideas. However, none of these ideas were concrete. I couldn't connect them to its origin and neither could I articulate them well. Writing became the next natural step of progression. Below are my notes compiled from many resources on how to write well so the future me can review them again.
+The underlying motivation for the piece stemmed from reading. I started reading a lot a few years ago which led to the fiddling with many ideas. However, none of these ideas were concrete. I couldn't connect them to its origin and neither could I articulate them well. Writing became the next natural step of progression. Below are my notes compiled from many resources on how to write well so the future me can review them again. Starting off with famous quotes on writing.
 
  > Writing is thinking. To write well is to think clearly. That's why it's so hard. — David McCullough
  
  > If you can't explain it simply, you don't understand it well enough. — Einstein
+
+ > As a writer you should not judge. You should understand. — Ernest Hemingway
 
 ## II. Trivium
 
@@ -105,10 +107,12 @@ You must define your purpose for writing. For example, I want to understand capi
 
 For brevity, try to have one purpose for each sentence. But don't overkill on making your sentences so pure that they are boring or too dry to read. Narrative is as important as purpose to capture reader's attention. I'll address stylistic choices later for more fluid narrative. However, each sentence, paragraph and the essay should relentlessly focus on only one purpose.
 
-### Use titles to define your purpose
+**Use titles to define your purpose**
+
 Titles are important. If anytime you feel diverged, titles can be a good reminder of your purpose. If you can't understand your topic, your reader will most likely feel the same. Using something like “Systems, Free Society & Economy” can be dangerous because it does not allow a reader to understand the purpose of your writing. The title is so vague here. It is impossible to tell which type of systems or which free society. A better title could be “Capitalism and its role in America.” This will draw readers who are interested in understanding capitalism and its role in American economy. It is clear and concise.
 
-### Disadvantages of purpose
+**Disadvantages of purpose**
+
 What are the limitations of purpose? There are circumstances when you have to explore beyond the boundaries of your purpose. You might be exploring topic A and B. But the topic B does not fit into topic A. This creates uncertainty and does not allow for singular purpose. During this emotional roller coaster, you may feel your exploration on topic B is a wasted effort since it does not tie into topic A. These doubts must be resisted because now you have a better understanding of a topic from different viewpoints. Perhaps, a better alternative is to review your purpose again.
 
 ## VI. Information gathering
@@ -122,7 +126,8 @@ How to gather information on a topic you want to write about?
     - *How adaptive system such as survival of the fittest in biology and capitalism in economics are related to each other?*
 - Run short experiments and tests by stress testing a set of data to derive a conclusion from the study. Running a short study should give you a direction on where to take your research. You should gather data from credible resources. Keep in mind, you are not a data analyst so don't spiral yourself into analysis paralysis. This step is to ensure that you have done your homework. Relying on other academic research should also be sufficient.
 
-### Questions to research and read more
+**Questions to research and read more**
+
 By now, you may also feel you are running out of ideas. What do you do when ideas stop flowing?
 
 The simplest answer is to read more and research more. If you can't brain dump your ideas then there is nothing to share. In such a situation, don't pride yourself with know-it-all or coming up with excuses such as writer's block. Instead, go to a local library to read and research more. Ask your local librarian for book recommendations on the topic you are writing about. Ask yourself two key questions to continue exploring and researching further:
@@ -145,7 +150,8 @@ Once you state these key points, gather 5-10 publications and 5-10 books and sta
 - Publication 1, Publication2, etc.
     - Notes1, Notes2, etc.
 
-### A note on taking notes
+**A note on taking notes**
+
 Highlighting is overrated. Instead, practice learning mindfully. How? Summarize each section of your publication or each chapter of your book. This step of exploring really enables you to apply rigor to understanding what you have just read. By doing this, you put your brain to work which will help you remember and expand your memory. Always read with a pen or pencil so you can take notes right away. Putting this aside will only make you push the can further down the road. These are all good mental hygiene practices.
 
 If you don't understand something, re-read those sentences again, but slowly and deeply. As you read, ask yourself: *What does the author mean here? What were his intentions? What is the key point the author is trying to convey?* Scribble away in margins as you answer these questions. This is called critical thinking by asking rigorous questions. Only by picking sentences, paragraphs, pages, and chapters apart, you can learn writer's intentions.
@@ -214,7 +220,8 @@ Brevity is the ultimate soul of wit. Use fewer words and simple sentences becaus
 
 Once you feel comfortable with your first draft, it is time to revise by cutting, rewriting, avoiding clichés, applying first person rules, avoiding passive voice, using caution with adverbs and using proper punctuations. Repeat the process until the clearest statements are achieved.
 
-### Cutting
+**Cutting**
+
 > Anything that can be said can be said clearly. — Ludwig Wittgenstein
 
 Slice every paragraph by each sentence and place it on its own line. The purpose of this step is to analyze each sentence in its isolation to explore an opportunity to cut words out. The point of cutting your writing isn’t to make it shorter. The point of cutting it is to make it better. Below are a few examples on how to cut.
@@ -231,7 +238,8 @@ Slice every paragraph by each sentence and place it on its own line. The purpose
 - _When writers use these rephrases, **~~“In other words”~~** or ~~**“That is to say”**~~ or ~~**“Put another way”**~~, it is often a red flag. Say something once, why explain it again? Are you not confident in your original statement that you have to explain it again?_
 - _Don't ~~**italicize**~~ or use ~~“**quotations**”~~  to emphasize your arguments. If what you’re saying is important, you don’t need fonts or punctuation marks to prove it. And if what you’re saying isn’t important, no amount of italics or quotation marks can make it so. If what you’re saying can’t speak for itself, why are you speaking for it? If you really need to drive your points home, you can **bold** them._
 
-### Rewriting
+**Rewriting**
+
 The essence of rewriting is destruction. Cutting is bloody, but rewriting is destructive, because it requires brutal self-examination after you already put all that work into striving for perfection. Rewrite your sentences to be more precise (short and simple) and meaningful. Let go of whatever you love the most. Great writers don’t try to fix their own work but they try to destroy it. 
 
 As Samuel Johnson, who set the standard for English prose in the 18th century, advised: 
@@ -259,7 +267,8 @@ Rewrite in a way that you are explaining a complex topic to a ten-year-old. The 
 - Take 1: *To be brief on the sentence-level, remove words that don’t add necessary context. Extra words cause readers to slow down and do extra work. That makes it harder for them to recognize the sentence’s point. And when you exhaust readers, they quit reading.*
 - Take 2: *Your sentence is brief when no additional words can be removed. Being succinct is important because filler buries your talking points and bores readers into quitting.*
 
-### Avoid Clichés
+**Avoid Clichés**
+
 “Going south” or “taking a nosedive” or “the only game in town” or “I wouldn't touch it with a ten-foot pole” or “shoot first” or “ask questions later” are all examples of clichés. Clichés grow like viruses and spread like wildfire. This is not called writing but your fingers aimlessly moving and typing.
 
 > A cliché is any wording that springs automatically to mind and types itself, as if it has kidnapped your hands. — Jason Zweig
@@ -268,7 +277,8 @@ Some clichés get so overused that people have to introduce the enhanced version
 
 Politicians tend to do this really well. See some more examples [here](https://malaphors.com).
 
-### First person rules
+**First person rules**
+
 “I think this, I know that, I feel like, trust me, myself and I” are endless echo of me me me and more me. First person is often utilized poorly among new writers. Writing in first person prevents you to stay independent and unbiased. You can get away with writing in the first person under two conditions:
 
 - You are a vastly experienced and successful writer with profound expertise in your subject, or
@@ -276,7 +286,8 @@ Politicians tend to do this really well. See some more examples [here](https://m
 
 Regarding the redundancy of “I” or any of the first person pronouns, it is a matter of writing style. But if you want to adopt a writing style that does not sound biased, avoid first person pronouns.
 
-### Avoid passive voice
+**Avoid passive voice**
+
 According to [Wikipedia](https://en.wikipedia.org/wiki/Voice_(grammar)#Passive), “In the passive voice the grammatical subject of the verb is the recipient (not the doer) of the action denoted by the verb.” Let's review some of the most obvious **[examples](http://examples.yourdictionary.com/examples-of-active-and-passive-voice.html)** from [YourDictionary.com](http://yourdictionary.com) that are easily overlooked:
 
 - Passive — *At dinner, six shrimp were eaten by Harry.*
@@ -341,7 +352,8 @@ It’s simpler, cleaner, and more active. Writing better is all about paying att
 
 Have you made the logic of action in each sentence as simple and direct as possible? Is it clear who or what is the cause and who or what is affected? Are you tying unneeded words to the ankles of the subjects and objects of the sentence? Are you letting verbs do their work, or are you treating them as if they can’t move without crutches and canes?
 
-### Caution with adverbs
+**Caution with adverbs**
+
 Mark Twain disliked them: 
 
 > I am dead to adverbs; they cannot excite me….this is her demon, the adverb is mine….I cannot learn adverbs; and what is more, I won’t.
@@ -376,10 +388,11 @@ Concrete adverbs, such as *wildly* or *coldly,* inject specificity into sent
 
 I **~~literally~~** died laughing. No, you didn't!
 
-### Punctuation
+**Punctuation**
+
 There is loss of clarity when misusing punctuation and marks the writers as someone who doesn’t pay attention to detail. Below are few rules to follow for proper punctuation:
 
-- **1. Periods**
+- _Periods_
 
     If you can, use a period instead of a comma or a hyphen. Never use a comma or a hyphen if using a period in its place wouldn’t change the sentence’s intended meaning. Following this rule will help you avoid several grammar mistakes. Consider these examples:
 
@@ -397,7 +410,7 @@ There is loss of clarity when misusing punctuation and marks the writers as some
 
     The takeaway is that unless you’re an experienced writer, train yourself to always take a second look whenever you use a comma or a hyphen. Ask yourself, “Can I replace this with a period?” If so, do it. This is the most important comma rule.
 
-- **2. Commas**
+- _Commas_
 
     Commas denote a pause in speaking. Speak the sentence aloud to find pauses.
 
@@ -460,7 +473,7 @@ There is loss of clarity when misusing punctuation and marks the writers as some
 
         This leads into the next rule…
 
-- **3. Ellipses**
+- _Ellipses_
 
     An ellipsis is a trio of periods (…).
 
@@ -474,7 +487,7 @@ There is loss of clarity when misusing punctuation and marks the writers as some
 
     Don’t use ellipses in formal writing. Only consider using them within quoted speech.
 
-- **4. Semicolons**
+- _Semicolons_
 
     It’s really easy to use semicolons [;] incorrectly, so my advice is to not use them in the first place. After all, semicolons are rarely needed to help communicate a point.
 
@@ -493,7 +506,7 @@ There is loss of clarity when misusing punctuation and marks the writers as some
 
     The primary takeaway from this rule is simple: Avoid using semicolons because they invite redundancy. Redundancy is bad in writing. Find a way to express yourself concisely. Further, when a semicolon is used in this way, it can often be seamlessly substituted for a period. And a period is better than a semicolon because readers are more familiar with them and are therefore less likely to pause to assess why you're using a semicolon.
 
-- **5. Colons**
+- _Colons_
 
     Only use a colon when you’re presenting an example of what the words *before* the colon refer to:
 
@@ -518,7 +531,7 @@ There is loss of clarity when misusing punctuation and marks the writers as some
 
     The takeaway: Only use colons when your first sentence introduces the second sentence, but the first sentence could standalone if the next didn't exist.
 
-- **6. Punctuation within quotation marks**
+- _Punctuation within quotation marks_
 
     American English dictates that punctuation (periods, exclamation marks, and question marks) should be placed *inside* quotation marks:
 
@@ -529,7 +542,7 @@ There is loss of clarity when misusing punctuation and marks the writers as some
     - Correct: *He yelled to the driver, “Go back to America!”*
     - Incorrect: *He yelled to the driver, “Go back to America”!*
 
-- **7. Punctuation within parentheses**
+- _Punctuation within parentheses_
 
     If you’re wrapping a full sentence within parentheses, the final punctuation must stay within those parentheses:
 
@@ -541,13 +554,14 @@ There is loss of clarity when misusing punctuation and marks the writers as some
     - Correct: *I’m going back home (Japan).*
     - Incorrect: *I’m going back home (Japan.)*
 
-- **8. Dashes**
+- _Dashes_
 
     Dashes should emphasize the clauses you consider most important — without using bold or italics — and not only for defining terms. (Parentheses can present clauses more quietly and gently than commas.) Don’t lean on semicolons as a crutch to join loosely linked ideas. This only encourages bad writing. You can occasionally use contractions such as isn’t, don’t, it’s and shouldn’t. Don’t be overly formal. And don’t use exclamation marks to call attention to the significance of a point. You could say ‘surprisingly’ or ‘intriguingly’ instead, but don’t overdo it. Use these words only once or twice per paper.
 
 ## 9. Final draft
 
-### Resolution
+**Resolution**
+
 Your goal is to make your writing so concise that it can’t be summarized further. For the essay to succeed, brilliantly, it has to work at all of the levels of resolution simultaneously. You should not transfer any cognitive load to your readers. Logic should flow flawlessly and narrative should be fluid. Below are the levels of resolutions:
 
 - *Word*: choosing the right word precisely fitting at the right location.
@@ -560,7 +574,8 @@ Your goal is to make your writing so concise that it can’t be summarized furth
     - What is the purpose of your writing?
 - *Culture*: an essay necessarily exists within a context of interpretation, made up of culture that the reader is embedded in. Knowing your audience's culture is as important as knowing your audience. Context matters!
 
-### Rhythm & style
+**Rhythm & style**
+
 > The essence of a sound style is that it cannot be reduced to rules — that it is a living and breathing thing, with something of the demoniacal in it — that it fits its proprietor tightly and yet ever so loosely, as his skin fits him. It is, in fact, quite as securely an integral part of him as that skin is…. In brief, a style is always the outward and visible symbol of a [writer], and it cannot be anything else.  To attempt to teach it is as silly as to set up courses in making love. — H.L. Mencken
 
 Inject questions and less-formal language to break up tone and maintain a friendly feeling. Informal expressions can be good for this, but they shouldn’t be too narrowly tied to a region. Similarly, use a personal tone because it can help to engage a reader.
@@ -587,7 +602,8 @@ Great writers orchestrate that interplay between tension, suspense, surprise, re
 
 Lastly, providing examples is another stylistic choice. Examples make abstract statements specific. Your brain best remembers things this way. Provide before-and-after examples, or counterexamples, to clarify what you don’t **mean. Help readers orient themselves on a spectrum of right and wrong. If you make examples fun and topical, readers pay more attention. Don't waste time with examples if you're confident your point was self-evident.
 
-### References & Bibliography
+**References & Bibliography**
+
 Jordan Peterson on references and biliogrpahy
 
 - When you write a sentence that contains what is supposed to be a fact or at least an informed opinion, and you have picked it up from something you read, then you have to refer to that source. Otherwise, following convention, people may accuse you of plagiarism, which is a form of theft (of intellectual property).
