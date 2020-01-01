@@ -63,7 +63,7 @@ const IndexPage = ({ data }) => {
         <Logo src={mehere} alt="MihirChronicles"/>
         <AboutContent>
           <p></p>
-          <p>Exploration has always been dear to my heart. I do not use the term "exploration" loosely. If you look at the challenges below, I have always put a huge emphasis on exploring and following my own curiosity. And I hope that does not change as I get older. I am using this blog as a platform to learn openly in public and share those gems with others (mostly for my wife, future kids and friends) as I find them interesting. Learning is one thing, but teaching is another. The latter is much harder to strive for because we have to put our demons like ego and selfish acts to rest.</p>
+          <p>Exploration has always been dear to my heart. I do not use the term "exploration" loosely. If you look at the milestones section below, I have always put a huge emphasis on exploring and following my own curiosity. And I hope that does not change as I get older. I am using this blog as a platform to learn openly in public and share those gems with others (mostly for my wife, future kids and friends) as I find them interesting. Learning is one thing, but teaching is another. The latter is much harder to strive for because we have to put our demons like ego and selfish acts to rest.</p>
           <p>The game of investing in markets is always fun. There is no better way to learn about the real world than throwing ourselves out there. I purchased my first stock at the age of 17, which also happend to be right before the 2008 recession. In a few months, I lost all of my savings that I accumulated from my summer jobs. This is when understanding the psychology of markets became fascinating to me. In the end, markets are people, corporations, government and everything else in between. If we understand markets, we understand people, and vice-versa.</p>
           <p>The game of creation is another one. There is something beautiful about bringing abstraction to life. If I wouldn't have studied finance and accounting, I would have gone to design or engineering school. I built my first product after graduating from college. By no means was it a rocket science — it was a simple pen, packaged beautifully. But the ability to bring the vision to life and sharing with others was fulfilling. Soon after that, I learned how to write code. Now I will jump onto anything that helps me create. My motto has become something like “don't complain, create.”</p>
           <p>Lastly, the game of finding harmony with our soul. I truly cherish immersing into different cultures, being out in the woods, hiking trails, climbing mountains, gazing at stars, reading in solitude, teaching kids about life and creating things. When I pursue these things, I am in my truest element. There is no pain and more importantly my soul is most alive! All these things help me build surplus of positive energy. All I am striving for is to keep building on this momentum. Ralph Waldo Emerson said it best about leadership and friendship:</p>
@@ -71,16 +71,18 @@ const IndexPage = ({ data }) => {
         </AboutContent>
       </About>
       <Horizontal/>
-      <h2>Challenges</h2>
+      <h2>Milestones</h2>
         <ol>
-          <li><strong>2010:</strong> visit Berkshire Hathaway shareholder meeting in Nebraska to listen to Warren Buffett and Charlie Munger.</li>
-          <li><strong>2012:</strong> visit Haiti and learn about education and school systems. Recap <a href="https://vimeo.com/80200375">here</a>.</li>
-          <li><strong>2013:</strong> travel with a one-way ticket for a backpacking trip in India. Recap <a href="https://www.youtube.com/watch?v=qUGvvCtpIaY">here</a>.</li>
-          <li><strong>2014:</strong> launch and build a physical product. See the project <a href="https://www.instagram.com/humblepen/">here</a>.</li>
-          <li><strong>2016:</strong> move somewhere where there is no family or friends to learn to write code and spend time in the mountains in solitude. Ended up in Utah for 9 months.</li>
-          <li><strong>2017:</strong> volunteer at the Adler Planetarium to teach kids how to use telescopes. Nothing concrete to share but my friends and family can share a lot about my obsession.</li>
+          <li><strong>2010:</strong> visited Berkshire Hathaway shareholder meeting in Nebraska to listen to Warren Buffett and Charlie Munger.</li>
+          <li><strong>2011:</strong> graduated college with Accountancy and Finance degree.</li>
+          <li><strong>2012:</strong> ran Royal Ace Investments with a school friend. Got a taste of trading and absolutely hated it. Visited Haiti to learn about education system. Recap <a href="https://vimeo.com/80200375">here</a>.</li>
+          <li><strong>2013:</strong> traveled with a one-way ticket for a backpacking trip in India. Recap <a href="https://www.youtube.com/watch?v=qUGvvCtpIaY">here</a>.</li>
+          <li><strong>2014:</strong> launched and built a physical product. See the project <a href="https://www.instagram.com/humblepen/">here</a>. Volunteered at the Adler Planetarium to teach kids how to use telescopes (nothing concrete to share but my friends and family can share a lot about my obsession).</li>
+          <li><strong>2015:</strong> moved to Utah to learn to write code and spend time in the mountains.</li>
+          <li><strong>2016:</strong> started as a developer at Morningstar.</li>
+          <li><strong>2017:</strong> proposed to my future wife in <a href="https://www.youtube.com/watch?v=Wdt6DQ9c4_o">Yosemite</a>.</li>
           <li><strong>2018:</strong> learn to think independentally by using mental models. See the project <a href="https://www.wisecharlie.com">here</a>.</li>
-          <li><strong>2019:</strong> get married, a dog and learn how to work together.</li>
+          <li><strong>2019:</strong> got married and finally got <a href="https://www.instagram.com/twinkle_twinkle_leo_star/?hl=en">Leo</a> that I promised my wife during our proposal<a href="https://www.instagram.com/twinkle_twinkle_leo_star/"></a>.</li>
         </ol>
       <h2>Questions</h2>
         <ol>
