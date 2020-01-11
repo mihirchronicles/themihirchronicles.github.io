@@ -107,11 +107,11 @@ You must define your purpose for writing. For example, I want to understand capi
 
 For brevity, try to have one purpose for each sentence. But don't overkill on making your sentences so pure that they are boring or too dry to read. Narrative is as important as purpose to capture reader's attention. I'll address stylistic choices later for more fluid narrative. However, each sentence, paragraph and the essay should relentlessly focus on only one purpose.
 
-**USE TITLES TO DEFINE YOUR PURPOSE**
+### Use titles to define your purpose
 
 Titles are important. If anytime you feel diverged, titles can be a good reminder of your purpose. If you can't understand your topic, your reader will most likely feel the same. Using something like “Systems, Free Society & Economy” can be dangerous because it does not allow a reader to understand the purpose of your writing. The title is so vague here. It is impossible to tell which type of systems or which free society. A better title could be “Capitalism and its role in America.” This will draw readers who are interested in understanding capitalism and its role in American economy. It is clear and concise.
 
-**DISADVANTAGES OF PURPOSE**
+### Disadvantages of purpose
 
 What are the limitations of purpose? There are circumstances when you have to explore beyond the boundaries of your purpose. You might be exploring topic A and B. But the topic B does not fit into topic A. This creates uncertainty and does not allow for singular purpose. During this emotional roller coaster, you may feel your exploration on topic B is a wasted effort since it does not tie into topic A. These doubts must be resisted because now you have a better understanding of a topic from different viewpoints. Perhaps, a better alternative is to review your purpose again.
 
@@ -126,7 +126,7 @@ How to gather information on a topic you want to write about?
     - *How adaptive system such as survival of the fittest in biology and capitalism in economics are related to each other?*
 - Run short experiments and tests by stress testing a set of data to derive a conclusion from the study. Running a short study should give you a direction on where to take your research. You should gather data from credible resources. Keep in mind, you are not a data analyst so don't spiral yourself into analysis paralysis. This step is to ensure that you have done your homework. Relying on other academic research should also be sufficient.
 
-**QUESTIONS TO RESEARCH AND READ MORE**
+### Questions to research and read more
 
 By now, you may also feel you are running out of ideas. What do you do when ideas stop flowing?
 
@@ -150,7 +150,7 @@ Once you state these key points, gather 5-10 publications and 5-10 books and sta
 - Publication 1, Publication2, etc.
     - Notes1, Notes2, etc.
 
-**A NOTES ON TAKING NOTES**
+### A note on taking notes
 
 Highlighting is overrated. Instead, practice learning mindfully. How? Summarize each section of your publication or each chapter of your book. This step of exploring really enables you to apply rigor to understanding what you have just read. By doing this, you put your brain to work which will help you remember and expand your memory. Always read with a pen or pencil so you can take notes right away. Putting this aside will only make you push the can further down the road. These are all good mental hygiene practices.
 
@@ -220,7 +220,7 @@ Brevity is the ultimate soul of wit. Use fewer words and simple sentences becaus
 
 Once you feel comfortable with your first draft, it is time to revise by cutting, rewriting, avoiding clichés, applying first person rules, avoiding passive voice, using caution with adverbs and using proper punctuations. Repeat the process until the clearest statements are achieved.
 
-**CUTTING**
+### Cutting
 
 > Anything that can be said can be said clearly. — Ludwig Wittgenstein
 
@@ -238,7 +238,7 @@ Slice every paragraph by each sentence and place it on its own line. The purpose
 - _When writers use these rephrases, **~~“In other words”~~** or ~~**“That is to say”**~~ or ~~**“Put another way”**~~, it is often a red flag. Say something once, why explain it again? Are you not confident in your original statement that you have to explain it again?_
 - _Don't ~~**italicize**~~ or use ~~“**quotations**”~~  to emphasize your arguments. If what you’re saying is important, you don’t need fonts or punctuation marks to prove it. And if what you’re saying isn’t important, no amount of italics or quotation marks can make it so. If what you’re saying can’t speak for itself, why are you speaking for it? If you really need to drive your points home, you can **bold** them._
 
-**REWRITING**
+### Rewriting
 
 The essence of rewriting is destruction. Cutting is bloody, but rewriting is destructive, because it requires brutal self-examination after you already put all that work into striving for perfection. Rewrite your sentences to be more precise (short and simple) and meaningful. Let go of whatever you love the most. Great writers don’t try to fix their own work but they try to destroy it. 
 
@@ -267,7 +267,7 @@ Rewrite in a way that you are explaining a complex topic to a ten-year-old. The 
 - Take 1: *To be brief on the sentence-level, remove words that don’t add necessary context. Extra words cause readers to slow down and do extra work. That makes it harder for them to recognize the sentence’s point. And when you exhaust readers, they quit reading.*
 - Take 2: *Your sentence is brief when no additional words can be removed. Being succinct is important because filler buries your talking points and bores readers into quitting.*
 
-**AVOID CLICHES**
+### Avoid cliches
 
 “Going south” or “taking a nosedive” or “the only game in town” or “I wouldn't touch it with a ten-foot pole” or “shoot first” or “ask questions later” are all examples of clichés. Clichés grow like viruses and spread like wildfire. This is not called writing but your fingers aimlessly moving and typing.
 
@@ -277,7 +277,7 @@ Some clichés get so overused that people have to introduce the enhanced version
 
 Politicians tend to do this really well. See some more examples [here](https://malaphors.com).
 
-**FIRST PERSON RULES**
+### First person rules
 
 “I think this, I know that, I feel like, trust me, myself and I” are endless echo of me me me and more me. First person is often utilized poorly among new writers. Writing in first person prevents you to stay independent and unbiased. You can get away with writing in the first person under two conditions:
 
@@ -286,7 +286,7 @@ Politicians tend to do this really well. See some more examples [here](https://m
 
 Regarding the redundancy of “I” or any of the first person pronouns, it is a matter of writing style. But if you want to adopt a writing style that does not sound biased, avoid first person pronouns.
 
-**AVOID PASSIVE VOICE**
+### Avoid passive voice
 
 According to [Wikipedia](https://en.wikipedia.org/wiki/Voice_(grammar)#Passive), “In the passive voice the grammatical subject of the verb is the recipient (not the doer) of the action denoted by the verb.” Let's review some of the most obvious **[examples](http://examples.yourdictionary.com/examples-of-active-and-passive-voice.html)** from [YourDictionary.com](http://yourdictionary.com) that are easily overlooked:
 
@@ -352,7 +352,7 @@ It’s simpler, cleaner, and more active. Writing better is all about paying att
 
 Have you made the logic of action in each sentence as simple and direct as possible? Is it clear who or what is the cause and who or what is affected? Are you tying unneeded words to the ankles of the subjects and objects of the sentence? Are you letting verbs do their work, or are you treating them as if they can’t move without crutches and canes?
 
-**CAUTION WITH ADVERBS**
+### Caution with adverbs
 
 Mark Twain disliked them: 
 
@@ -388,7 +388,7 @@ Concrete adverbs, such as *wildly* or *coldly,* inject specificity into sent
 
 I **~~literally~~** died laughing. No, you didn't!
 
-**PUNCTUATION**
+### Punctuation
 
 There is loss of clarity when misusing punctuation and marks the writers as someone who doesn’t pay attention to detail. Below are few rules to follow for proper punctuation:
 
@@ -560,7 +560,7 @@ There is loss of clarity when misusing punctuation and marks the writers as some
 
 ## 9. Final draft
 
-**RESOLUTION**
+### Resolution
 
 Your goal is to make your writing so concise that it can’t be summarized further. For the essay to succeed, brilliantly, it has to work at all of the levels of resolution simultaneously. You should not transfer any cognitive load to your readers. Logic should flow flawlessly and narrative should be fluid. Below are the levels of resolutions:
 
@@ -574,7 +574,7 @@ Your goal is to make your writing so concise that it can’t be summarized furth
     - What is the purpose of your writing?
 - *Culture*: an essay necessarily exists within a context of interpretation, made up of culture that the reader is embedded in. Knowing your audience's culture is as important as knowing your audience. Context matters!
 
-**RHYTHM & STYLE**
+### Rhythm & Style
 
 > The essence of a sound style is that it cannot be reduced to rules — that it is a living and breathing thing, with something of the demoniacal in it — that it fits its proprietor tightly and yet ever so loosely, as his skin fits him. It is, in fact, quite as securely an integral part of him as that skin is…. In brief, a style is always the outward and visible symbol of a [writer], and it cannot be anything else.  To attempt to teach it is as silly as to set up courses in making love. — H.L. Mencken
 
@@ -602,7 +602,7 @@ Great writers orchestrate that interplay between tension, suspense, surprise, re
 
 Lastly, providing examples is another stylistic choice. Examples make abstract statements specific. Your brain best remembers things this way. Provide before-and-after examples, or counterexamples, to clarify what you don’t **mean. Help readers orient themselves on a spectrum of right and wrong. If you make examples fun and topical, readers pay more attention. Don't waste time with examples if you're confident your point was self-evident.
 
-**REFERENCES & BIBLIOGRPAHY**
+### References & Bibliography
 
 Jordan Peterson on references and biliogrpahy
 
