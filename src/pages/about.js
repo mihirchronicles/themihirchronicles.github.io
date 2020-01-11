@@ -84,15 +84,6 @@ const IndexPage = ({ data }) => {
           <li><strong>2018:</strong> learn to think independentally by using mental models. See the project <a href="https://www.wisecharlie.com">here</a>.</li>
           <li><strong>2019:</strong> got married and finally got <a href="https://www.instagram.com/twinkle_twinkle_leo_star/?hl=en">Leo</a> that I promised my wife during our proposal<a href="https://www.instagram.com/twinkle_twinkle_leo_star/"></a>.</li>
         </ol>
-      <h2>Questions</h2>
-        <ol>
-          <li>How can financial intitatives like ESG transform the environmental transformation (terraforming)?</li>
-          <li>How can telescopes drive curiosity and imagination for young kids?</li>
-          <li>What are some ways coaches provide feedback loop to young kids? What if we scale this to every child?</li>
-          <li>How do institutions like universities, media and politics drive socioeconomics?</li>
-          <li>How can we speed up by an order of magnitude without sacrificing quality, safety and reliability?</li>
-          <li>How can we build surplus of energy and momentum knowing we control the energy production (in other words — optimism, choices, etc.)?</li>
-        </ol>
       <h2>Principles</h2>
         <ol>
           <li><strong>I. Honesty:</strong> without honesty none of the values below matter. We not only have to be honest to others but to ourselves, our subconscious and every decision we make. Honesty is the highest honor we will carry. It'll help us preserve our reputation and integrity. Be ruthless if integrity is ever being questioned. Always protect our reputation. It takes years to build it and minutes to ruin it. If we don’t ask, we don’t get. If we don’t question, we don’t know. Authenticity and originality is born when we are honest to ourselves and others around us. Owning our actions can be incredibly difficult to do. We aren’t programmed to expose our egos or make ourselves vulnerable when we make mistakes or do something stupid. But one of the most powerful ways to make giant leaps forward in our lives is to not only accept that we’ll screw up, but to actively seek out correction when we do. When we refuse to accept ownership of our mistakes, we have distorted the feedback loop we rely on to make better decisions in the future.</li>
@@ -111,33 +102,6 @@ const IndexPage = ({ data }) => {
           <li><strong>XIV.Optimism:</strong> be realist but optimistic and make wise choices. Our decisions will define our process and path, so choose wisely. Asking a question in a positive manner generates a better response. Example: “'Preacher, can I smoke while I'm praying?' Answer: No. 'Preacher, can I pray whilst I'm smoking?' Answer: Of course you can.” Positive thinking is an incredibly powerful tool. Positive, proactive behavior spurs positive and proactive behavior. The pessimist sees the difficulty in every opportunity but an optimist sees the opportunity in every difficulty. Positive people don't just have a good day but they make it a good day. People who think positively usually see endless possibilities. Success doesn't create optimism but optimism leads to progress. Do not compare or judge others but cut negative negative energy out instantly.</li>
           <li><strong>XV. Frugality:</strong> consume to meet the basic needs, waste nothing and be content with what we have. But don’t make mistake frugality with letting go of our youth and having fun. Both fun and frugality can co-exist. People who live far below their means enjoy a freedom that people busy upgrading their lifestyles can’t fathom.</li>
           <li><strong>XVI. Perseverance:</strong> stubbornness means being persistent. Don't give up or complain if something is not working out. Results are always on the opposite side of giving up. Being vulnerable is part of the process. In failing, there is humility. Accept any obstacles and overcome it. While obstacles persist, don't lose our cool. Be calm and solve problems rationally to overcome them. When in an unproductive state, start with a small win. Momentum in everyday life is highly underrated. It is all about effort. Reflect back when we fail to analyze symptoms from the disease. Enduring pain will help us take larger challenges and help us grow. If we have big goals, we will also fall hard but that is okay! It is part of the process. Struggling to get them will help us evolve. Courage (risk-taking) is the highest virtue. The journey of discovery is often tedious, filled with dead ends, and above all random but persistence through randomness will always prevail. Grit comes from learning we can get back up after we get knocked down.</li>
-        </ol>
-        <h2>Beliefs</h2>
-        <ol>
-          <li>I don't find any difference between work and play. They both require balance and hard work but are equally important.</li>
-          <li>I believe in working harder when odds are against me.</li>
-          <li>I don't believe in handouts, but I believe that a giving nature is when we are at best.</li>
-          <li>I believe in a democratic platform despite of extremeness on both sides.</li>
-          <li>I don't have strong political beliefs in either direction because it does not allow me to think rationally.</li>
-          <li>I don't believe in stereotypes or biases because they masks our inability to understand. At times, I might be however biased without realizing.</li>
-          <li>I believe in capitalism but not at the cost of ruining our planet or moral values.</li>
-          <li>I don't believe in growth at all cost but I believe in a healthy competition.</li>
-          <li>I believe in winners attitude even in defeat. Learning from failure is the best life lesson.</li>
-          <li>I find there is a huge difference between luck and skill but we are psychologically incompetent to tell the difference between the two.</li>
-          <li>I believe in executing with patience because willingness to wait longer than other people is a biggest natural edge.</li>
-          <li>I find short-term thinking to be at the root of all of our problems.</li>
-          <li>I find debt toxic and a root cause of destructing families and society. How come debt is tax-deductible yet drugs are illegal?</li>
-          <li>I find incentives to drive everyone's behavior, whether it is morally good or bad.</li>
-          <li>I find people's expectations grow faster than their wealth. The western world has never been so rich yet unhappier than ever.</li>
-          <li>I find strong correlation between knowledge and humility. People who spend few minutes studying a topic think they have it all figured it out, while people with decades of experience realize how little they know.</li>
-          <li>I've learned what looks like tomorrow's biggest threat almost never is. Most are worried about macroeconomic issues such as war, severe economic downturns or something else, which rarely or never occurs. The biggest risk in front of us is excessive pessimism. But I do not believe in an extreme event having a probability of zero. People in 1900 never thought of WWI or WWII yet it happened but humanity also survived.</li>
-          <li>I believe in mindfulness. Being present with full attention is morally good for everyone.</li>
-          <li>I believe in nourishing my mind and body.</li>
-          <li>I believe in sharing my thoughts openly without any fear of being judged. Learning in public will keep ego in check.</li>
-          <li>I believe in people who take care of me especially friends and family.</li>
-          <li>I believe in exploration and exploring beyond the planet earth.</li>
-          <li>I believe in people and humanity.</li>
-          <li>I believe as I grow older, these beliefs will evolve as I gain more wisdom.</li>
         </ol>
       </Content>
     </Layout>
