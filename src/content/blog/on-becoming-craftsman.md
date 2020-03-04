@@ -1,9 +1,9 @@
 ---
-title: "Becoming A Craftsman"
+title: "On Becoming A Craftsman"
 tags: ["general"]
 date: "2018-12-01"
 draft: false
-path: "/blog/becoming-craftsman"
+path: "/blog/on-becoming-craftsman"
 ---
 
 People always ask, “What do you want to do with your life?” Then, there is a follow-up question, “What are you good at?”

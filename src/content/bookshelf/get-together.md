@@ -1,7 +1,7 @@
 ---
 title: Get Together by Bailey Richardson, Kevin Huynh, Kai Elmer Sotto
 date: "2020-02-01"
-path: "/bookshelf/get-together8"
+path: "/bookshelf/get-together"
 ---
 
 #### [I. Brief Summary]
