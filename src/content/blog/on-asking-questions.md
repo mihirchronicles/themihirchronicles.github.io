@@ -7,7 +7,7 @@ path: "/blog/on-asking-questions"
 ---
 Asking great questions is the most useful yet underutilized tool for anyone who wants to lead or discover.
 
-To discover what truly matters, you can ask deeper and deeper questions that are build upon the previous answers. The key to getting to the bottom of root causes is not to ask one question, but several questions. This deiberate effort challenges everyone's assumptions,  preconceived notions and biases. You must have heard “the importance of asking why!” Building upon those whys will peel back all the onion ring layers and help you reach facts.
+To discover what truly matters, you can ask deeper and deeper questions that are build upon the previous answers. The key to getting to the bottom of any root cause is not to ask one question, but several questions. This deliberate effort challenges everyone's assumptions, preconceived notions and biases. You must have heard “the importance of asking why!” Building upon those whys will peel back all the onion ring layers and help you reach facts.
 
 So, where do you start? Start with **mental models**. 
 
