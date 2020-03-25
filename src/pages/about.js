@@ -82,7 +82,7 @@ const IndexPage = ({ data }) => {
           <li><strong>2016:</strong> started as a developer at Morningstar.</li>
           <li><strong>2017:</strong> proposed to my future wife in <a href="https://www.youtube.com/watch?v=Wdt6DQ9c4_o">Yosemite</a>.</li>
           <li><strong>2018:</strong> learn to think independentally by using mental models. See the project <a href="https://www.wisecharlie.com">here</a>.</li>
-          <li><strong>2019:</strong> got married and finally got <a href="https://www.instagram.com/twinkle_twinkle_leo_star/?hl=en">Leo</a> that I promised my wife during our proposal<a href="https://www.instagram.com/twinkle_twinkle_leo_star/"></a>.</li>
+          <li><strong>2019:</strong> got married and added a family member <a href="https://www.instagram.com/twinkle_twinkle_leo_star/?hl=en">Leo</a>.</li>
         </ol>
       <h2>Principles</h2>
         <ol>
