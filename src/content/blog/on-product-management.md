@@ -6,67 +6,67 @@ draft: false
 path: "/blog/on-product-management"
 ---
 
-- Understand the industry, market and users
+- Understand the industry, market and users (outward looking)
     - domain knowledge of an industry
-    - competitiive analysis to understand market trends
+    - competitive analysis to understand market trends
     - user studies by spending a lot of time with users and understanding their pain
-
-- Understand the business objectives and goals
+- Understand the business objectives and goals (inward looking)
     - business strategies to understand how the organization fits in the market
     - business goals to understand key initiatives
-
 - Understand teamwork
     - you can't win without your team, and you certainly won't succeed without their backing
-    - seek collaboration with your team, not necessarily consensus
+    - seek collaboration not consensus with your team
     - collaboration, communication and inclusion are essential
-
 - Understand priorities
-    - build a roadmap based on market research and business objectives
+    - build a roadmap based on market research, user research and business objectives
     - communicate with team members and get a buy-in from everyone involved
     - consistent decisions around roadmap prioritization and tradeoffs
-
 - Understand metrics
     - be metrics driven to define the success of product/feature delivery
-    - use time series data to give you insight into what people are doing with the product and see if the changes you are making are improving things
+    - use time series data to get insight into what people are doing with the product and see if the changes made are improving user goals
     - if you are not measuring metrics you are just guessing
-
 - Understand stakeholder's expectations
     - communicate roadmap and metrics with your stakeholders
-    - sign-off on deliverables and goals
-
+    - sign-off on deliverables, timeline and metric success
 - Understand impact on cross-functional teams
     - everyone internally needs to be on the same page when changes roll out
-    - you are the point of contact for all things related to this product
-    - build credibility and trust within an organization.
-    - negotiates and resolve conflicts while ensuring everyone knows what ultimate success means
-
-- Understand user expectations
+    - you are the point of contact for all things related to the product
+    - build credibility and trust within an organization
+    - negotiate and resolve conflicts while ensuring everyone knows what product & feature progression means
+- Understand user expectations(pre- and post-build)
     - users need to see that the product is continually improving by hearing about it from you
     - communicate upcoming changes to external customers
     - communicate upcoming release
-
+    - document changelog
+    - announce release
 - Understand execution
-    - develop product vision 
-    - build conviction about where things are going in the future
-    - make the hard calls about what to eliminate
-    - setting up milestones 
-    - showcasing progress to internal stakeholders
+    - develop product vision
+    - capture feature requests in  stories and epics with clear and concise acceptance criteria
+    - build conviction about where things are going in the future and communicate with external and internal customers
+    - make hard calls about what to eliminate
+    - setting up timeline and milestones
+    - showcasing work-in-progress demos to internal stakeholders
     - delighting customers with new features in beta period
+    - continuously improving quality by fixing bugs
 
-## Why is there a need for product life cycle management?
+## **What is product management?**
 
-The goals of product life cycle management (PLM) are to reduce time to market, improve product quality, reduce prototyping costs, identify potential sales opportunities and revenue contributions, maintain and sustain operational serviceability, and reduce environmental impacts at end-of-life. To create successful new products the company must understand its customers, markets and competitors. PLM solutions help organizations overcome the increased complexity and engineering and design challenges of developing new products for the global competitive markets.
-
-## What is product management?
-
-Product management is an organizational function within a company dealing with new product development, business justification, planning, verification, forecasting, pricing, product launch, and marketing of a product or products at all stages of the product lifecycle. Similarly, product lifecycle management integrates people, data, processes and business systems. It provides product information for companies and their extended supply chain enterprise.
+Product management is an organizational function within a company dealing with new product development, business justification, planning, verification, forecasting, pricing, product launch, and marketing of a product or products at all stages of the product lifecycle.
 
 - **Product Lifecycle**: product lifecycle management is the process of managing the entire lifecycle of a product from inception, through engineering, design, prototyping and manufacture, to service, maintenance and disposal of products. Products have a limited life and thus every product has a life cycle.
 - **PLM vs PLCM**: product lifecycle management (PLM) should be distinguished from product life-cycle management marketing (PLCM). PLM describes the engineering and design aspect of a product, from managing descriptions and properties of a product through its development and useful life. PLCM refers to the commercial management of life of a product in the business market with respect to costs and sales measures.
 
-## How to extend product lifecycle?
+## **Why is there a need for product life cycle management?**
 
-Once the product reaches maturity, organizations desire to extend the product life cycle by improving sales. It can be done through:
+The goals of product life cycle management (PLM) are to reduce time to market, improve product quality, reduce prototyping costs, identify potential sales opportunities and revenue contributions, maintain and sustain operational serviceability, and reduce environmental impacts at end-of-life. 
+
+To create successful new products the company must understand its customers, markets and competitors. 
+
+PLM solutions help organizations overcome the increased complexity, engineering and design challenges of developing new products for the global competitive markets.
+
+## **How to extend product lifecycle?**
+
+Once the product reaches maturity, organizations desire to extend the product life cycle to maximize revenue. Some of the following ways to extend the product lifecycle are:
 
 - **Advertising**: its purpose is to get additional audience and potential customers.
 - **Exploring and expanding to new markets**: by conducting market research and offering the product (or some adapted form of it) to new markets, it is possible to get more customers.
@@ -76,7 +76,7 @@ Once the product reaches maturity, organizations desire to extend the product li
 - **Changing customer consumption habits**: promoting new trends of consumption can increase the number of customers.
 - **Special promotions**: raising interest by offering giveaways and other offers.
 
-## What are stages of product lifecycle?
+## **What are stages of product lifecycle?**
 
 There are the following major product life cycle stages:
 
@@ -106,13 +106,20 @@ There are the following major product life cycle stages:
     - prices, profitability diminish
     - profit becomes more a challenge of production/distribution efficiency than increased sales
 
-## What is the role of a product manager?
+## **What are the core competencies of product manager?**
 
-> Customers don't have needs, they just want to make progress within the system they belong. — Alan Klement
+Product managers focus on user and data research through design and development to marketing, sales, and support. Beyond shipping new features on a regular cadence and keeping the peace between engineering and the design team, the best PMs create products with strong user adoption that have exponential revenue growth and perhaps even disrupt an industry.
 
-> A good product takes chaos and creates order. — Brian Nogard
+The following core competencies are the baseline for any PM, and the best PMs hone these skills over years of defining, shipping, and iterating on products.
 
-A person who is responsible to set overall vision, direction, capability, quality and delivery of products. A PM ensures roadmap is prioritized to address market opportunities, and lead the product management discipline for the team. Product managers turns goals into projects with the help of their teams and entrepreneurial spirit. Too much to do is always a battle. That's the perpetual state of being a product manager but the goal is to use a hammer on the highest nail. *Product Owner* is a role you play on a scrum team. *Product Manager* is the job. 
+- conducting customer interviews and user testing
+- running design sprints
+- feature prioritization and road map planning
+- the art of resource allocation (it is not a science!)
+- performing market assessments
+- translating business-to-technical requirements, and vice versa
+- pricing and revenue modeling
+- defining and tracking success metrics
 
 **Learning by doing**: to master the art of product management requires several years of practice and doing. Ultimately, the best thing you can do to prepare for a career in Product Management is to build. Manage and “own” a project from inception through execution and operation. Create KPIs and measure your impact. If you have a gap in client knowledge, shadow a customer support rep. Learn about clients, what jobs they are trying to accomplish with products, and what problems organization is uniquely positioned to solve for them. Become an expert in internal products.
 
@@ -132,7 +139,10 @@ A person who is responsible to set overall vision, direction, capability, qualit
 
 **Social awareness**: PMs must understand customers’ emotions and concerns about their product as much as they understand the concerns of the sales team on how to sell that product, or the support team on how to support it, or the engineering team on how to build it. PMs have to have a deep understanding of how the organization operates and must build social capital to influence the success of their product, from obtaining budget and staffing to securing a top engineer to work on their product. Finally, social awareness ensures the best PMs service their customers with a product that addresses their jobs to be done, which is ultimately what drives product-market fit.
 
-## Sources:
-- https://en.wikipedia.org/wiki/Product_management
-- https://en.wikipedia.org/wiki/Product_lifecycle
-- https://hbr.org/2017/12/what-it-takes-to-become-a-great-product-manager
+## **What is the role of a product manager?**
+
+> Customers don't have needs, they just want to make progress within the system they belong. — Alan Klement
+
+> A good product takes chaos and creates order. — Brian Nogard
+
+A person who is responsible to set overall vision, direction, capability, quality and delivery of products. A PM ensures roadmap is prioritized to address market opportunities, and lead the product management discipline for the team. Product managers turns goals into projects with the help of their teams and entrepreneurial spirit. Too much to do is always a battle. That's the perpetual state of being a product manager but the goal is to use a hammer on the highest nail. *Product Owner* is a role you play on a scrum team. *Product Manager* is the job.
