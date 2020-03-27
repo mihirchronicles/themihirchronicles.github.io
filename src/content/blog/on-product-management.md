@@ -6,6 +6,8 @@ draft: false
 path: "/blog/on-product-management"
 ---
 
+## Unnderstanding key areas of Product Management
+
 - Understand the industry, market and users (outward looking)
     - domain knowledge of an industry
     - competitive analysis to understand market trends
@@ -60,7 +62,7 @@ Product management is an organizational function within a company dealing with n
 - **Product Lifecycle**: product lifecycle management is the process of managing the entire lifecycle of a product from inception, through engineering, design, prototyping and manufacture, to service, maintenance and disposal of products. Products have a limited life and thus every product has a life cycle.
 - **PLM vs PLCM**: product lifecycle management (PLM) should be distinguished from product life-cycle management marketing (PLCM). PLM describes the engineering and design aspect of a product, from managing descriptions and properties of a product through its development and useful life. PLCM refers to the commercial management of life of a product in the business market with respect to costs and sales measures.
 
-## **Why is there a need for product life cycle management?**
+## Why is there a need for product life cycle management?
 
 The goals of product life cycle management (PLM) are to reduce time to market, improve product quality, reduce prototyping costs, identify potential sales opportunities and revenue contributions, maintain and sustain operational serviceability, and reduce environmental impacts at end-of-life. 
 
@@ -68,7 +70,7 @@ To create successful new products the company must understand its customers, mar
 
 PLM solutions help organizations overcome the increased complexity, engineering and design challenges of developing new products for the global competitive markets.
 
-## **How to extend product lifecycle?**
+## How to extend product lifecycle?
 
 Once the product reaches maturity, organizations desire to extend the product life cycle to maximize revenue. Some of the following ways to extend the product lifecycle are:
 
@@ -80,7 +82,7 @@ Once the product reaches maturity, organizations desire to extend the product li
 - **Changing customer consumption habits**: promoting new trends of consumption can increase the number of customers.
 - **Special promotions**: raising interest by offering giveaways and other offers.
 
-## **What are stages of product lifecycle?**
+## What are stages of product lifecycle?
 
 There are the following major product life cycle stages:
 
@@ -110,7 +112,7 @@ There are the following major product life cycle stages:
     - prices, profitability diminish
     - profit becomes more a challenge of production/distribution efficiency than increased sales
 
-## **What is the role of a product manager?**
+## What is the role of a product manager?
 
 A person who is responsible to set overall vision, direction, capability, quality and delivery of products. A PM ensures roadmap is prioritized to address market opportunities, and lead the product management discipline for the team. Product managers turns goals into projects with the help of their teams and entrepreneurial spirit. Too much to do is always a battle. That's the perpetual state of being a product manager but the goal is to use a hammer on the highest nail. 
 
@@ -118,7 +120,7 @@ A person who is responsible to set overall vision, direction, capability, qualit
 
 Product managers focus on user and data research through design and development to marketing, sales, and support. Beyond shipping new features on a regular cadence and keeping the peace between engineering and the design team, the best PMs create products with strong user adoption that have exponential revenue growth and perhaps even disrupt an industry.
 
-## **What are the core competencies of a product manager?**
+## What are the core competencies of a product manager?
 
 The following core competencies are the baseline for any PM, and the best PMs hone these skills over years of defining, shipping, and iterating on products.
 
@@ -135,7 +137,7 @@ The following core competencies are the baseline for any PM, and the best PMs ho
 - document stories, epics, technical requirements, user workflows 
 - defining and tracking success metrics
 
-## **What are some tips to become a great product manager?**
+## What are some tips to become a great product manager?
 
 **Learning by doing**: to master the art of product management requires several years of practice and doing. Ultimately, the best thing you can do to prepare for a career in Product Management is to build. Manage and “own” a project from inception through execution and operation. Create KPIs and measure your impact.
 
@@ -155,10 +157,29 @@ The following core competencies are the baseline for any PM, and the best PMs ho
 
 **Social awareness**: PMs must understand customers’ emotions and concerns about their product as much as they understand the concerns of the sales team on how to sell that product, or the support team on how to support it, or the engineering team on how to build it. PMs have to have a deep understanding of how the organization operates and must build social capital to influence the success of their product, from obtaining budget and staffing to securing a top engineer to work on their product. Finally, social awareness ensures the best PMs service their customers with a product that addresses their jobs to be done, which is ultimately what drives product-market fit.
 
-## **What are some of the product philosophy?**
+**Story-tellers**: the best PMs are able to weave tales that incorporate market needs, strategy, and tactics into a story that their stakeholders can get their heads around and hopefully adopt the story themselves.
+
+## What are some of the product philosophies?
 
 Every company has a different philosophy about the product development process and where PMs fit into that process. Below are the three most common types, with pros and cons:
 
-- PM drives engineering
-- Engineering drives PM
-- Partnership
+- **PM drives Engineering**: where PMs gather requirements, write product requirement document, and hand it off to engineering to spec out the technical requirements. Contemporary organizations may do this process in a more agile and collaborative way, but the expectation is that PMs know best about what customers need and engineering is there to serve.
+    - Pro: Engineering can focus on coding without a lot of distraction; this tends to work well for *Waterfall* development shops with long lifecycles.
+    - Con: Engineers lose sight of the big picture and do not develop empathy for customers, which can lead to a poor user experience. Often there are unhealthy tensions when technical debt and “plumbing” work needs to be prioritized over customer requirements.
+- **Engineering drives PM**: technically oriented product companies (cloud, big data, networking) tend to be engineering-driven, where engineers are advancing the science in their domain and PMs validate solutions or create front end access points (UIs, APIs) to tap into this new technology. There can be a collaborative relationship and feedback loop between customers, PMs, and engineering, but typically PMs are serving engineering in these companies.
+    - Pro: breakthrough technology can offer customers things they didn’t even know they needed. An engineer thought it would be cool to do, a PM figured out how to monetize it, and it became a billion-dollar game changer for the company.
+    - Con: engineers chase the shiny new thing, over-architect the solution, or iterate forever, seeking perfection before getting customer feedback. PM input on priorities is ignored, which sometimes includes the most basic needs of customers.
+- **PM-Engineering Partnership**: there is a strong yin-yang between PM and engineering, with joint discovery, decision making, and shared accountability. Engineers join PMs in customer interviews, and PMs are in sprint meetings to help unblock tasks or clarify requirements. But the two roles respect the line where one starts and the other stops. PMs understand what’s being coded but don’t tell engineers how to code, and engineers have empathy for customers’ needs but leave the prioritization to the PMs.
+    - Pro: A streamlined prioritization process that values technical debt and plumbing projects; better design processes leading to a more positive user experience; higher-performing teams with improved product velocity, quality, and, typically, happier customers.
+    - Con: Breakthrough innovation may not get greenlit; time-to-market may seem to lag (though I’d argue that what’s released is far better aligned with customer needs and more likely to successfully scale).
+
+## How does product management operate in different stages of companies?
+
+The role of the PM at a startup is far more likely to be responsible to wear “all the hats,” whereas at a mature company their role will be more distinctly defined.
+
+- **Startup**: beyond discovery, definition, and shipping, PMs may also be responsible for pricing, marketing, support, and potentially even sales of the product. These PMs thrive in a scrappy environment and are comfortable with ambiguity and frequent changes to direction as the company works towards product-market fit and learns to operate at scale.
+    - Pro: PMs are likely to be more involved with company strategy, get exposure to senior leadership and the board, are able to take more risks and make a bigger impact. They also have more influence and authority over company resources.
+    - Con: There’s typically little to no mentorship, role models, or best practices within the company. You may have to seek it externally. Budgets are typically tight, and PMs may not have the requisite experience to succeed at some of the things they’re tasked to do.
+- **Mature company**: The PM may have a narrower scope and have coworkers who handle pricing, go-to-market strategies, and so on. And they are likely to be part of a larger team of product managers.
+    - Pro: PMs are more likely to have mentoring and role models, as well as development standards and best practices. Close association with an engineering team can create strong relationships over time, which is great for long-term impact and career growth. And if the product has market fit, there is an established customer base and performance baseline to work from, versus guessing until you get it right.
+    - Con: PMs have less exposure to company strategy and are just one of many voices of the customer. They can get “lost” in the system and have to deal with more politics and tight budgets.
