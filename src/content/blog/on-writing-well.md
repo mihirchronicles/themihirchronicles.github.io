@@ -659,13 +659,17 @@ Peterson (2014, p. 19) claims that “the conventions of the American Psychologi
     - Dante Alighieri
 
 ---
-## Notes
-- Sources:
-    - Notes on writing well by Michael Nielsen
-    - On writing better, part 1: getting started by Jason Zweig
-    - On writing better, part 2: sharpening your tools by Jason Zweig
-    - On writing better, part 3: becoming a writer by Jason Zweig
-    - Why I hate adverbs by Jason Zweig, Essay writing guide by Jordan B Peterson
-    - Writing Well by Julian Shaprio
-    - Punctuation by Julian Shaprio
-    - Novelist Cormac McCarthy’s tips on how to write a great science paper
+## Sources & Notes:
+<details>
+<summary>Click to expand!</summary>
+
+- Notes on writing well by Michael Nielsen
+- On writing better, part 1: getting started by Jason Zweig
+- On writing better, part 2: sharpening your tools by Jason Zweig
+- On writing better, part 3: becoming a writer by Jason Zweig
+- Why I hate adverbs by Jason Zweig, Essay writing guide by Jordan B Peterson
+- Writing Well by Julian Shaprio
+- Punctuation by Julian Shaprio
+- Novelist Cormac McCarthy’s tips on how to write a great science paper
+</details>
+<br>
