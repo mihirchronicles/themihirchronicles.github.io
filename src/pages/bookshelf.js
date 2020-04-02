@@ -49,8 +49,41 @@ const IndexPage = ({ data }) => {
                 <ReadingDateTime>| {node.fields.readingTime.text} ({node.frontmatter.date})</ReadingDateTime>
               </li>
             </ol>
+            <ul>
+            </ul>
           </div>
         ))}
+        <ol>
+          <li>The Alchemist</li>
+          <li>It Doesn't Have to Be Crazy at Work</li>
+          <li>The Last Lecture</li>
+          <li>When Breath Becomes Air</li>
+          <li>Bad Blood: Secrets and Lies in a Silicon Valley Startup</li>
+          <li>Grit</li>
+          <li>Being Logical: A Guide to Good Thinking</li>
+          <li>Misbehaving: The Making of Behavioral Economics</li>
+          <li>Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger, Expanded Third Edition</li>
+          <li>Cathedral of the Wild: An African Journey Home</li>
+          <li>Man's Search for Meaning</li>
+          <li>The $100 Startup: Reinvent the Way You Make a Living, Do What You Love, and Create a New Future</li>
+          <li>Dark Matter</li>
+          <li>The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life</li>
+          <li>The Power of Habit: Why We Do What We Do in Life and Business</li>
+          <li>How Google Works</li>
+          <li>The Everything Store: Jeff Bezos and the Age of Amazon</li>
+          <li>Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration</li>
+          <li>The Great Gatsby</li>
+          <li>	The Intelligent Investor</li>
+          <li>The Creator's Code The Six Essential Skills of Extraordinary Entrepreneurs</li>
+          <li>Start Something That Matters</li>
+          <li>Zero to One: Notes on Startups, or How to Build the Future</li>
+          <li>The Snowball: Warren Buffett and the Business of Life</li>
+          <li>Steve Jobs</li>
+          <li>Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future</li>
+          <li>The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers</li>
+          <li>Becoming Steve Jobs: The Evolution of a Reckless Upstart into a Visionary Leader</li>
+          <li>The Martian</li>
+        </ol>
       </Content>
     </Layout>
   )
