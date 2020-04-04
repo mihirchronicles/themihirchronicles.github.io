@@ -46,7 +46,7 @@ const NameHeader = styled.h1`
 
 const Cheers = styled.h3`
   margin-bottom: 10px;
-  font-family: Reenie Beanie,Arial,Helvetica,sans-serif,cursive;
+  font-family: Reenie Beanie, Helvetica, sans-serif, cursive;
   font-size: 1.50rem;
 `
 
