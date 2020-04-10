@@ -300,7 +300,8 @@ Some of the technical topics that are commonly used in contemporary product mana
 |**Post-Implementation Review**|Review of the project after it’s done|
 |**Stand-up meeting**|A stand-up meeting is a meeting in which attendees typically participate while standing. The discomfort of standing for long periods is intended to keep the meetings short. It is a daily checkup of how the team is progressing.|
 
----
+<br>
+
 ## Sources & Notes:
 <details>
  <summary>Click to expand!</summary>
@@ -317,5 +318,6 @@ Some of the technical topics that are commonly used in contemporary product mana
 - https://mixpanel.com/innovators/a-flight-tested-framework-for-effective-goal-setting/
 - http://abovethecrowd.com/2012/09/04/the-dangerous-seduction-of-the-lifetime-value-ltv-formula/
 - https://jasonevanish.com/2020/01/12/100-lessons-and-spicy-takes-on-being-a-software-product-manager/
+- https://www.indiehackers.com/post/how-to-brainstorm-great-business-ideas-ab51c3d51c
 </details>
 <br>
