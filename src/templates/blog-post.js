@@ -25,7 +25,7 @@ const HeaderDate = styled.p`
 
 const MarkdownContent = styled.div`
   margin: 0 auto;
-  background-color: #e7e7e7;
+  background-color: #ffffff;
   padding: 15px 15px 5px 15px;
   border-radius: 5px;
 `

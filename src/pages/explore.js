@@ -10,7 +10,7 @@ const Content = styled.div`
 `
 
 const PostContainter = styled.div`
-  background-color: #e7e7e7;
+  background-color: #ffffff;
   padding: 15px 15px 5px 15px;
   margin-bottom: 20px;
   border-radius: 5px;

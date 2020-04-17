@@ -33,7 +33,7 @@ const NavLink = styled(Link)`
   position: relative;
   font-family: "Source Code Pro", monospace;
   color: #3d9cdf;
-  border-bottom: 3px solid #fff;
+  border-bottom: 3px solid #ffffff;
   
   :hover {
     border-bottom: 3px solid #2789e5;
