@@ -22,7 +22,8 @@ const MarkerHeader = styled.p`
 const ReadingDateTime = styled.p`
   display: inline;
   color: #000;
-  font-size: 11px;
+  font-size: 12px;
+  font-family: monospace;
 `
 
 const IndexPage = ({ data }) => {

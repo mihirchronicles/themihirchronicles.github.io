@@ -4,13 +4,13 @@ date: "2018-09-23"
 path: "/bookshelf/sapiens"
 ---
 
-#### [I. Brief Summary]
+## I. Brief Summary
 
 * Human history has been shaped by three major revolutions: the Cognitive Revolution (70,000 years ago), the Agricultural Revolution (12,000 years ago), and the Scientific Revolution (500 years ago). These revolutions have empowered humans to do something no other form of life has done, which is to create and connect around stories and ideas that do not physically exist (religion, capitalism, and politics). These shared “myths” have enabled humans to take over the globe and have put humankind on the verge of overcoming the forces of natural selection.
 
-#### [II. Big Ideas]
+## II. Big Ideas
 
-##### Homo Sapiens
+### Homo Sapiens
 - Species: animals belong to the same species if they tend to mate and give birth to fertile offsprings.
 - Genus: species evolved from the common ancestor. They, usually, won’t mate but can be induced to do so. Eg. Mule (Horse and Donkey), and Liger (Lion and Tiger).
 - “Homo” genus and “Sapiens” (wise) are species. Wise man. Some other members of our genus are, now extinct, Homo Erectus and Homo Neanderthalensis. Homo Sapiens’ closest living species is Chimpanzees.
@@ -18,7 +18,7 @@ path: "/bookshelf/sapiens"
 - Members of the Homo genus evolved in East Africa about 2.5 million years ago. Only our species survived to the present day and we are not sure why this is.
 - The author believes it is unlikely Homo sapiens will survive for another 1,000 years.
 
-##### The Cognitive Revolution
+### The Cognitive Revolution
 - The Rise of Homo Sapiens:
 - Human brains account for 2-3 percent of body size, but use 25 percent of energy, 8% is the norm for other apes. Homo genus has unusually big brains and big energy drains. The big brain is an even bigger cause of human infants which are born relatively prematurely (in terms of physical strength) compared to the other species. The long gestation period and the raising of the child implied that the evolution favored strong social ties in humans. 
 - Human kind was very much in the middle of the food chain until 400,000 years ago and didn't leap to the top of the food chain until 100,000 years ago.
@@ -43,7 +43,7 @@ path: "/bookshelf/sapiens"
 -- In ancient human groups (over 10,000 years ago) there was very little privacy, but also very little loneliness.
 - Most of our ancient ancestors had much wider and deeper knowledge of their physical surroundings than we do. They were not unintelligent at all.
 
-##### The Agriculture Revolution
+### The Agriculture Revolution
 - History’s biggest fraud is the Agricultural revolution.
 - The Agricultural Revolution actually didn't make the life of the average human better at first. It did, however, allow humans to collect more food per unit area and thus the overall population multiplied exponentially.
 - Agriculture started in about 9000 BC and domestication of crops was over by about 3500 BC. Today, we eat the same crops – Wheat, Maize, Rice, Potato, Millet, and Barley. Only a few species could be domesticated, and they were in the middle east, China, Central America but not in Australia or Africa. And that’s where, independently, domestication of crops started. Wheat went from an unknown crop to a crop which has spread everywhere on the planet. Human bodies were not designed for agriculture and farming. Wheat demand protection from pests, animals, and even other humans. The only advantage farming has is that it leads to more food per unit area and allowed humans to multiply exponentially. Overall, the agriculture revolution in the short run made the life of humans miserable, so, why did it happen?
@@ -64,7 +64,7 @@ path: "/bookshelf/sapiens"
 - Most rich people are rich because they were born into rich families. Most poor people are poor because they were born into poor families. Unjust discrimination often gets worse, not better, with time. As of 2006, there were still 53 countries where a husband could not be legally prosecuted for raping his wife. When it comes to gender inequality: biology enables, culture forbids. The idea of “unnatural” behaviors is actually a result of Christian theology, not biology. If it is possible biologically, then it is natural. From a scientific perspective, two men having sex is natural. Traveling at the speed of light is not natural.
 - Hierarchy between men and women: one hierarchy more or less same all around the world is the superiority of men over women. In many societies, women were seen as a property of men. And crimes like rape were property violations where marry-the-rapist was seen as a solution. Of course, one notable difference between men and women is womb but as we have seen in modern times, women can vote, live independently, and think for themselves, all of which in the imagined reality of ancient cultures, they were incapable of doing. Since almost all societies (even before having any contact) around the world put men above women, it cannot be a pure coincidence, there are theories around it. One theory is that men have more muscle power, the objection is why are women historically excluded from less strenuous jobs like politicians and priests. Another theory suggests that men are more aggressive and thus, better suited to be soldiers, and wars have dominated our history. This theory falls apart as well since historically, soldiers from the bottom rung never rose to the top. The top was reserved for the aristocrats. Another theory suggests that since women need cooperation from men during pregnancy, they have to become more submissive to the man they are bearing the child of, so that, he sticks around. This theory falls apart since support network does not have to be a male. Bonobos have all female support networks.
 
-##### The Unification of Humankind
+### The Unification of Humankind
 - History is moving relentlessly toward unity. The whole planet is moving toward one world culture.
 - All human cultures are filled with inconsistencies. For example, America currently values individual freedom and equality. But these two ideals don't always play nicely. It is part of the human experience to reconcile them. These inconsistencies aren't necessarily bad. They force us to think critically. Consistency is the playground of dull minds.
 - Unlike the self-consistent law of physics, cultures have internal contradictions in them. Solving them leads to a change. The modern world continuously fights with contradictory ideas of equality and liberty. All cultures from a psychological perspective are “cognitively dissonant”. But the human-world has unified and are connected to each other over time and have similar ideas, nation-states, similar concept of monetary transactions (currency), and similar legal system (international law). For a long while, humans still believed in “us” vs. “them”. Merchants, prophets, and conquerors to expand their territories of customers, believers, and subjects made us believe in a new imagined reality of the global brotherhood.
@@ -101,7 +101,7 @@ path: "/bookshelf/sapiens"
 - While a globally interconnected society was inevitable (given the ability of humans to form large networks), the contemporary global society is one of the possibilities which got realized.
 - The success of monotheism, nationalism, and liberal humanism was one of the potential outcomes out of several possible ones. History is a complex level 2 chaotic system (Level 1 chaotic systems like the weather is unchanged when we try to predict, Level 2 chaotic systems like stock market react to predictions). Genes lead to organic evolution; memes lead to cultural evolution. Some scholars see culture as a mental parasite, as soon as one country is infected with nationalism, slowly, the surrounding ones catch the infection as well.
 
-##### The Sceintific Revolution
+### The Sceintific Revolution
 - One difference between religion and science is that science assumes humankind does not know the answers to many of life's biggest questions. Religion, however, assumes that the important stuff is already known. Science assumes human ignorance.
 - Before the scientific tradition, it was believed that the religious books contained everything that was important. Scientific tradition, in western Europe, a part of the world which played little role in the history till about 1500 AD. The scientific tradition is willing to admit that a lot is unknown and even what’s known can be incorrect if the new evidence to the contrary shows up. 
 - Modern culture has been able to admit ignorance more than any previous culture. Previous cultures and belief systems compiled their theories using stories. Science compiles its theories using mathematics. 
@@ -137,7 +137,7 @@ path: "/bookshelf/sapiens"
 - Many people think the question we should ask to guide our scientific pursuits is, “What do we want to become?” However, because we seem to be on the path to genetically engineering and programming nearly every facets of our wants, desires, and consciousness, the real question we should ask is, “What do we want to want?”
 - In the past 1000 years, humans have evolved to take over the world and are on the verge of overcoming natural selection and becoming gods. Yet, we still seem unhappy in many ways and we are unsure of what we want. Is there anything more dangerous that dissatisfied and irresponsible gods who don’t know what they want?
 
-#### [III. Quotes]
+## III. Quotes
 
 - "About 13.5 billion years ago, matter, energy, time and space came into being in what is known as the Big Bang. The story of these fundamental features of our universe is called physics."
 - "About 300,000 years after their appearance, matter and energy started to coalesce into complex structures, called atoms, which then combined into molecules. The story of atoms, molecules and their interactions is called chemistry."

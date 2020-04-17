@@ -440,28 +440,12 @@ fieldset {
   margin-bottom: 1.45rem;
 }
 blockquote {
-  color: #3d9cdf;
-  margin: 1.5em 10px;
-  padding: 0.5em 10px;
-  quotes: "\201C""\201D""\2018""\2019";
-  line-height: 30px;
+  background-color: #e7e7e7;
   font-weight: 600;
-}
-blockquote:before {
-  color: #3d9cdf;
-  content: open-quote;
-  font-size: 2em;
-  line-height: 0.1em;
-  margin-right: 0.25em;
-  vertical-align: -0.4em;
-}
-blockquote:after {
-  color: #3d9cdf;
-  content: close-quote;
-  font-size: 2em;
-  line-height: 0.1em;
-  margin-left: 0.25em;
-  vertical-align: -0.4em;
+  font-family: monospace;
+  border-left: 5px solid #3d9cdf;
+  margin: 1.5em 10px 1.5em 20px;
+  padding: 0.5em 10px;
 }
 blockquote p {
   display: inline;

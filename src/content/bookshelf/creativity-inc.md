@@ -4,11 +4,11 @@ date: "2019-07-28"
 path: "/bookshelf/creativity-inc"
 ---
 
-#### [I. Brief Summary]
+## [I. Brief Summary
 
 * Ed Catmull, President of Pixar Animation and Disney Animation shares a memoir which focuses on how companies can build competitive and creative forces for decades to come and outlast existing management. Focusing themes of the book are managing creativity, fostering a creative culture at work, and the challenges of stepping into a leadership role.
 
-#### [II. Big Ideas]
+## II. Big Ideas
 
 - Ed Catmull loved animation and had done some ground breaking work in the 3D and animation world. The foundational work was done in the 60s and 70s. 
 - Catmull went to work for George Lucas at Lucasfilm to head up their new computer division.
@@ -18,7 +18,7 @@ path: "/bookshelf/creativity-inc"
 - If people in an organization don’t trust one another, they will never speak their minds openly. They end up agreeing with whatever the boss says. People are genuinely afraid to say what they think for fear of offending someone.
 - If we never fail and make mistakes, we will never grow. The issue for us is that we must bring ourselves to a point of looking past our failures to see what can be done through our failures. 
 
-#### [III. Quotes]
+## III. Quotes
 
 - "Failure isn't a necessary evil. In fact, it isn't even at all. It is a necessary consequence of doing something new."
 - "It’s not the manager’s job to prevent risks. It’s the manager’s job to make it safe for others to take them."

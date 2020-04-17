@@ -4,11 +4,11 @@ date: "2020-04-03"
 path: "/bookshelf/creativity-selection"
 ---
 
-#### [I. Brief Summary]
+## I. Brief Summary
 
 * Ken Kocienda shares his experience of building software products and product development culture at Apple. He shared his experience of what it took to build Safari web browser and iPhone's keyboard. He also shares how he overcame technical challenges. Both were high-profile features and products which brought Ken in direct contact with Steve Jobs.
 
-#### [II. Big Ideas]
+## II. Big Ideas
 
 - Ken identifies 7 elements essential to Apple's software success. The following is not a checklist but general principles.
     - Inspiration: thinking big ideas and imagining what might be possible
@@ -41,7 +41,7 @@ path: "/bookshelf/creativity-selection"
 
 - Chapter 7-9 should be read in its entirety.
 
-#### [III. Quotes]
+## III. Quotes
 
 - "...I think Edison's large-scale success was built on foundation of tending to small details."
 - "'...What it boils down to is one percent inspiration and ninety-nine percent perspiration.'"

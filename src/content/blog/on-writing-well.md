@@ -53,7 +53,7 @@ path: "/blog/on-writing-well"
 The underlying motivation for the piece stemmed from reading. I started reading a lot a few years ago which led to the fiddling with many ideas. However, none of these ideas were concrete. I couldn't connect them to its origin and neither could I articulate them well. Writing became the next natural step of progression. Below are my notes compiled from many resources on how to write well so the future me can review them again. Starting off with famous quotes on writing.
 
  > Writing is thinking. To write well is to think clearly. That's why it's so hard. — David McCullough
- 
+
  > If you can't explain it simply, you don't understand it well enough. — Einstein
 
  > As a writer you should not judge. You should understand. — Ernest Hemingway
