@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Reenie+Beanie');
 
 code {
-  background-color:#373737;
+  background-color:#000000;
 }
 
 * {
@@ -20,7 +20,7 @@ html, body {
 }
 body {
   font-size: 14px;
-  font-family: helvetica, monospace;
+  font-family: 'futura', monospace;
 }
 article,
 aside,
@@ -54,14 +54,13 @@ template {
   display: none;
 }
 a {
-  color: #3d9cdf;
+  color: #0049fb;
   text-decoration: none;
-  font-weight: 800;
   -webkit-text-decoration-skip: objects;
 }
 a:active,
 a:hover {
-  color: #373737;
+  color: #000000;
   outline-width: 0;
 }
 abbr[title] {
@@ -70,10 +69,6 @@ abbr[title] {
   text-decoration: underline dotted;
 }
 b,
-strong {
-  font-weight: inherit;
-  font-weight: bolder;
-}
 dfn {
   font-style: italic;
 }
@@ -215,7 +210,7 @@ html {
   box-sizing: inherit;
 }
 body {
-  color: #373737;
+  color: #000000;
   font-weight: normal;
   word-wrap: break-word;
   font-kerning: normal;
@@ -235,7 +230,7 @@ img {
   margin-bottom: 1.45rem;
 }
 h1 {
-  font-family: 'Reenie Beanie', Helvetica, sans-serif, cursive;
+  font-family: 'Futura', 'monospace', cursive;
   margin-left: 0;
   margin-right: 0;
   margin-top: 0;
@@ -243,15 +238,15 @@ h1 {
   padding-left: 0;
   padding-right: 0;
   padding-top: 0;
-  margin-bottom: 1.45rem;
+  margin-bottom: 2.5rem;
   color: inherit;
   font-weight: bold;
   text-rendering: optimizeLegibility;
-  font-size: 2.25rem;
+  font-size: 2.0rem;
   line-height: 1.1;
 }
 h2 {
-  font-family: 'Reenie Beanie', Helvetica, sans-serif, cursive;
+  font-family: 'Futura', 'monospace', cursive;
   margin-left: 0;
   margin-right: 0;
   margin-top: 0;
@@ -263,11 +258,11 @@ h2 {
   color: inherit;
   font-weight: bold;
   text-rendering: optimizeLegibility;
-  font-size: 1.62671rem;
+  font-size: 1.75rem;
   line-height: 1.1;
 }
 h3 {
-  font-family: 'Reenie Beanie', Helvetica, sans-serif, cursive;
+  font-family: 'Futura', 'monospace', cursive;
   margin-left: 0;
   margin-right: 0;
   margin-top: 0;
@@ -279,7 +274,7 @@ h3 {
   color: inherit;
   font-weight: bold;
   text-rendering: optimizeLegibility;
-  font-size: 1.45rem;
+  font-size: 1.50rem;
   line-height: 1.1;
 }
 h4 {
@@ -294,7 +289,7 @@ h4 {
   color: inherit;
   font-weight: bold;
   text-rendering: optimizeLegibility;
-  font-size: 1rem;
+  font-size: 1.25rem;
   line-height: 1.1;
 }
 h5 {
@@ -309,7 +304,7 @@ h5 {
   color: inherit;
   font-weight: bold;
   text-rendering: optimizeLegibility;
-  font-size: 0.85028rem;
+  font-size: 1.00rem;
   line-height: 1.1;
 }
 h6 {
@@ -324,7 +319,7 @@ h6 {
   color: inherit;
   font-weight: bold;
   text-rendering: optimizeLegibility;
-  font-size: 0.78405rem;
+  font-size: 0.75rem;
   line-height: 1.1;
 }
 hgroup {
@@ -382,7 +377,8 @@ dd {
   margin-bottom: 1.45rem;
 }
 p {
-  line-height: 25px;
+  line-height: 30px;
+  word-spacing: 1px;
   margin-left: 0;
   margin-right: 0;
   margin-top: 0;
@@ -443,9 +439,10 @@ blockquote {
   background-color: #e7e7e7;
   font-weight: 600;
   font-family: monospace;
-  border-left: 5px solid #3d9cdf;
-  margin: 1.5em 10px 1.5em 20px;
-  padding: 0.5em 10px;
+  border-left: 3px solid #0049fb;
+  margin: 1.5em 10px 1.5em 0px;
+  padding: 0.5em 25px;
+  line-height: 25px;
 }
 blockquote p {
   display: inline;
@@ -598,7 +595,7 @@ td:last-child {
 }
 tt,
 code {
-  background-color: #373737;
+  background-color: #000000;
   border-radius: 3px;
   font-family: "SFMono-Regular", Consolas, "Roboto Mono", "Droid Sans Mono",
     "Liberation Mono", Menlo, Courier, helvetica, monospace;

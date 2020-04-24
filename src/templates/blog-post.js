@@ -10,8 +10,8 @@ const Content = styled.div`
 `
 
 const Horizontal = styled.hr`
-  border: 1px solid #2789e5;
-  background-color: #3d9cdf;
+  border: 1px solid #0049fb;
+  background-color: #0049fb;
 `
 
 const MarkedHeader = styled.h1`
@@ -21,6 +21,7 @@ const MarkedHeader = styled.h1`
 const HeaderDate = styled.p`
   margin-top: 10px;
   color: #000;
+  font-family: monospace;
 `
 
 const MarkdownContent = styled.div`

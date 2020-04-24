@@ -17,8 +17,8 @@ const PostContainter = styled.div`
 `
 
 const Horizontal = styled.hr`
-  border: 1px solid #2789e5;
-  background-color: #3d9cdf;
+  border: 1px solid #0049fb;
+  background-color: #0049fb;
 `
 
 const IndexPage = ({ data }) => {

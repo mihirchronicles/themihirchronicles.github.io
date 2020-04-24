@@ -3,11 +3,11 @@ title: Articles
 path: "/explore/articles"
 ---
 
-### 2020
+##### 2020
 - [The Mundanity of Excellence](https://fermatslibrary.com/s/the-mundanity-of-excellence-an-ethnographic-report-on-stratification-and-olympic-swimmers): It was written over 20 years ago in which Chambliss defines excellence as “consistent superiority of performance.” Excellence does not mean do more of the same drills and sets, he or she also does things better. That's what counts. Very small differences, consistently practiced, will produce results. 
 - [Inventing on Principle](https://www.youtube.com/watch?v=PUv66718DII): This is so good by Bret Victor. “I'm going to talk about following a principle — finding a principle for your work, something you believe is important and necessary and right, and using that to guide what you do.”
 
-### 2019
+##### 2019
 - [How to be an artist](https://www.vulture.com/2018/11/jerry-saltz-how-to-be-an-artist.html): Jerry Saltz is a Pulitzer prize winner for art criticism. Here he shares his thoughts on creativity and how to be an artist.
 - [Productivity](http://blog.samaltman.com/productivity): Sam Altman shares his thoughts on optimizing productivity. What hit home for me was just like how money compounds, making incremental productivity hacks can also compound. Sleep was a big one! I no longer preach "sleep when I die" attitude. It is actually completely opposite today. If I don't get enough sleep, my body really feels the pain.
 - [Geeks, mops and sociopaths](https://meaningness.com/geeks-mops-sociopaths): this one was fascinating about how things take off and the role geeks, mops and sociopaths play a role. This can be applied to so many things, especially the digital coin trend.

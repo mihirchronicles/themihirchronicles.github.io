@@ -41,34 +41,29 @@ const Description = styled.p`
 `
 
 const NameHeader = styled.h1`
-  margin-bottom: 10px;
-`
-
-const Cheers = styled.h3`
-  margin-bottom: 10px;
-  font-family: Reenie Beanie, Helvetica, sans-serif, cursive;
-  font-size: 1.50rem;
+  margin-bottom: 20px;
 `
 
 const Button = styled.button`
   color: #ffffff;
-  background: #2789e5;
+  background: #0049fb;
   -webkit-border-radius: 25;
   -moz-border-radius: 25;
   border-radius: 25px;
-  font-family: Reenie Beanie;
-  font-size: 17px;
+  font-family: Futura;
+  font-size: 12px;
   padding: 10px 10px 10px 10px;
-  border: solid #2789e5 2px;
+  border: solid #0049fb 2px;
   text-decoration: none;
   position: absolute;
   left: 20px;
   margin-top: 10px;
+  font-weight: bolder;
 
   :hover {
     cursor: pointer;
-    background: #373737;
-    border: #3d9cdf;
+    background: #000000;
+    border: #0049fb;
   }
 
   @media screen and (max-width: 600px) {
@@ -100,7 +95,7 @@ const LandingBio = () => (
           <NameHeader>{data.site.siteMetadata.title}</NameHeader>
             <Description>Me here, here!</Description>
             <Description>Building products at <a href="http://www.morningstar.com/">Morningstar </a>and <a href="https://wisecharlie.com/">Wise Charlie</a>. Fond of art, design, hiking & telescopes. Book nerd <FontAwesomeIcon icon="book"/>. Enjoy building things <FontAwesomeIcon icon="brush"/>. Process itself is the goal <FontAwesomeIcon icon="cogs"/>.</Description>
-            <Cheers>- To Adventures & Fellowship!</Cheers>
+            <Description><strong>Scientia Potentia Est</strong></Description>
             <ButtonLink href="/notes"><Button type="text">Notes</Button></ButtonLink> 
         </Container>
       </OuterContainer>
