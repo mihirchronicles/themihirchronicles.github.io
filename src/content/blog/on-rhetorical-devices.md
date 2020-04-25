@@ -57,10 +57,5 @@ Metaphors challenges our creativity and let our imagination loose. They are the 
 A favorite meaphor that I enjoy a lot, “Books are the mirrors of soul.” — Virginia Wolf
 
 --- 
-## Sources & Notes:
-<details>
-<summary>Click to expand!</summary>
-
+## Notes
 - People I find interesting who use colorful analogies and metaphors — Mike Moritz, Warren Buffett and Charlie Munger.
-</details>
-<br>

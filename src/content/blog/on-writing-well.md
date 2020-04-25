@@ -633,6 +633,17 @@ Peterson (2014, p. 19) claims that “the conventions of the American Psychologi
     - _Narratives — Share the beginning of a narrative_
 - Use commonplace to dissect good writing and emulate great writers. Think of it as a practice book where you transcribe great sentences you come across. This is not a thinking book or a journal.
 - How can you develop the inner ear it takes to hear, and make the music of language? Read, read, read.
+
+---
+## Sources & Notes:
+- Notes on writing well by Michael Nielsen
+- On writing better, part 1: getting started by Jason Zweig
+- On writing better, part 2: sharpening your tools by Jason Zweig
+- On writing better, part 3: becoming a writer by Jason Zweig
+- Why I hate adverbs by Jason Zweig, Essay writing guide by Jordan B Peterson
+- Writing Well by Julian Shaprio
+- Punctuation by Julian Shaprio
+- Novelist Cormac McCarthy’s tips on how to write a great science paper
 - You can also study some of the world’s best writers on what separates good writing from bad:
     - [Kevin Simler](https://meltingasphalt.com/archive/)
     - [Sarah Constantin](https://srconstantin.wordpress.com/)
@@ -657,19 +668,3 @@ Peterson (2014, p. 19) claims that “the conventions of the American Psychologi
     - Jane Austen
     - Leo Tolstoy
     - Dante Alighieri
-
----
-## Sources & Notes:
-<details>
-<summary>Click to expand!</summary>
-
-- Notes on writing well by Michael Nielsen
-- On writing better, part 1: getting started by Jason Zweig
-- On writing better, part 2: sharpening your tools by Jason Zweig
-- On writing better, part 3: becoming a writer by Jason Zweig
-- Why I hate adverbs by Jason Zweig, Essay writing guide by Jordan B Peterson
-- Writing Well by Julian Shaprio
-- Punctuation by Julian Shaprio
-- Novelist Cormac McCarthy’s tips on how to write a great science paper
-</details>
-<br>

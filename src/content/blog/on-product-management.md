@@ -323,22 +323,18 @@ This is a huge knowldge dump, but this is for personal use only. I built product
 
 ---
 ## Sources & Notes:
-<details>
- <summary>Click to expand!</summary>
 
 - Wikipedia
-- https://www.quora.com/How-do-you-make-a-product-roadmap/answer/Ian-McAllister
-- https://medium.com/@gclaps/30-product-management-best-practices-9520125ba5ad
-- https://www.uxpin.com/studio/blog/write-good-product-requirements-document/
-- https://hbr.org/2016/09/know-your-customers-jobs-to-be-done
-- https://hbr.org/2017/12/what-it-takes-to-become-a-great-product-manager
-- https://www.figma.com/blog/design-critiques-at-figma/
-- https://producthabits.com/net-promoter-score-the-ecstasy-of-business-metrics/
-- https://a16z.com/2015/08/21/16-metrics/
-- https://mixpanel.com/innovators/a-flight-tested-framework-for-effective-goal-setting/
-- http://abovethecrowd.com/2012/09/04/the-dangerous-seduction-of-the-lifetime-value-ltv-formula/
-- https://jasonevanish.com/2020/01/12/100-lessons-and-spicy-takes-on-being-a-software-product-manager/
-- https://www.indiehackers.com/post/how-to-brainstorm-great-business-ideas-ab51c3d51c
-- https://www.beyondusers.com/guides/7-things-designer-should-know-about-business
-</details>
-<br>
+- [How to make a product roadmap?](https://www.quora.com/How-do-you-make-a-product-roadmap/answer/Ian-McAllister)
+- [30 product management best practices](https://medium.com/@gclaps/30-product-management-best-practices-9520125ba5ad)
+- [Write good product requirements](https://www.uxpin.com/studio/blog/write-good-product-requirements-document/)
+- [Know your customers job to be done](https://hbr.org/2016/09/know-your-customers-jobs-to-be-done)
+- [What it takes to become a great product manager](https://hbr.org/2017/12/what-it-takes-to-become-a-great-product-manager)
+- [Design critiques at Figma](https://www.figma.com/blog/design-critiques-at-figma/)
+- [Net Promoter Score](https://producthabits.com/net-promoter-score-the-ecstasy-of-business-metrics/)
+- [16 metrics by a16z](https://a16z.com/2015/08/21/16-metrics/)
+- [Effective goal setting](https://mixpanel.com/innovators/a-flight-tested-framework-for-effective-goal-setting/)
+- [The dangerous seduction of the lifetime value formula](http://abovethecrowd.com/2012/09/04/the-dangerous-seduction-of-the-lifetime-value-ltv-formula/)
+- [On being a software product maanager](https://jasonevanish.com/2020/01/12/100-lessons-and-spicy-takes-on-being-a-software-product-manager/)
+- [Brainstorming great business ideas](https://www.indiehackers.com/post/how-to-brainstorm-great-business-ideas-ab51c3d51c)
+- [7 things designer should know about business](https://www.beyondusers.com/guides/7-things-designer-should-know-about-business)
