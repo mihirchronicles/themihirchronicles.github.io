@@ -37,13 +37,44 @@ path: "/bookshelf/how-to-win-friends-and-influence-people"
 - Nothing pleases children more than the parental interest and approval.
 
 ### Arouse in the other person as eager want.
+- The only way on earth to influence other people is to talk about what they want and show them how to get it. If you don't want your children to smoke, don't preach at them, and don't talk what you want, but show them that how smoking can keep them from making the basketball team.
+- Why do people make donation to Red Cross? Because they want to feel good about themselves. If they had not wanted that feeling more than they wanted money, they would have not made the donation.
+- When people are dissatified with customer service, they last out at them. Instead of sympathizing with them, they threaten them. To resolve the issues you must understand the point of view of other side. Henry Ford said: “If there is any one secret of success, it lies in the ability to get the other person's point of view and see things from that person's angle as well as from your own.” 
+- When a large corporation communicates with their employees, many fail to understand the desire of their employees. Who cares what the company wants? Employees are worried about their own problems: mortgage, healthcare, family, etc.
+- Salespeople are pounding people with goods and services without thinking what their customers want.
+- The world is full of people who are grabbing and self-seeking. So the rare individual who unselfishly tries to server others has an enormous advantage and little competition.
+- The author ask his readers if there is one thing that needs to be taken away from this book, it is this: an increased tendency to think always in terms of other people's point of view, and see things from their angle.
+- Negotiation is not a zero-sum game. Each party should gain from negotiation.
+- Parents often make mistakes on understanding what their kids want.
 
 ### Become genuinely interested in people.
+- Dog is the only animal that doesn't have to work for a living. A hen has to lay eggs, a cow has to give milk, and a canary has to sing. But a dog makes his living by giving nothing but love.
+- If the author doesn't like people, people won't like his or her stories.
+- Theodore Roosevelt greeted all the White House servants by name, even the scullery maids. When Roosevelt visited the White House after his term, the head usher said with tears: “It is the only happy day we had in nearly two years, and not one of us would exchange it for a hundred-dollar bill.”
+- If we want to make friends, let's greet people with animation and enthusiasm.
 
 ### Smile.
+- Charles Schwab once said his smile had been worth a million bucks. A baby's smile has the same effect.
+- There's far more information in a smile than a frown. That's why encouragement is a much more effective teaching device than punishment.
+- You must have a good time meeting people if you expect them to have a good time meeting you.
+- Smile when you don't feel like doing so. Action seems to follow feeling, but really action and feeling go together; and by regulating action, which is under the more direct control of the will, we can indirectly regulate the feeling, which is not.
+- It isn't what you have or who you are or where you are or what you are doing that makes you happy or unhappy. It is what you think about it. Abe Lincoln once said: “Most folks are about as happy as they make up their minds to be.”
+- Do not fear being misunderstood and do not waste a minute thinking about your enemies.
+- Chinese proverb: “A man without a smiling face must open a shop.” Your smile is a messenger of a good will.
 
 ### Remember that a person's name is to that person the sweetest and most important sound in any language.
+- Jim Farley diliberately remembered everyone's name (50,000 people) that came across him. Why is he important? Because he was the campaign manager for Franklin D. Roosevelt. Without him, Roosevelt would've not made it to White House.
+- Farley discovered early in life that the average person is more interested in his or her own name than in all the other names on earth put together. 
+- You gain compliment when you recall someone's name, but you have a sharp disadvantage when you forget or misspell it.
+- Andrew Carnegie discovered a rabbit and a whole nest of little rabbits as a young boy. But he didn't have enough food for the new born rabbits. So he told the boys and girls in the neighborhood that if they would out and pull enough clover and dandelions to feed the rabbits, he would name the bunnies in their honor.
+- Carnegie translated the same psychology into business world. He would name steel mills after his clients. This is how he won deals. This was a secret to Andrew Carnegie's leadership.
+- Names are so important that major universities take in donations and name the buildings after the doner.
+- In politics, recalling a voter's name is statesmanship. To forget it is oblivion.
+- Napoleon, the Thirds, Emperor of France diliberately remembered everyone's name. If he didn't catch the name, he would ask the person to repeat it again. He would even go one step further by asking how is it spelled. During the conversation, he would repeat the name several times and associate it with features, expression and general appearance for easy recall.
+- Remembering names takes time and that is why many don't do it. Emerson said: “Good manners are made up of petty sacrifices.”
 
+### Be a good listener. Encourage others to talk about themselves.
+-
 
 ### III. Quotes
 - For the great aim of education, is not knowledge but action. — Herbert Sepencer
@@ -60,3 +91,6 @@ path: "/bookshelf/how-to-win-friends-and-influence-people"
 - Try leaving a friendly trail of little sparks of gratitude on your daily trips. You will be surprised how they will set small flames of friendship that will be rose beacons on your next visit.
 - Honest appreciation got results where criticism and ridicule failed.
 - Every man I meet is my superior in some way. In that, I learn of him. — Ralph Waldo Emerson
+- First, arouse in the other peerson an eager want. He who can do this has the whole world with him. He who cannot walks a lonely way. — Professor Overstreet
+- It is the individual who is not interested in his fellow men who has the greatest difficulties in life and provides the greatest injury to others. It is from among such individuals that all human failures spring. — Alfred Adler
+- Happiness doesn't depend on outward conditions. It depends on inner conditions.
