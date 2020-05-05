@@ -74,7 +74,14 @@ path: "/bookshelf/how-to-win-friends-and-influence-people"
 - Remembering names takes time and that is why many don't do it. Emerson said: “Good manners are made up of petty sacrifices.”
 
 ### Be a good listener. Encourage others to talk about themselves.
--
+- How to have an interesting conversation? Listen intently with geunine interest.
+- Harvard president, Charles W.Eliot once said: “There is no mystery about successful business intercourse....Exclusive attention to the person who is speaking to you is very important. Nothing else is so flattering as that.” You don't have to study for four years in Harvard to discover that.
+- Listening is not silence, but an activity by listening attentively, patiently waiting for your turn and not letting the temptation of interrupting kick in. This allows the other person to get into receptive mood.
+- Lincoln would invite his neighbor from Springfield to DC just so his neighbor could listen. This was Lincoln's way of saying things out loud by doing all the talking himself.
+- Isaac F. Marcosson, a journalist who interviewed hundreds of celebrities thought many people fail to make a favorable impression becasue they don't listen attentively. They are concerned with what they are going to say next that they do not keep their ears open.
+
+### Talk in terms of other person's interest
+- Roosevelt knew that all leaders royal road to people's heart is to talk about the things he or she treasures most.
 
 ### III. Quotes
 - For the great aim of education, is not knowledge but action. — Herbert Sepencer
@@ -94,3 +101,5 @@ path: "/bookshelf/how-to-win-friends-and-influence-people"
 - First, arouse in the other peerson an eager want. He who can do this has the whole world with him. He who cannot walks a lonely way. — Professor Overstreet
 - It is the individual who is not interested in his fellow men who has the greatest difficulties in life and provides the greatest injury to others. It is from among such individuals that all human failures spring. — Alfred Adler
 - Happiness doesn't depend on outward conditions. It depends on inner conditions.
+- People who talk only of themselves think only of themselves.
+- To be interesting, be interested.

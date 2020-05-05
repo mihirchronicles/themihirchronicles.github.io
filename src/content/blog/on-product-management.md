@@ -11,7 +11,7 @@ The product manager's ultimate quest is to answer this question — **“what is
 
 In order to answer this question, product manager should be a generalist. As engineering and design becomes more specialized, the generalists fill the gap. The write-up below is a compilation of personal notes taken over the last couple years by reading, observing other product managers or taking on the role at a smaller scale.
 
-## Unnderstanding key areas of Product Management
+## Understanding key areas of Product Management
 
 - Understand the industry, market and users (outward looking)
     - domain knowledge of an industry. Use the following Porter’s Five Forces to do an industry analysis.
