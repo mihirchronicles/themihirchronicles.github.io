@@ -10,7 +10,9 @@ path: "/bookshelf/how-to-win-friends-and-influence-people"
 
 ## II. Big Ideas
 
-### Don't criticize, condemn or complain.
+### Part I: Fundamental Techniques in handling people
+
+**Principle 1: Don't criticize, condemn or complain.**
 - Ninety-nine times out of a hundred, people don't criticize themselves for anything, no matter how wrong it may be.
 - Criticism is dangerous, because it wound a person's precious pride, hurts the sense of importance, and arouses resentment.
 - B.F. Skinner experiment found animal rewarded for good behavior will learn much more rapidly and retain what it learns far more effectively than an animal punished for bad behavior.
@@ -22,7 +24,7 @@ path: "/bookshelf/how-to-win-friends-and-influence-people"
 - Often parents are tempted to criticize their children. Before you criticize them, read one of the classics of American journalism, “Father Forgets.” It's about a father who realizes that he had only criticized his boy when the little boy was just doing his thing.
 - Instead of condeming people, try to understand them.
 
-### Give honest, sincere appreciation.
+**Principle 2: Give honest, sincere appreciation.**
 - Sigmund Freud said that everything that you and I do springs from two motives: the sex urge and the desire to be great.
 - John Dewey, one of America's most profound philosophers said that the deepest urge in human nature is the desire to be important.
 - Lincoln once began a letter saying: “Everybody likes a compliment.”
@@ -36,7 +38,7 @@ path: "/bookshelf/how-to-win-friends-and-influence-people"
 - In the long run, flattery will do more harm than good. Flattery is counterfeit, and like counterfeit money, it will eventually get you into trouble if you pass it to someone else. The difference between flattery and appreciation is simple: one is sincere and the other is insincere, one comes with heart out and the other from teeth out, one is selfish and the other is unselfish and one is universally admired and the other is not.
 - Nothing pleases children more than the parental interest and approval.
 
-### Arouse in the other person as eager want.
+**Principle 3: Arouse in the other person as eager want.**
 - The only way on earth to influence other people is to talk about what they want and show them how to get it. If you don't want your children to smoke, don't preach at them, and don't talk what you want, but show them that how smoking can keep them from making the basketball team.
 - Why do people make donation to Red Cross? Because they want to feel good about themselves. If they had not wanted that feeling more than they wanted money, they would have not made the donation.
 - When people are dissatified with customer service, they last out at them. Instead of sympathizing with them, they threaten them. To resolve the issues you must understand the point of view of other side. Henry Ford said: “If there is any one secret of success, it lies in the ability to get the other person's point of view and see things from that person's angle as well as from your own.” 
@@ -47,13 +49,15 @@ path: "/bookshelf/how-to-win-friends-and-influence-people"
 - Negotiation is not a zero-sum game. Each party should gain from negotiation.
 - Parents often make mistakes on understanding what their kids want.
 
-### Become genuinely interested in people.
+### Part II: Six ways to make people like you
+
+**Principle 1: Become genuinely interested in people.**
 - Dog is the only animal that doesn't have to work for a living. A hen has to lay eggs, a cow has to give milk, and a canary has to sing. But a dog makes his living by giving nothing but love.
 - If the author doesn't like people, people won't like his or her stories.
 - Theodore Roosevelt greeted all the White House servants by name, even the scullery maids. When Roosevelt visited the White House after his term, the head usher said with tears: “It is the only happy day we had in nearly two years, and not one of us would exchange it for a hundred-dollar bill.”
 - If we want to make friends, let's greet people with animation and enthusiasm.
 
-### Smile.
+**Principle 2: Smile.**
 - Charles Schwab once said his smile had been worth a million bucks. A baby's smile has the same effect.
 - There's far more information in a smile than a frown. That's why encouragement is a much more effective teaching device than punishment.
 - You must have a good time meeting people if you expect them to have a good time meeting you.
@@ -62,7 +66,7 @@ path: "/bookshelf/how-to-win-friends-and-influence-people"
 - Do not fear being misunderstood and do not waste a minute thinking about your enemies.
 - Chinese proverb: “A man without a smiling face must open a shop.” Your smile is a messenger of a good will.
 
-### Remember that a person's name is to that person the sweetest and most important sound in any language.
+**Principle 3: Remember that a person's name is to that person the sweetest and most important sound in any language.**
 - Jim Farley diliberately remembered everyone's name (50,000 people) that came across him. Why is he important? Because he was the campaign manager for Franklin D. Roosevelt. Without him, Roosevelt would've not made it to White House.
 - Farley discovered early in life that the average person is more interested in his or her own name than in all the other names on earth put together. 
 - You gain compliment when you recall someone's name, but you have a sharp disadvantage when you forget or misspell it.
@@ -73,15 +77,75 @@ path: "/bookshelf/how-to-win-friends-and-influence-people"
 - Napoleon, the Thirds, Emperor of France diliberately remembered everyone's name. If he didn't catch the name, he would ask the person to repeat it again. He would even go one step further by asking how is it spelled. During the conversation, he would repeat the name several times and associate it with features, expression and general appearance for easy recall.
 - Remembering names takes time and that is why many don't do it. Emerson said: “Good manners are made up of petty sacrifices.”
 
-### Be a good listener. Encourage others to talk about themselves.
+**Principle 4: Be a good listener. Encourage others to talk about themselves.**
 - How to have an interesting conversation? Listen intently with geunine interest.
 - Harvard president, Charles W.Eliot once said: “There is no mystery about successful business intercourse....Exclusive attention to the person who is speaking to you is very important. Nothing else is so flattering as that.” You don't have to study for four years in Harvard to discover that.
 - Listening is not silence, but an activity by listening attentively, patiently waiting for your turn and not letting the temptation of interrupting kick in. This allows the other person to get into receptive mood.
 - Lincoln would invite his neighbor from Springfield to DC just so his neighbor could listen. This was Lincoln's way of saying things out loud by doing all the talking himself.
 - Isaac F. Marcosson, a journalist who interviewed hundreds of celebrities thought many people fail to make a favorable impression becasue they don't listen attentively. They are concerned with what they are going to say next that they do not keep their ears open.
 
-### Talk in terms of other person's interest
+**Principle 5: Talk in terms of other person's interest.**
 - Roosevelt knew that all leaders royal road to people's heart is to talk about the things he or she treasures most.
+- Whenver Roosevelt expected a visitor, he sat up late the night before, reading up on the subject in which he knew his guest was particularly interested.
+
+**Principle 6: Make other person feel important——and do it sincerely.**
+- One should never make someone important so they can something back in return.
+- By being selfish we will never radiate a little happiness and pass on a bit honest appreciation without trying to get something out of the other person in return—if our souls are no bigger than sour crab apples, we shall meet with the failure we so richly deserve.
+- Carry out an act of kindness and sincere heartful appreciation because of wanting something priceless.
+- An important law of human conduct: always make the other person feel important.
+- Ancient philosophers have been sepculating on the rules of human relationships for thousands of years, and out of all the speculation, there has evolved only one importatn concept. It is not new. It is as old as history. Zoroaster, Confucius, Lao-tse, Buddha, Hinduism and Jesus have all been preaching this concept: “Do unto others as you would have others do unto you.”
+- As Schwab said: “Be hearty in their approbation and lavish in the praise.”
+- Little phrases such as such as “Thank you,” “I am sorry to trouble you,” “Please,” or “Would you mind?” will oil the cogs of the monotonous grind of everyday life. They are the hallmark of good breeding.
+- As Shakespeare put it: “...man, proud man,/Drest in a little brief authority,/...Plays such fantastic tricks before high heaven/As make the angels weep.”
+- Ignore those who frequently have the least justification for a feeling of achievement bolster up their egos by a show of tumult and conceit.
+- This principle is applicable to elderly folks. In the isolated loneliness of old age, an elderly will crave a little human warmth, a sincere appreciation.
+- Talk to people about themselves and they will listen for hours.
+
+### Part III. How to win people to your way of thinking
+
+**Principle 1: The only way to get the best of an argument is to avoid it.**
+
+**Principle 2: Show respect for the other person's opinions. Never say, “You're wrong.”**
+
+**Principle 3: If you are wrong, admit it quickly and emphatically.**
+
+**Principle 4: Begin a friendly way.**
+
+**Principle 5: Get the other person saying “yes” “yes” immediately.**
+
+**Principle 6: Let the other person do a great deal of the talking.**
+
+**Principle 7: Let the other person feel that the idea is his or hers.**
+
+**Principle 8: Try honestly to see things from the other person's point of view.**
+
+**Principle 9: Be sympathetic with other people's ideas and desires.**
+
+**Principle 10: Appeal to the nobler motives.**
+
+**Principle 11: Dramatize your ideas.**
+
+**Principle 12: Throw down a challenge.**
+
+### Part IV. Be a leader: how to change people without giving offense or arousing resentment
+
+**Principle 1: Begin with praise and honest appreciation.**
+
+**Principle 2: Call attention to people's mistakes indirectly.**
+
+**Principle 3: Talk about your own mistakes before criticizing the other person.**
+
+**Principle 4: Ask questions instead of giving direct orders.**
+
+**Principle 5: Let the other person save face.**
+
+**Principle 6: Praise the slightest improvement and praise every improvement. “Be hearty in your approbation and lavish in your praise.”**
+
+**Principle 7: Give the other person a fine reputation to live up to.**
+
+**Principle 8: Use encouragement. Make the fault seem easy to correct.**
+
+**Principle 9: Make the other person happy about doing the things you suggest.**
 
 ### III. Quotes
 - For the great aim of education, is not knowledge but action. — Herbert Sepencer
