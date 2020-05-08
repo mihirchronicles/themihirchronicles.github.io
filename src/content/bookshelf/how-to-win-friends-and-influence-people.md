@@ -104,8 +104,33 @@ path: "/bookshelf/how-to-win-friends-and-influence-people"
 ### Part III. How to win people to your way of thinking
 
 **Principle 1: The only way to get the best of an argument is to avoid it.**
+- Why argue with someone who has not asked for your opinion? Always avoid arguments because that is the only way to high heaven.
+- Ben Franklin said: “If you argue and rankle and contradict, you may achieve a victory sometimes; but it will be an empty victory because you will never get your oponent's goodwill.
+- One argues because the person wants the feeling of importance by loudly asserting his or her authority.
+- Buddha said: “Hatred is never ended by love.”
+- Lincoln once said: “Yield larger things to which you show no more than equal rights; and yield lesser ones though clearly your own. Better give your path to a dog than be bitten y him in contesting for the right. Even killing the dog would not cure the bite.”
+- In an article in _Bits and Pieces_, some suggestions are made on how to keep a disagreement from becoming an argument:
+    - Welcome the disagreement.
+    - Distrust your first instinctive impression.
+    - Control your temper.
+    - Listen first.
+    - Look for areas of agreement.
+    - Be honest.
+    - Promise to think over your opponent's ideas and study them carefully.
+    - Thank your opponents sincerely for their interest.
+    - Postpone action to give both sides time to think through the problem.
+- When two people yell, there is no communication, just noise and vibrations. So one should listen when the other yells. A very sound advice for married couple.
 
 **Principle 2: Show respect for the other person's opinions. Never say, “You're wrong.”**
+- Don't argue with your customer or your spouse or your adversary. Don't tell them they are wrong, don't get them stirred up. Use diplomacy.
+- Benjamin Franklin conquered diplomacy by forbearing all direct contradiction to the sentiment of others, and all positive assertion of his own.
+- When we are wrong, we admit it to ourselves. And, if handled gently and tactfully, we may admit it to others and even take pride in our frankness and open-mindedness.
+- From the book On Becoming a Person, our first reaction to most of the statementsis an evaluation or judgement, rather than an understanding of it. When someone expresses some feeling, attitude or belief, our immediate reaction is “that is right,” or “that is stupid,” or “that is unreasonable,” or “that is incorrect.” Very rarely do we permit ourselves to understand precisely what the meaning of the statement is to other person.
+- From the book, The Mind in the Making, we sometimes find ourselves changing our minds without any resistance or heavy emotion, but if we are told we are wrong, we resent and harden our hearts. We are extremely careless in the formation of our beliefs, but find ourselves filled with extreme passion for them when anyone proposes to rob us of their companionship. It is obviously not the ideas themselves thar are dear to us, but our self-esteem which is threatened....The little word “my” is the most important one in human affairs, and properly to reckon with it is the beginning of wisdom. It has the same force whether it is “my” dinner, dog, etc....We like to continue to believe what we have been accustomed to accept as true, and the resentment aroused when doubt is cast upon any of our assumptions leads us to seek every manner of excuse for clinging to it. The result is that most of our so-called reasoning consists in finding arguments for going on believing as we already do.
+- Few people are logical. Most of us are prejudiced and biased. Most of us are belighted with preconceived notions, with jealousy, suspicion, fear, envy and pride. And most citizens don't want to change their minds about their religion, or their haircut, or communism or favorite movie star.
+- So, before you point to someone they are wrong, admit that you may be wrong too. That will stop all argument and inspire your opponent to be just as fair and open and broadminded as you are. It will admit the other person to admit that he or she might be wrong too.
+- Socrates said: “One thing only I know, and that is I know nothing.” Well none of us are smarter thatn Socrates so quit telling people they are wrong.
+- Galielo once said: “You cannot teach a man anything; you can only help him to find it within himself.”
 
 **Principle 3: If you are wrong, admit it quickly and emphatically.**
 
