@@ -6,6 +6,7 @@ path: "/explore/articles"
 ##### 2020
 - [The Mundanity of Excellence](https://fermatslibrary.com/s/the-mundanity-of-excellence-an-ethnographic-report-on-stratification-and-olympic-swimmers): It was written over 20 years ago in which Chambliss defines excellence as “consistent superiority of performance.” Excellence does not mean do more of the same drills and sets, he or she also does things better. That's what counts. Very small differences, consistently practiced, will produce results. 
 - [Inventing on Principle](https://www.youtube.com/watch?v=PUv66718DII): This is so good by Bret Victor. “I'm going to talk about following a principle — finding a principle for your work, something you believe is important and necessary and right, and using that to guide what you do.”
+- [Ingredients of a Genius](http://paulgraham.com/genius.html): Everyone knows that to do great work you need both natural ability and determination. But there's a third ingredient that's not as well understood: an obsessive interest in a particular topic.
 
 ##### 2019
 - [How to be an artist](https://www.vulture.com/2018/11/jerry-saltz-how-to-be-an-artist.html): Jerry Saltz is a Pulitzer prize winner for art criticism. Here he shares his thoughts on creativity and how to be an artist.
