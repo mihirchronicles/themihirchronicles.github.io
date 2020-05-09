@@ -133,44 +133,59 @@ path: "/bookshelf/how-to-win-friends-and-influence-people"
 - Galielo once said: “You cannot teach a man anything; you can only help him to find it within himself.”
 
 **Principle 3: If you are wrong, admit it quickly and emphatically.**
+- “If you are wrong, admit it quickly and emphatically.” — Dale Carnegie
+- “By fighting you never get enough, but by yielding you get more than you expected.”
 
 **Principle 4: Begin a friendly way.**
+- If your temper is aroused and you tell them a thing or two, you will have a fine time unloading your feelings. But what about the other person? Will he share your pleasure? Will your belligerent tones, your hostile attitude, make it easy for him to agree with you?
+- Lincoln said: “It is an old and true maxim that a drop of honey catches more flies than a gallon of gall. So with men, if you would win a man to your cause, first convince him that you are his sincere friend. There in a drop of honey that catches his heart; which, say what you will, is the great high road to his reason.”
 
 **Principle 5: Get the other person saying “yes” “yes” immediately.**
+- In talking with people, don't begin by discussing the things on which you differ. Begin by emphasizing–the things on which you agree. The flow of “yes” at the outset will keep your opponent from possibly saying  “no.”
+- Socrates was one of the wisest persuaders because he got everyone around him to say yes. Getting people to say yes from the outset is now called the “Socratic Method.” He kept on asking questions until his opponents agreed without even realizing it.
+- Chinese proverb: “He who treads softly goes far.”
 
 **Principle 6: Let the other person do a great deal of the talking.**
+- Most people trying to win others to their way of thinking do too much talking themselves. Let the other people talk themselves out. They know more about their business and problems than you do. So ask them questions. Let them tell you a few things.
 
 **Principle 7: Let the other person feel that the idea is his or hers.**
+- Consulting people about their wishes and desires will give them the boost they much needed.
 
 **Principle 8: Try honestly to see things from the other person's point of view.**
+- Remember that other people may be totally wrong. But they don't think so. Don't condemn them. Any fool can do that. Try to understand them. Only wise, tolerant, exceptional people even try to do that.
+- Always think in term of the other person's point of view, and see things from that person's angle as well as your own.
 
 **Principle 9: Be sympathetic with other people's ideas and desires.**
+- Being sympathetic will stop arguments, eliminate ill feeling, create good will and make other person listen attentively.
+- Ever wondered why children display their injury eagerly? It is because sympathy the human species universally craves. Self-pity is true for adults as well but being sympathetic will earn you a good will.
 
 **Principle 10: Appeal to the nobler motives.**
+- When no information can be secured about the other person, the only sound basis on which to proceed is to assume that he or she is sincere and honest.
+- So, in order to change people, appeal to the nobler motives.
 
 **Principle 11: Dramatize your ideas.**
+- To engage others and make them intensely interested, use dramatization.
+- Merely stating a truth isn't enough. The truth has to be more viivd, interesting, dramatic. You have to use showmanship. The movies do it. Television does it. And you will have to do it too if you want attention.
 
 **Principle 12: Throw down a challenge.**
+- When being challenged to meet goals, gamify the process.
+- Charles Schwab said: “The way to get things done is to stimulate competition. I do not mean in a sordid, money-getting way, but in the desire to excel.”
+- The desire to excel is faced by challenge. An infallible way of appealing to people of spirit.
+- “All men have fears, but the brave put down their fears and go forward, sometimes to death, but always to victory” was the motto of the King's Guard in ancient Greece.
+- The one major factor that motivated people was the work itself. If the work looked interesting, the worker looked forward to it. It is not the money or benefits that is a motivating factor, it is the interesting work that keeps one engaged and challenged.
+- The game in itself is loved by successful people. The chance for self-expression, the chance to prove his or her self-worth, to excel, to win. The desire to excel. The desire for feeling of importance.
 
 ### Part IV. Be a leader: how to change people without giving offense or arousing resentment
 
-**Principle 1: Begin with praise and honest appreciation.**
-
-**Principle 2: Call attention to people's mistakes indirectly.**
-
-**Principle 3: Talk about your own mistakes before criticizing the other person.**
-
-**Principle 4: Ask questions instead of giving direct orders.**
-
-**Principle 5: Let the other person save face.**
-
-**Principle 6: Praise the slightest improvement and praise every improvement. “Be hearty in your approbation and lavish in your praise.”**
-
-**Principle 7: Give the other person a fine reputation to live up to.**
-
-**Principle 8: Use encouragement. Make the fault seem easy to correct.**
-
-**Principle 9: Make the other person happy about doing the things you suggest.**
+- Principle 1: Begin with praise and honest appreciation.
+- Principle 2: Call attention to people's mistakes indirectly.
+- Principle 3: Talk about your own mistakes before criticizing the other person.
+- Principle 4: Ask questions instead of giving direct orders.
+- Principle 5: Let the other person save face.
+- Principle 6: Praise the slightest improvement and praise every improvement. “Be hearty in your approbation and lavish in your praise.”
+- Principle 7: Give the other person a fine reputation to live up to.
+- Principle 8: Use encouragement. Make the fault seem easy to correct.
+- Principle 9: Make the other person happy about doing the things you suggest.
 
 ### III. Quotes
 - For the great aim of education, is not knowledge but action. — Herbert Sepencer
