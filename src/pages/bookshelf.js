@@ -55,7 +55,6 @@ const IndexPage = ({ data }) => {
           </div>
         ))}
         <ol>
-          <li>The Alchemist</li>
           <li>It Doesn't Have to Be Crazy at Work</li>
           <li>The Last Lecture</li>
           <li>When Breath Becomes Air</li>
@@ -72,7 +71,6 @@ const IndexPage = ({ data }) => {
           <li>The Power of Habit: Why We Do What We Do in Life and Business</li>
           <li>How Google Works</li>
           <li>The Everything Store: Jeff Bezos and the Age of Amazon</li>
-          <li>Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration</li>
           <li>The Great Gatsby</li>
           <li>	The Intelligent Investor</li>
           <li>The Creator's Code The Six Essential Skills of Extraordinary Entrepreneurs</li>

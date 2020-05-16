@@ -1,5 +1,5 @@
 ---
-title: How to Win Friends and Influence People
+title: How to Win Friends and Influence People by Dale Carnegie
 date: "2020-05-03"
 path: "/bookshelf/how-to-win-friends-and-influence-people"
 ---
