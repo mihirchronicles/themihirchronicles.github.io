@@ -37,9 +37,7 @@ const Footer = () => (
     <List>
         <li><FooterLink href="https://twitter.com/mihirchronicles"><FontAwesomeIcon icon={["fab", "twitter"]} size="2x" style={{color:"#0049fb"}} /></FooterLink></li>
         <li><FooterLink href="https://www.linkedin.com/in/mihirchronicles"><FontAwesomeIcon icon={["fab", "linkedin"]} size="2x" style={{color:"#0049fb"}} /></FooterLink></li>
-        <li><FooterLink href="https://github.com/mihirchronicles"><FontAwesomeIcon icon={["fab", "github"]} size="2x" style={{color:"#0049fb"}} /></FooterLink></li>
         <li><FooterLink href="mailto:mihirptl89@gmail.com"><FontAwesomeIcon icon="envelope" size="2x" style={{color:"#0049fb"}} /></FooterLink></li>
-        <li><FooterLink href="https://instagram.com/mihirchronicles"><FontAwesomeIcon icon={["fab", "instagram"]} size="2x" style={{color:"#0049fb"}} /></FooterLink></li>
     </List>
     </FooterContainer>
 )
