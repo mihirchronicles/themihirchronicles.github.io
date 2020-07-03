@@ -9,7 +9,7 @@ const FooterLink = styled.a`
 
 const FooterContainer = styled.footer`
   margin: auto 0;
-  margin-top: 10px;
+  margin-top: 20px;
   height: 10%;
   bottom: 0;
   left: 0;

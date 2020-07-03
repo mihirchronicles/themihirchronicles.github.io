@@ -32,7 +32,7 @@ const IndexPage = ({ data }) => {
       <SEO title="Books" />
       <Content>
         <h1>Bookshelf</h1>
-        <p>Reading is a fun way to experience life and go on an adventure! It is important to make time to read what's fairly academic and super profound. To maintain lifelong curiosity, I use multi-disciplinary approach to select wide array of books. Below are my notes on a few of the books I have read.</p>
+        <p>Reading is a fun way to experience life and go on an adventure! It is important to make time to read what's fairly academic and super profound. To maintain lifelong curiosity, I use multi-disciplinary approach to select and read wide array of books. Below are my notes on a few of the books I have read.</p>
         <Horizontal/>
         {data.allMarkdownRemark.edges.map(({ node }) => (
           <div key={node.id}>

@@ -6,11 +6,11 @@ path: "/bookshelf/seeking-wisdom"
 
 ## I. Brief Summary
 
-Peter Bevelin through real life examples shares lessons on how to think better, avoid poor decisions, deal with world reality and cope through human misjudgement. Many of these lessons are centered around Warren Buffett and Charlie Munger. The book is a collection of insights across numerous fields from biology, chemistry, physiology, psychology, physics, engineering, economics, statistics, math, business and more.
+Peter Bevelin through real life examples shares lessons on how to think better, avoid making poor decisions, deal with world reality and cope through human misjudgement. Many of these lessons are centered around Warren Buffett and Charlie Munger. The book is a collection of insights across numerous fields from biology, chemistry, physiology, psychology, physics, engineering, economics, statistics, math, business and more.
 
-For this book, sharing any big ideas in form of brief notes would be a disservice because the book should be read in its entirety. Peter Bevelin took a year off to learn about wisdom and prominently shared by Buffett and Munger. Peter's work is applaudable because you don't have to take that year off and jump right into the book.
+For this book, sharing any big ideas in form of brief notes would be a disservice because the book should be read in its entirety. Peter Bevelin took a year off to learn about rational thinking prominently shared by Buffett and Munger. Peter's work is applaudable because he did the all the hard work by sharing important lessons that can be applied in real life by just anyone.
 
-The book also covers lessons from Benjamin Franklin, Charles Darwin, Adam Smith, Mark Twain, Albert Einstein, Richard Feynman, Michael de Montaigne and more. This book is an encyclopedia of great thinkers. 
+The book also covers lessons from Benjamin Franklin, Charles Darwin, Adam Smith, Mark Twain, Albert Einstein, Richard Feynman, Michael de Montaigne and more. This book is an encyclopedia of great thinkers and their mindsets.
 
 ## II. Quotes
 

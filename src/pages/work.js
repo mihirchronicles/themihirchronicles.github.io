@@ -52,7 +52,7 @@ const IndexPage = ({ data }) => {
       <SEO title="Work" />
       <Content>
       <h1>Work</h1>
-      <p>My work has always consisted of some variation of building products. There is a pure joy in building and launching creative products. Building a product is like planting a seed while experimenting with new ideas and bringing chaos in order. Following the journey of building products has allowed me to learn about various topics— design, code, user experience, writing, ethics, marketing, sales, product prototyping, engineering, manufacturing, supply chain, financing and so much more. My work is still in pogress. Below you will find my past and present product stories.</p>
+      <p>My work has always consisted of some variation of building products. There is a pure joy in building and launching creative products. Building a product is like planting a seed while experimenting with new ideas and bringing chaos in order. The journey of building products has given me insights on various topics such as design, code, user experience, writing, ethics, marketing, sales, product prototyping, engineering, manufacturing, supply chain, financing and more. My work is still in progress. Below you will find my past and present product stories.</p>
       <Horizontal/>
       <WorkContainer>
         <WorkTitle>Wise Charlie</WorkTitle>
@@ -74,7 +74,7 @@ const IndexPage = ({ data }) => {
         <WorkTitle>Morningstar Design System</WorkTitle>
         <WorkContent className="test">
           <Time>[ 2018 - Current ]</Time>
-          <p><strong>Story</strong>: Morningstar is a financial services company with almost 60 plus, client facing,software products. This makes it hard to communicate design, code and user experience standards. Design system library help addresses the challenge of bringing design consistency across all client facing products. Another challenge we faced was to whether to support library for the newest and the brightest javascript frameworks. We build v1 with HTML and CSS and no support for javascript. Implementors would be responsible for the functionality. We introduced web components in v2 but the lack of support and knowledge around web components across the organization delayed the adoption. In v3, we rallied technology leaders to introduce Frontend Guild which would be responsible to guide and support javascript frameworks. This makes it easy for a design system team to solely focus on one framework as opposed to several. At Morningstar, we have products built on Angular, React, Backbone and Vue. v3 also introduced automated changelog, monorepo architecture using yarn, CI/CD and using Vue to build library components.</p>
+          <p><strong>Story</strong>:  Morningstar is a financial services company with almost 60 plus, client facing, software products. This makes it hard to communicate design, code and user experience standards. Design system brings design and code standards across all Morningstar products.</p>
           <p><strong>Website</strong>: <a href="http://designsystem.morningstar.com/"><strong>http://designsystem.morningstar.com/</strong></a></p>
         </WorkContent>
       </WorkContainer>
