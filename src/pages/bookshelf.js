@@ -55,12 +55,12 @@ const IndexPage = ({ data }) => {
           </div>
         ))}
         <ol>
+          <li>The Hitchhiker's Guide to the Galaxy by Douglas Adams</li>
           <li>It Doesn't Have to Be Crazy at Work</li>
           <li>The Last Lecture</li>
           <li>When Breath Becomes Air</li>
           <li>Bad Blood: Secrets and Lies in a Silicon Valley Startup</li>
           <li>Grit</li>
-          <li>Being Logical: A Guide to Good Thinking</li>
           <li>Misbehaving: The Making of Behavioral Economics</li>
           <li>Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger, Expanded Third Edition</li>
           <li>Cathedral of the Wild: An African Journey Home</li>
@@ -72,7 +72,7 @@ const IndexPage = ({ data }) => {
           <li>How Google Works</li>
           <li>The Everything Store: Jeff Bezos and the Age of Amazon</li>
           <li>The Great Gatsby</li>
-          <li>	The Intelligent Investor</li>
+          <li>The Intelligent Investor</li>
           <li>The Creator's Code The Six Essential Skills of Extraordinary Entrepreneurs</li>
           <li>Start Something That Matters</li>
           <li>Zero to One: Notes on Startups, or How to Build the Future</li>

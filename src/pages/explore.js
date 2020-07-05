@@ -27,7 +27,7 @@ const IndexPage = ({ data }) => {
       <SEO title="Explore" />
       <Content>
         <h1>Explore</h1>
-        <p>The goal is to learn in bit sizes, document things for myself, and share with others. This is a an exploration with others. The goal is to go on an adventure with people who have deep expertise in their subject matter. Below are the noteworthy articles and videos I have explored.</p>
+        <p>Below are some of the gems that are worth exploring which are not in a long-form reading (books).</p>
         {data.allMarkdownRemark.edges.map(({ node }) => (
           <div key={node.id}>
           <Horizontal/>

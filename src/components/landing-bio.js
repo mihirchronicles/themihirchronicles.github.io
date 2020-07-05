@@ -56,7 +56,6 @@ const Button = styled.button`
   border: solid #0049fb 2px;
   text-decoration: none;
   position: absolute;
-  left: 20px;
   margin-top: 10px;
   font-weight: bolder;
 
@@ -94,9 +93,9 @@ const LandingBio = () => (
         <Container>
           <NameHeader>{data.site.siteMetadata.title}</NameHeader>
             <Description>Me here, here!</Description>
-            <Description>Building products at <a href="http://www.morningstar.com/">Morningstar </a>and <a href="https://wisecharlie.com/">Wise Charlie</a>. Fond of art, hiking & telescopes. Book nerd <FontAwesomeIcon icon="book"/>. Enjoy building things <FontAwesomeIcon icon="brush"/>. Process itself is the goal <FontAwesomeIcon icon="cogs"/>.</Description>
+            <Description>Building design system at <a href="http://www.morningstar.com/">Morningstar</a> and helping learn independent thinking at <a href="https://wisecharlie.com/">Wise Charlie</a>. Fond of investing, art, hiking & telescopes. Process itself is the goal <FontAwesomeIcon icon="cogs"/>.</Description>
             <Description><strong>Scientia Potentia Est</strong></Description>
-            <ButtonLink href="/notes"><Button type="text">Notes</Button></ButtonLink> 
+            <ButtonLink href="/about"><Button type="text">Learn more</Button></ButtonLink> 
         </Container>
       </OuterContainer>
     )}
