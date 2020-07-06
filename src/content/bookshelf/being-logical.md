@@ -4,7 +4,7 @@ date: "2020-07-03"
 path: "/bookshelf/being-logical"
 ---
 
-#### [I. Brief Summary]
+## [I. Brief Summary]
 
 * 
 
