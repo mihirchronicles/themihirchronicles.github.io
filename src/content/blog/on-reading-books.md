@@ -1,0 +1,57 @@
+---
+title: "On Reading Books"
+tags: ["general"]
+date: "2020-07-07"
+draft: false
+path: "/blog/on-reading-books"
+---
+I disliked reading growing up, but I loved books. How can loving books, but disliking reading be possible in the same sentence? My parents bought me illustration books which I loved as a kid (and still do). I read those books from cover to cover. But anything that had to do with reading for schoolwork, I started running away from it.
+
+This pattern remained true in college. But all of this changed after I was done with formal education. I started showing up at local book stores and picked up hard copies. I would devour those books in weeks and days. And, do it all over again! 
+
+Reading became meditative. In my down time, I started reading because it didn't feel like work to me. Reading became an obsession. Reading has helped me reconcile all of my emotions because getting lost in words, stories and wisdom of others is a thrill. Obsessively reading makes reading frictionless because curiosity is constantly pulling me and I don't know how to put the brakes on.
+
+## Reading is a process which has no goals
+Learning is more effective when you are emotionally connected. Consuming information is not the same as learning information. To understand what you are reading requires Galieleo like patience. Read. Pause. Ponder on what you just read. Revisit. Write book summaries. Share those summaries with others. And if that doesn't work, write a review on Amazon or Goodreads, or post about it on Reddit or anywhere else where people are likely to be interested.
+
+When I first started reading, I wanted to read x amount of books per year. An underlying desire was to impress others. I quickly learned how falwed that thinking was because I wasn't learning anything. Now, I read without any objective goals and ensure I am processing what I am reading.
+
+If I don't enjoy reading something or if I am reading aimlessly to consume information, I will put that book aside and move on to something else.
+
+## Be an active reader
+Eliminate passive reading. Some of the misconception which I still run into today are aimlessly highlighting every passage in the book, pretending to read, but not understanding what I am reading or stuck on a book for a long period of time.
+
+An active reader doesn't pasively read, but uses the arguments made by an author for critical thinking and deeper understanding. An active reader asks questions by considering motivation of writer's arguments and assumptions. An active reader avoids passive reading like a plague. The goal is not to read as much as possible and soak up all the information solely to satisfy instant gratification. The goal is to gain as much as wisdom as possible because knowledge compounds.
+
+## Reading is an equalizer
+In my opinion, systematic education is not an equalizer. This is because it made me run away. However, reading is. Reading equalizes every mind by fixing every hole in every person's broken sky.
+
+Reading is a journey to find great books. You start with not so great books and then slowly start climbing the intellectual ladder. I started out with mostly self-help or academically claimed books which over time I started noticing all the advice shared in those books are the same...told differently. Then, I moved on to physics, biology, business, engineering, etc. 
+
+I didn't care for these disciplines in school, but now I do. In school you are supposed to finish something you are disengaged in, while reading freely, you can move on to something else if you are no longer interested. You think you are supposed to finish the book. Schools ingrain this type of idiology.
+
+Society values higher education from prestige universities, but it costs $1 in late fees at a local library than accumulating thousdands in tuition debt. Reading is inexpensive so go to your local library and check out some books.
+
+Abraham Lincoln didn't have any formal education from Harvard or Yale. He walked several miles to borrow books. He grew up reading Shakespeare and Milton soaking up the simple majesty of their words, stories and wisdom. 
+
+> To my mind there are no advantages and many disadvantages in lectures compared with reading. – Charles Darwin
+
+> Libraries are bastions of democracy and oxygen for the mind. — Maria Popova
+
+## System for reading effectively
+
+If you don't take anything away, just take this — **let go of the unwritten rules and just read.**
+
+First, just read. Reading Aristotle on a tablet or a hard cover book doesn't matter. No matter how much technology will evolve, reading will remain an elemental human hunger. I prefer physical books, but I read on kindle. It doesn't matter. Just read.
+
+Second, feel the content before you go deeper. For every book I read, I put down five books. This is achieved by reading the title, table of contents, preface, editor notes, introduction, etc. Read through couple chapters and if you are still engaged, continue moving forward. If you are resisting and can't go any further, move on to something else. Most good books have value spread evenly throughout the book. Most not so good books have valye front-loaded and the rest is mostly repitition and anecdotes.
+
+Third, always ask questions. What is the author saying? Why is the author saying that? Is it a fact or an opinion? Pay attention to how sentences and paragraphs are constructed.
+
+Fourth, use commonplace book. Start by writing a short summary of each chapter and transcribing meaning passages and phrases. Sit on those notes to think deeply. Use commonplace book to expand your vocabulary by listing words that are new. Without these summaries and note taking system, you will forget lot of the lessons learned. I don't have a great memory so the system I built helps me revisit those lessons.
+
+Fifth, the more you read, the more you will start to appreciate books you have read in the past. An old book that you rated 5/10 will now become 8 or 9 out of 10. This is a clear way of seeing how knowledge compounds. You will also start to see common patterns that are universal to human beings. Lessons from philosophy, physiology, physics, psychology, biology, business, etc. are everywhere. Everything is related.
+
+Sixth, read books that have aged well. Most books are bad. Classics suchs as The Wealth of Nations by Adam Smith or On the Origin of Species by Charles Darwin. These books have been around for a century and will most likely be around for another 100 years. Also focus on re-reading great books. It is more likely than not, you will stumble upon something you originally missed.
+
+Seventh, beware of sunk cost fallacy and opportunity cost. You may feel guilty of spending time and money on books that you are unable to finish. It's not something you should get worked up on. A $10 or $20 book can change your life in a meaningful way. This book then is an investment, not a cost.

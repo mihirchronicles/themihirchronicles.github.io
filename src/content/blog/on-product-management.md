@@ -90,23 +90,7 @@ Being resilient is a key to becoming a successful product manager because if you
 - document stories, epics, technical requirements, user workflows
 - defining and tracking success metrics
 
-The role of the PM at a startup is far more likely to be responsible to wear “all the hats,” whereas at a mature company their role will be more distinctly defined.
-
-- **Startup**: beyond discovery, definition, and shipping, PMs may also be responsible for pricing, marketing, support, and potentially even sales of the product. These PMs thrive in a scrappy environment and are comfortable with ambiguity and frequent changes to direction as the company works towards product-market fit and learns to operate at scale
-    - Pro: PMs are likely to be more involved with company strategy, get exposure to senior leadership and the board, are able to take more risks and make a bigger impact. They also have more influence and authority over company resources
-    - Con: There’s typically little to no mentorship, role models, or best practices within the company. You may have to seek it externally. Budgets are typically tight, and PMs may not have the requisite experience to succeed at some of the things they’re tasked to do
-- **Mature company**: The PM may have a narrower scope and have coworkers who handle pricing, go-to-market strategies, and so on. And they are likely to be part of a larger team of product managers
-    - Pro: PMs are more likely to have mentoring and role models, as well as development standards and best practices. Close association with an engineering team can create strong relationships over time, which is great for long-term impact and career growth. And if the product has market fit, there is an established customer base and performance baseline to work from, versus guessing until you get it right
-    - Con: PMs have less exposure to company strategy and are just one of many voices of the customer. They can get “lost” in the system and have to deal with more politics and tight budgets
-
-**How to set product management goals?** In its purest form, a goal is a way to track whether you’re achieving what you set out to do. When setting goals, start with what you’re trying to achieve as a company, team and product. What’s your ultimate mission? A goal should never be an end in itself— the end is achieving your mission. A good goal has the following attributes:
-
-- Concrete: it’s clear and unambiguous (something that isn’t subjective)
-- Simple: everyone understands what it is and how it’s measured
-- Quick feedback loop: the results of your changes can be seen quickly. Think about how long it takes for a user to reach the milestone you’re tracking, and whether you can expect movement in a reasonable timeframe
-- Business-oriented: it’s easy to see how this goal actually drives the larger business
-
-**What are some tips to become a great product manager?**
+**What are some of the tips to become a great product manager?**
 
 **Story-tellers**: the best PMs are able to weave tales that incorporate market needs, strategy, and tactics into a story that their stakeholders can get their heads around and hopefully adopt the story themselves. It can be challengeing when you see something clearly, but you can’t get others around you to see it. You work through other people, so it takes a lot of convincing. You have to be a great communicator and storyteller. You have to read your audience. You have to try harder to understand others and find an angle to explain that makes sense to them. People you work with are smart, they just need a great story to be convinced.
 
@@ -129,6 +113,22 @@ The role of the PM at a startup is far more likely to be responsible to wear “
 **Self-management**: being a PM can be incredibly stressful. The CEO wants one thing, the engineering team another, and customers have their own opinions about feature priorities. Managing tight deadlines, revenue targets, market demands, prioritization conflicts, and resource constraints all at once is not for the faint of heart. If a PM cannot maintain their emotions and keep it cool under pressure, they can quickly lose the confidence of all their constituents. The best PMs know how to push hard on the right priorities, with urgency but without conveying a sense of panic or stress. These PMs also know when to take a breath and step away to regroup.
 
 **Social awareness**: PMs must understand customer's emotions and concerns about their product as much as they understand the concerns of the sales team on how to sell that product, or the support team on how to support it, or the engineering team on how to build it. PMs need deep understanding of how the organization operates and must build social capital to influence the success of their product, from obtaining budget and staffing to securing a top engineer to work on their product. Finally, social awareness ensures the best PMs service their customers with a product that addresses their jobs to be done, which is ultimately what drives product-market fit.
+
+**How is product management different at a startup than at a mature organization?** The role of the PM at a startup is far more likely to be responsible to wear “all the hats,” whereas at a mature company their role will be more distinctly defined.
+
+- **Startup**: beyond discovery, definition, and shipping, PMs may also be responsible for pricing, marketing, support, and potentially even sales of the product. These PMs thrive in a scrappy environment and are comfortable with ambiguity and frequent changes to direction as the company works towards product-market fit and learns to operate at scale
+    - Pro: PMs are likely to be more involved with company strategy, get exposure to senior leadership and the board, are able to take more risks and make a bigger impact. They also have more influence and authority over company resources
+    - Con: There’s typically little to no mentorship, role models, or best practices within the company. You may have to seek it externally. Budgets are typically tight, and PMs may not have the requisite experience to succeed at some of the things they’re tasked to do
+- **Mature company**: The PM may have a narrower scope and have coworkers who handle pricing, go-to-market strategies, and so on. And they are likely to be part of a larger team of product managers
+    - Pro: PMs are more likely to have mentoring and role models, as well as development standards and best practices. Close association with an engineering team can create strong relationships over time, which is great for long-term impact and career growth. And if the product has market fit, there is an established customer base and performance baseline to work from, versus guessing until you get it right
+    - Con: PMs have less exposure to company strategy and are just one of many voices of the customer. They can get “lost” in the system and have to deal with more politics and tight budgets
+
+**How to set product management goals?** In its purest form, a goal is a way to track whether you’re achieving what you set out to do. When setting goals, start with what you’re trying to achieve as a company, team and product. What’s your ultimate mission? A goal should never be an end in itself— the end is achieving your mission. A good goal has the following attributes:
+
+- Concrete: it’s clear and unambiguous (something that isn’t subjective)
+- Simple: everyone understands what it is and how it’s measured
+- Quick feedback loop: the results of your changes can be seen quickly. Think about how long it takes for a user to reach the milestone you’re tracking, and whether you can expect movement in a reasonable timeframe
+- Business-oriented: it’s easy to see how this goal actually drives the larger business
 
 ## What are some of the product philosophies?
 
