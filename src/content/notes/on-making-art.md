@@ -3,7 +3,7 @@ title: "On Making Art"
 tags: ["general"]
 date: "2020-07-06"
 draft: false
-path: "/blog/on-making-art"
+path: "/notes/on-making-art"
 ---
 As far as I can remember, I enjoyed everything about art and the people who make it (artists). In elementary school, I enjoyed crayons and a sketchbook. I was never good, but the constant chase of making something with pen on paper got me lost from real-world problems. An underlying reason which I found very therapeutic at an early age.
 

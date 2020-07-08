@@ -3,7 +3,7 @@ title: "On Independent Thinking"
 date: "2018-01-01"
 tags: ["general"]
 draft: false
-path: "/blog/on-independent-thinking"
+path: "/notes/on-independent-thinking"
 ---
 
 Logical perspective is called upon us everyday while making critical decisions. However, the noise around us makes it very difficult to separate out fact from opinion. Liberal arts and humanity is not given the same importance as math and science in higher education today. It should be a reminder for us all that we are molded by our way of thinking. In that case, you can bet the decay of society will start accelerating if there is a broader decay of independent thinking. Expressing clear thoughts with logical perspective should be everyone's goal.

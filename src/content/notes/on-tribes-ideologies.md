@@ -3,7 +3,7 @@ title: "On Tribes & Ideologies"
 date: "2018-07-01"
 tags: ["general"]
 draft: false
-path: "/blog/on-tribes-ideologies"
+path: "/notes/on-tribes-ideologies"
 ---
 
 In modern culture, we all associate ourselves to a certain tribe. Primitive humans would not be surprised to see this phenomenon today. This has been going on since ancient times.

@@ -3,7 +3,7 @@ title: "On Rhetorical Devices"
 date: "2019-03-01"
 tags: ["general"]
 draft: false
-path: "/blog/on-rhetorical-devices"
+path: "/notes/on-rhetorical-devices"
 ---
 
 A is B, A is like B, A is as B or comparing A with B. Head hurts. I know! The objective of this writing is to decipher the complexity of these rhetorical devices.

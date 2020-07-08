@@ -3,7 +3,7 @@ title: "On Asking Questions"
 tags: ["general"]
 date: "2020-02-20"
 draft: false
-path: "/blog/on-asking-questions"
+path: "/notes/on-asking-questions"
 ---
 Asking great questions is the most useful yet underutilized tool for anyone who wants to lead or discover.
 

@@ -3,7 +3,7 @@ title: "On Becoming A Craftsman"
 tags: ["general"]
 date: "2018-12-01"
 draft: false
-path: "/blog/on-becoming-craftsman"
+path: "/notes/on-becoming-craftsman"
 ---
 
 People always ask, “What do you want to do with your life?” Then, there is a follow-up question, “What are you good at?”
@@ -28,4 +28,14 @@ Words like being persistent, diligent and rigorous are all synonymous to being a
 
 Ira Glass summed it up perfectly on what it takes to go from good to great.
 
-> Nobody tells this to people who are beginners, I wish someone told me. All of us who do creative work, we get into it because we have good taste. But there is this gap. For the first couple years you make stuff, it’s just not that good. It’s trying to be good, it has potential, but it’s not. But your taste, the thing that got you into the game, is still killer. And your taste is why your work disappoints you. A lot of people never get past this phase, they quit. Most people I know who do interesting, creative work went through years of this. We know our work doesn’t have this special thing that we want it to have. We all go through this. And if you are just starting out or you are still in this phase, you gotta know its normal and the most important thing you can do is do a lot of work. Put yourself on a deadline so that every week you will finish one story. It is only by going through a volume of work that you will close that gap, and your work will be as good as your ambitions. And I took longer to figure out how to do this than anyone I’ve ever met. It’s gonna take awhile. It’s normal to take awhile. You’ve just gotta fight your way through. — Ira Glass
+> Nobody tells this to people who are beginners, I wish someone told me. All of us who do creative work, we get into it because we have good taste. But there is this gap. For the first couple years you make stuff, it’s just not that good. It’s trying to be good, it has potential, but it’s not. But your taste, the thing that got you into the game, is still killer. And your taste is why your work disappoints you. A lot of people never get past this phase, they quit. Most people I know who do interesting, cretive work went through years of this. We know our work doesn’t have this special thing that we want it to have. We all go through this. And if you are just starting out or you are still in this phase, you gotta know its normal and the most important thing you can do is do a lot of work. Put yourself on a deadline so that every week you will finish one story. It is only by going through a volume of work that you will close that gap, and your work will be as good as your ambitions. And I took longer to figure out how to do this than anyone I’ve ever met. It’s gonna take awhile. It’s normal to take awhile. You’ve just gotta fight your way through. — Ira Glass
+
+## Achieving mastery 
+
+Following are the 4 stages to achieving mastery:
+
+- Stage 1: understanding a skill intellectually by careful reading and studying the material.
+- Stage 2: performing the skillset with guidance by imitating. Remember that you may be unable to achieve perfect results but you should work to approximate it.
+- Stage 3: performing skillset without guidance, ability to step yourself into performing the skillset without referring the lesson. Should be able to remember the steps, approximately.
+- Stage 4: performing the movements without conscious awareness. The secret to achieving this stage depends on how much time you spend on stage 3 of practicing. Ability to perform a skillset without using the conscious thought to do so.
+

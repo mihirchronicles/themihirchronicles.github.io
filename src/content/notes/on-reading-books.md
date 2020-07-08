@@ -3,7 +3,7 @@ title: "On Reading Books"
 tags: ["general"]
 date: "2020-07-07"
 draft: false
-path: "/blog/on-reading-books"
+path: "/notes/on-reading-books"
 ---
 I disliked reading growing up, but I loved books. How can loving books, but disliking reading be possible in the same sentence? My parents bought me illustration books which I loved as a kid (and still do). I read those books from cover to cover. But anything that had to do with reading for schoolwork, I started running away from it.
 

@@ -67,7 +67,7 @@ export const query = graphql`
       }
     }
     allMarkdownRemark(
-      filter: { fileAbsolutePath: { regex: "/content/blog/" } }
+      filter: { fileAbsolutePath: { regex: "/content/notes/" } }
       sort: { fields: [frontmatter___date], order: DESC }) {
       totalCount
       edges {

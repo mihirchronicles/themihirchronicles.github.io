@@ -3,7 +3,7 @@ title: "On Product Management"
 tags: ["general"]
 date: "2020-03-04"
 draft: false
-path: "/blog/on-product-management"
+path: "/notes/on-product-management"
 ---
 Peter Thiel, in his book, Zero to One, outlines his belief that the biggest insights in life are ”hidden in plain sight” — concealed only by our preconceptions or tendency to accept realities as they are (complacency).
 

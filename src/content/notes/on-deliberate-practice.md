@@ -3,7 +3,7 @@ title: "On Deliberate Practice"
 tags: ["general"]
 date: "2019-10-03"
 draft: false
-path: "/blog/on-deliberate-practice"
+path: "/notes/on-deliberate-practice"
 ---
 
 Deep work is a cognitively demanding task as opposed to shallow work which is non-cognitively demanding task. Deep work is valuable, rare and meaningful. The ability to quickly master hard things and the ability to produce at an elite level, in terms of both speed and quality, are two core abilities for thriving in today’s economy. So how do you do deliberately practice?

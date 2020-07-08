@@ -3,7 +3,7 @@ title: "On Writing Well"
 tags: ["general"]
 date: "2019-09-06"
 draft: false
-path: "/blog/on-writing-well"
+path: "/notes/on-writing-well"
 ---
 
 <details>
