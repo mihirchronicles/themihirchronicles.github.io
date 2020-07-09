@@ -32,7 +32,7 @@ const IndexPage = ({ data }) => {
       <SEO title="Notes" />
       <Content>
         <h1>Notes</h1>
-        <p>The importance of writing stems from the fact that it enhances clarity and intellect. Writing is organized thinking on behalf of persuasion. The true function of a writer and learner is to peel the onion of your own ignorance and pose questions. Below are few of the topics I have explored and dug deeper into.</p>
+        <p>The importance of writing stems from the fact that it enhances clarity and intellect. Writing forces cohesive thought. Writing is organized thinking on behalf of persuasion. The true function of a writer and learner is to peel the onion of your own ignorance and pose questions. Below are few of the topics I have explored and dug deeper into.</p>
         <Horizontal/>
         {data.allMarkdownRemark.edges.map(({ node }) => (
           <div key={node.id}>

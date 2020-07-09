@@ -4,7 +4,7 @@ date: "2018-06-17"
 path: "/bookshelf/deepwork"
 ---
 
-#### [I. Brief Summary]
+## I. Brief Summary
 
 * Cal Newport’s Deep Work is about the benefits of deep work and practical steps you can take to increase productivity. He shares his thoughts on Deep Work vs Shallow Work. Deep work is a cognitively demanding task as opposed to shallow work which is non-cognitively demanding task. Deep work is valuable, rare and meaningful. The ability to quickly master hard things and the ability to produce at an elite level, in terms of both speed and quality, are two core abilities for thriving in today’s economy.
 

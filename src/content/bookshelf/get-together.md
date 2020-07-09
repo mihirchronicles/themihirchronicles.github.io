@@ -25,7 +25,7 @@ path: "/bookshelf/get-together"
 - Supercharge your leaders by balancing structure and freedom. With structure, new leaders gain confidence. With freedom, they embrace ownership. Map out the journey and weekly milestones by using Post-its. Eliminate what is not important from the structure. A capable leader can find his or her own way. Instead supercharge them with valuable activities. The method of mapping activities is a blend of journey mapping from the field of user experience and value stream mapping from the lean thinking business methodology. Give your keys entrusting them to figure out how to execute. Engineering can teach a lot on problem solving. The key is to work systematically: first evaluate, then improve. A process driven mindset reveals just how many opportunities we have to supercharge the work of others.
 - Celebrations mobilize around where to head next, give the tanks a much-needed refill, and reflect on what the community has accomplished. Honoring changer-makers, action-takers and memebers will revitalize the group and supercharge your fans. 
 
-### III. Quotes
+## III. Quotes
 - "Fires can't be made with dead embers, nor can enthusiasm be stirred by spiritless men."  —Balwin
 - "If you want to show that your community is alive and vibrant, you'll need to maintain a steady pulse."
 - "Pride is a captivating energy."

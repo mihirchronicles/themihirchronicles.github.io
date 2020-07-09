@@ -187,7 +187,7 @@ path: "/bookshelf/how-to-win-friends-and-influence-people"
 - Principle 8: Use encouragement. Make the fault seem easy to correct.
 - Principle 9: Make the other person happy about doing the things you suggest.
 
-### III. Quotes
+## III. Quotes
 - For the great aim of education, is not knowledge but action. — Herbert Sepencer
 - Let's realize criticisms are like homing pigeons. They always return home.
 - Judge not, that ye be not judged.

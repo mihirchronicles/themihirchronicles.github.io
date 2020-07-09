@@ -4,7 +4,7 @@ date: "2019-07-28"
 path: "/bookshelf/creativity-inc"
 ---
 
-## [I. Brief Summary
+## I. Brief Summary
 
 * Ed Catmull, President of Pixar Animation and Disney Animation shares a memoir which focuses on how companies can build competitive and creative forces for decades to come and outlast existing management. Focusing themes of the book are managing creativity, fostering a creative culture at work, and the challenges of stepping into a leadership role.
 
