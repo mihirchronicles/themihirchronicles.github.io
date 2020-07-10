@@ -52,7 +52,7 @@ _Third_, always ask questions. What is the author saying? Why is the author sayi
 
 _Fourth_, use commonplace book. Start by writing a short summary of each chapter and transcribing meaningful passages and phrases. Sit on those notes to think deeply. Use commonplace book to expand your vocabulary by listing those new words down. Without these summaries and note-taking system, you will forget lot of the lessons learned. I don't have a great memory so the system I built helps me revisit those lessons.
 
-_Fifth_, the more you read, the more you will start to appreciate books you have read in the past. An old book that you rated 5/10 will now become 8 or 9 out of 10. This is a clear way of seeing how knowledge compounds. You will also start to see common patterns that are universal all around you. Lessons from philosophy, physiology, physics, psychology, biology, business, etc. are everywhere. Everything is related nad connected.
+_Fifth_, the more you read, the more you will start to appreciate books you have read in the past. An old book that you rated 5/10 will now become 8 or 9 out of 10. This is a clear way of seeing how knowledge compounds. You will also start to see common patterns that are universal all around you. Lessons from philosophy, physiology, physics, psychology, biology, business, etc. are everywhere. Everything is related and connected.
 
 _Sixth_, read books that have aged well. Most books are bad. Classics such as The Wealth of Nations by Adam Smith or On the Origin of Species by Charles Darwin. These books have been around for a century and will most likely be around for another 100 years. Focus on re-reading great books. It is more likely than not, you will stumble upon something you originally missed.
 
