@@ -15,7 +15,7 @@ So, what should we do? Besides, being a selective skeptic, we can strive to be a
 
 Embrace reality and seek to improve it. This can be done by keeping our minds open to a variety of possibilities. A narrow-minded person will refuse to consider alternatives because they do not meet prejudiced assumptions. An open-minded person will seek all possible alternatives and relevant information.
 
-Being a permanent skeptic, naive optimist, or narrow-minded will cloud our observations. So what shall we do? Do what scientists do: _strive for objectivity_. Scientists try to describe the world as it is, not as they want it to be. Slective skeptics will seek to answer _whys_ and _hows_ questions by using method of scientific integrity.
+Being a permanent skeptic, naive optimist, or narrow-minded will cloud our observations. So what shall we do? Do what scientists do: _strive for objectivity_. Scientists try to describe the world as it is, not as they want it to be. Selective skeptics will seek to answer _whys_ and _hows_ questions by using method of scientific integrity.
 
 A sound reasoning can eliminate all prejudices by deploying selective skepticism in necessary situations. 
 
@@ -24,3 +24,15 @@ A sound reasoning can eliminate all prejudices by deploying selective skepticism
 > It does not make any difference how beautiful your guess is. It does not make any difference how smart you are, who made the guess, or what his name is — if it disagrees with experiment it is wrong. — Richard Feynman
 
 > Sit down before facts like a child, and be prepared to give up every preconceived Notion, follow humbly wherever and to whatever abysses Nature leads, or shall learn nothing. — Thomas Henry Huxley
+
+---
+
+## **Sources & Notes:**
+- Being Logical: A Guide to Good Thinking by Dennis Q. McInerny
+- Seeking Wisdom, From Darwin To Munger by Peter Bevelin
+- Richard Feynman lectures
+- [Essay](https://www.edwardtufte.com/tufte/hill) by Edward Tufte
+- [Essay](http://paulgraham.com/hamming.html) by Paul Graham
+- [Series of essays](https://peterattiamd.com/ns001/) by Peter Attia
+- [How to research at the MIT Lab](http://dspace.mit.edu/bitstream/handle/1721.1/41487/AI_WP_316.pdf?sequence=4&isAllowed=y)
+- Aristotle work on logic
