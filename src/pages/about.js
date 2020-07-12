@@ -48,10 +48,10 @@ const Content = styled.div`
   margin: 0 auto;
 `
 
-const Horizontal = styled.hr`
-  border: 1px solid #0049fb;
-  background-color: #0049fb;
-`
+// const Horizontal = styled.hr`
+//   border: 1px solid #0049fb;
+//   background-color: #0049fb;
+// `
 
 const IndexPage = ({ data }) => {
   return (
