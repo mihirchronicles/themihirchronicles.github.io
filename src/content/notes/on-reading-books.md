@@ -5,18 +5,18 @@ date: "2020-07-07"
 draft: false
 path: "/notes/on-reading-books"
 ---
-I disliked reading growing up, but I loved books. How can loving books, but disliking reading be possible in the same sentence? My parents bought me illustration books which I loved as a kid (and still do). I read those books from cover to cover. But anything that had to do with reading for schoolwork, I started running away from it.
+I disliked reading growing up, but I loved books. How can loving books, but disliking reading be possible in the same sentence? My parents bought me illustration books which I loved as a kid, and still do. I read those books from cover to cover. But anything that had to do with reading for schoolwork, I started running away from it.
 
 This pattern remained true in college. But all of this changed after I was done with formal education. I started showing up at local book stores and picked up hard copies. I would devour those books in weeks and days. And, do it all over again! 
 
-My love for reading began once I stopped reading for school. Schools and exams turn learning into competition. True learning starts when you stop competing with others. Self education will always be more statisfiying than formal education because you are now free from the mindset of a follower.
+My love for reading began once I stopped reading for school. Schools and exams made learning into competition. True learning started for me when I stopped competing with others. Self-education will always be more statisfiying than formal education because it lets us free from the mindset of a follower.
 
 Reading has now become meditative. In my down time, I started reading because it didn't feel like work to me. Reading became an obsession. Reading has helped me reconcile all of my emotions because getting lost in words, stories and wisdom of others is a thrill. Obsessively reading makes reading frictionless because curiosity is constantly pulling me and I don't know how to put the brakes on.
 
 ## Reading is a process which has no goals
-Learning is more effective when you are emotionally connected. Consuming information is not the same as learning information. To understand what you are reading requires Galieleo like patience. Read. Pause. Ponder on what you just read. Revisit. Write book summaries. Share those summaries with others. And if that doesn't work, write a review on Amazon or Goodreads, or post about it on Reddit or anywhere else where people are likely to be interested.
+Learning is more effective when we are emotionally connected. Consuming information is not the same as learning information. To understand what we are reading requires Galieleo like patience. Read. Pause. Ponder on what we just read. Revisit. Write book summaries. Share those summaries with others. And if that doesn't work, write a review on Amazon or Goodreads, or post about it on Reddit or anywhere else where people are likely to be interested.
 
-When I first started reading, I wanted to read x amount of books per year. An underlying desire was to impress others. I quickly learned how flawed that thinking was because I wasn't learning anything. Now, I read without any objective goals and ensure I am processing what I am reading.
+When I first started reading, I wanted to read _x_ amount of books per year. An underlying desire was to impress others. I quickly learned how flawed that thinking was because I wasn't learning anything. Now, I read without any objective goals and ensure I am processing what I am reading.
 
 If I don't enjoy reading something or if I am reading aimlessly to consume information, I will put that book aside and move on to something else.
 
@@ -28,9 +28,9 @@ An active reader doesn't pasively read, but uses the arguments made by an author
 ## Reading is an equalizer
 In my opinion, systematic education is not an equalizer. This is because it made me run away. However, reading is. Reading equalizes every mind by fixing every hole in every person's broken sky.
 
-Reading is a journey to find great books. You start with not so great books and then slowly start climbing the intellectual ladder. I started out with mostly self-help or academically acclaimed books which over time I started noticing all the advice shared in those books are the same...told differently. Then, I moved on to physics, biology, business, engineering, etc. 
+Reading is a journey to find great books. We start with not so great books and then slowly start climbing the intellectual ladder. I started out with mostly self-help or academically acclaimed books which over time I started noticing all the advice shared in those books are the same...told differently. Then, I moved on to physics, biology, business, engineering, etc. 
 
-I didn't care for these disciplines in school, but now I do. In school you are supposed to finish something you are disengaged in, while reading freely, you can move on to something else if you are no longer interested. You think you are supposed to finish a book. Schools ingrain this type of idiology.
+I didn't care for these disciplines in school, but now I do. In school we are supposed to finish something we are disengaged in, while reading freely, we can move on to something else if we are no longer interested. We think we are supposed to finish a book. Schools ingrain this type of idiology.
 
 Society values higher education from prestige universities, but it costs $1 in late fees at a local library than accumulating thousdands in tuition debt. Reading is inexpensive so go to your local library and check out some books.
 
