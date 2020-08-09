@@ -9,7 +9,6 @@ const Container = styled.div`
 	text-align: left;
 	height: 60%;
 	width: 95%;
-  font-size: 14px;
   overflow-x:hidden;
   overflow-y:auto;
   position: absolute;
@@ -50,14 +49,13 @@ const Button = styled.button`
   -webkit-border-radius: 25;
   -moz-border-radius: 25;
   border-radius: 25px;
-  font-family: Futura;
-  font-size: 12px;
   padding: 10px 10px 10px 10px;
   border: solid #0049fb 2px;
   text-decoration: none;
   position: absolute;
   margin-top: 10px;
   font-weight: bolder;
+  font-size: 12px;
 
   :hover {
     cursor: pointer;

@@ -19,8 +19,8 @@ html, body {
   background-color: #ffffff;
 }
 body {
-  font-size: 14px;
-  font-family: 'futura', monospace;
+  font-size: 16px;
+  font-family: monospace;
 }
 article,
 aside,
@@ -57,6 +57,7 @@ a {
   color: #0049fb;
   text-decoration: none;
   -webkit-text-decoration-skip: objects;
+  font-weight: 900;
 }
 a:active,
 a:hover {
@@ -106,7 +107,7 @@ code,
 kbd,
 pre,
 samp {
-  font-family: helvetica, monospace;
+  font-family: monospace, helvetica;
   font-size: 1em;
 }
 figure {
@@ -437,7 +438,6 @@ fieldset {
 }
 blockquote {
   background-color: #e7e7e7;
-  font-weight: 600;
   font-family: monospace;
   border-left: 3px solid #0049fb;
   margin: 1.5em 10px 1.5em 0px;

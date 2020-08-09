@@ -31,11 +31,9 @@ const NavLink = styled(Link)`
   margin-top: 5px;
   display: inline-block;
   position: relative;
-  font-family: "Source Code Pro", monospace;
   color: #0049fb;
   border-bottom: 3px solid #ffffff;
-  font-weight: 800;
-  
+  font-weight: 900;
   :hover {
     border-bottom: 3px solid #0049fb;
   }
