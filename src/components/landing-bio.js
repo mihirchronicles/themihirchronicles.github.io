@@ -55,7 +55,6 @@ const Button = styled.button`
   position: absolute;
   margin-top: 10px;
   font-weight: bolder;
-  font-size: 12px;
 
   :hover {
     cursor: pointer;
@@ -93,7 +92,7 @@ const LandingBio = () => (
             <Description>Me here, here!</Description>
             <Description>Building design system at <a href="http://www.morningstar.com/">Morningstar</a> and helping learn independent thinking at <a href="https://wisecharlie.com/">Wise Charlie</a>. Fond of product, investing, art, hiking & telescopes. Process itself is the goal <FontAwesomeIcon icon="cogs"/>.</Description>
             <Description><strong>Scientia Potentia Est</strong></Description>
-            <ButtonLink href="/about"><Button type="text">Learn more</Button></ButtonLink> 
+            <ButtonLink href="/notes"><Button type="text">Notes</Button></ButtonLink> 
         </Container>
       </OuterContainer>
     )}

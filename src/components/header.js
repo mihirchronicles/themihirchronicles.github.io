@@ -17,7 +17,6 @@ const Content = styled.div`
 	height: 10%;
   width: 96%;
   padding-top: 25px;
-  font-size: 12px;
 
   @media screen and (max-width: 600px) {
     {
@@ -34,6 +33,7 @@ const NavLink = styled(Link)`
   color: #0049fb;
   border-bottom: 3px solid #ffffff;
   font-weight: 900;
+  font-size: 13px;
   :hover {
     border-bottom: 3px solid #0049fb;
   }

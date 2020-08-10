@@ -4,11 +4,17 @@ path: "/explore/articles"
 ---
 
 ##### 2020
+- [Researchers and Founders](https://blog.samaltman.com/researchers-and-founders): This post led me to other great articles on conducting not good, but _great_ research. Hamming question is really worth exploring— “what are the most important problems in your field, and why aren’t you working on them?”
+    1. [An Opinionated Guide to ML Research](http://joschu.net/blog/opinionated-guide-ml-research.html)
+    2. [You and Your Research by Dr. Richard W. Hamming](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
+    3. [Principles of Effective Research](http://michaelnielsen.org/blog/principles-of-effective-research/) 
 - [The Mundanity of Excellence](https://fermatslibrary.com/s/the-mundanity-of-excellence-an-ethnographic-report-on-stratification-and-olympic-swimmers): It was written over 20 years ago in which Chambliss defines excellence as “consistent superiority of performance.” Excellence does not mean do more of the same drills and sets, he or she also does things better. That's what counts. Very small differences, consistently practiced, will produce results. 
 - [Inventing on Principle](https://www.youtube.com/watch?v=PUv66718DII): This is so good by Bret Victor. “I'm going to talk about following a principle — finding a principle for your work, something you believe is important and necessary and right, and using that to guide what you do.”
 - [Ingredients of a Genius](http://paulgraham.com/genius.html): Everyone knows that to do great work you need both natural ability and determination. But there's a third ingredient that's not as well understood: an obsessive interest in a particular topic.
 
 ##### 2019
+- [What You'll Wish You'd Known](http://www.paulgraham.com/hs.html) Paul Graham's speech that could've been given to high school students but he never got an opportunity because the school authorities vetoed the invitation. Wish I read this speech in high school.
+- [The Knowledge Project featuring Naval Ravikant](https://fs.blog/wp-content/uploads/2017/02/Naval-Ravikant-TKP.pdf): Naval is an incredibly deep thinker who challenges the status quo on so many things.
 - [How to be an artist](https://www.vulture.com/2018/11/jerry-saltz-how-to-be-an-artist.html): Jerry Saltz is a Pulitzer prize winner for art criticism. Here he shares his thoughts on creativity and how to be an artist.
 - [Productivity](http://blog.samaltman.com/productivity): Sam Altman shares his thoughts on optimizing productivity. What hit home for me was just like how money compounds, making incremental productivity hacks can also compound. Sleep was a big one! I no longer preach "sleep when I die" attitude. It is actually completely opposite today. If I don't get enough sleep, my body really feels the pain.
 - [Geeks, mops and sociopaths](https://meaningness.com/geeks-mops-sociopaths): this one was fascinating about how things take off and the role geeks, mops and sociopaths play a role. This can be applied to so many things, especially the digital coin trend.
