@@ -5,19 +5,21 @@ date: "2020-07-12"
 draft: false
 path: "/notes/on-selective-skepticism"
 ---
-There is skepticism as a permanent attitude and there is selective skepticism. A distinciton has to be made. The latter is necessary in sound reasoning and discovery of truth, but permanently using it can damage our perception of the real-world.
+There is skepticism as a permanent attitude and there is selective skepticism. A distinction between both is necessary. Selective skepticism is necessary  in sound reasoning and discovery of truth. But being  permanent skeptics can damage our perception of the real-world.
 
-We shouldn't respond everything with doubt. However, there are situations where we should employ selective skepticism. Selective skepticism is a useful tool when investigating the truth. It is used to find sufficient information to validate a hypothesis or an argument. We should be reluctant to accept any conclusions at face value especially when a premise is questionable or a premise being made by a questionable individual. This kind of healthy speticism is necessary.
+We shouldn't respond everything with doubt. There are situations where we should use selective skepticism. Selective skepticism is a useful tool when investigating the truth. It is useful to find enough information to validate a hypothesis or an argument. We should be reluctant to accept any conclusions at face value. Especially when a premise is questionable. Or a premise is being made by a questionable individual. This kind of healthy skepticism is necessary.
 
-But skepticism as a permanent attitude can impair our perception of the real-world. Someone with this type of view will invalidate any sound reasoning or the reasoning process. The extreme skeptic will claim there is no standard for sound reasoning which will automatically reject any truth. The whole purpose of logic is essentially to discover the truth and not bothering with searching the truth can be deadly.
+But skepticism as a permanent attitude can impair our perception of the real-world. Someone with this view will refuse to accept any sound reasoning. Or fail to understand the reasoning process. The extreme skeptic will claim there is no standard for sound reasoning so he or she will reject any truth. The whole purpose of logic is to discover the truth. It can be deadly if an individual does not bother to search for truth.
 
-So, what should we do? Besides, being a selective skeptic, we can strive to be an optimist. But be aware of naive optimism. A naive optimist is someone who makes positive estimates without sufficient evidence. This represents an illogical position because a naive optimist acts out of prejudice. Their mind is already made up about a particular matter before it has been fully encountered and seriously engaged with. Being a naive optimist clouds our observation if we ignore reality. 
+So, what should we do? Besides, being a selective skeptic, we can strive to be an optimist. But be aware of naive optimism. A naive optimist is someone who makes positive estimates without sufficient evidence. This represents an illogical position because a naive optimist acts out of prejudice. Their mind is already made up about a particular matter before they have engaged in other alternatives. Being a naive optimist clouds our observation if we ignore reality.
 
-Embrace reality and seek to improve it. This can be done by keeping our minds open to a variety of possibilities. A narrow-minded person will refuse to consider alternatives because they do not meet prejudiced assumptions. An open-minded person will seek all possible alternatives and relevant information.
+Embrace reality and seek to improve it. We can fix problems by keeping our minds open to various possibilities. A narrow-minded person will not consider alternatives because they do not meet their assumptions. An open-minded person will seek all possible alternatives and relevant information.
 
-Being a permanent skeptic, naive optimist, or narrow-minded will cloud our observations. So what shall we do? Do what scientists do: _strive for objectivity_. Scientists try to describe the world as it is, not as they want it to be. Selective skeptics will seek to answer _whys_ and _hows_ questions by using method of scientific integrity.
+Being a permanent skeptic, naive optimist, or narrow-minded will cloud our observations. So what must we do? Do what scientists do: _strive for objectivity_. Scientists try to describe the world as it is, not as they want it to be. Selective skeptics will seek to answer _whys_ and hows questions by using method of scientific integrity.
 
-A sound reasoning can eliminate all prejudices by deploying selective skepticism in necessary situations. 
+A sound reasoning can eliminate all prejudices by deploying selective skepticism in necessary situations.
+
+Selective skepticism and sound reasoning can eliminate all prejudices in necessary situations.
 
 > There are in fact two things: science and opinion; the former begets knowledge, the latter ignorance. — Hippocrates
 

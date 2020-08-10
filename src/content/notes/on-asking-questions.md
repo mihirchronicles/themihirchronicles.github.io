@@ -25,7 +25,7 @@ Below are 100 major mental models that will help you ask the right questions! Th
 ## Engineering
 - **Breakpoint**: A small pause, or break, in complex engineering systems, to allow for safety or debugging. These breaks allow you to look at the system and reflect on performance, making sure that there are no noticeable errors. Breakpoints can be a useful addition to your thinking in a variety of subjects.
 - **Back-up Systems/Redundancy**: The adding of duplicated parts to systems to increase reliability and provide a failsafe, should part of the system go down. The duplicated part could be a backup of a critical component or it could be used to increase performance, such as multi-threading in computing.
-- **Feedback Loops**: Positive & Negative (aka Homeostatis)**: Part of a control system in which the outputs are fed back in as inputs. Take the heating in your home your furnace will push out heat, the thermometer will check the temperature and use this information to turn the furnace on and off. The system is a loop.
+- **Feedback Loops**: Positive & Negative (aka Homeostasis)**: Part of a control system in which the outputs are fed back in as inputs. Take the heating in your home your furnace will push out heat, the thermometer will check the temperature and use this information to turn the furnace on and off. The system is a loop.
 - **Margin of safety**: Describes the capacity of a system to carry loads beyond its actual capability. When designing such systems, the system should be able to support additional loads which are calculated using detailed analysis.
 
 ## Biology

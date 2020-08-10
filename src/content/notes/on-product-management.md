@@ -5,7 +5,7 @@ date: "2020-03-04"
 draft: false
 path: "/notes/on-product-management"
 ---
-Peter Thiel, in his book, Zero to One, outlines his belief that the biggest insights in life are ”hidden in plain sight” — concealed only by our preconceptions or tendency to accept realities as they are (complacency).
+Peter Thiel, in his book, Zero to One, outlines his belief that the biggest insights in life are “hidden in plain sight” — concealed only by our preconceptions or tendency to accept realities as they are (complacency).
 
 > Tell me something that’s true, that almost nobody agrees with you on. — Peter Thiel
 
@@ -21,7 +21,7 @@ The product manager's ultimate quest is to answer this question — **“what i
 
 Product management is an organizational function within a company dealing with new product development, business justification, planning, verification, forecasting, pricing, product launch, and marketing of a product or products at all stages of the product lifecycle. Product lifecycle management is the process of managing the entire lifecycle of a product from inception, through engineering, design, prototyping, manufacturing physical products, scaling software businesses, to service, maintenance and disposal of products.
 
-A set of process or processes drives product vision. Process defines the framework and discipline to accomplish the product vision. Every organization has a different process but the following should be addressed when defining a famework.
+A set of process or processes drives product vision. Process defines the framework and discipline to accomplish the product vision. Every organization has a different process but the following should be addressed when defining a framework.
 
 - Product Vision: what do you want the world around you to look like in 6 months? 1 year? 2 years? 5 years?
 - Outcome: what do you want to achieve to help realize this product vision?
@@ -85,14 +85,14 @@ Being resilient is a key to becoming a successful product manager because if you
 - translating business-to-technical requirements, and vice versa
 - pricing and revenue modeling
 - community (internal or/and external) engagement
-- guage prospects to adopt a new feature or a product
-- act as a liason with cross-functional business units
+- gauge prospects to adopt a new feature or a product
+- act as a liaison with cross-functional business units
 - document stories, epics, technical requirements, user workflows
 - defining and tracking success metrics
 
 **What are some of the tips to become a great product manager?**
 
-**Story-tellers**: the best PMs are able to weave tales that incorporate market needs, strategy, and tactics into a story that their stakeholders can get their heads around and hopefully adopt the story themselves. It can be challengeing when you see something clearly, but you can’t get others around you to see it. You work through other people, so it takes a lot of convincing. You have to be a great communicator and storyteller. You have to read your audience. You have to try harder to understand others and find an angle to explain that makes sense to them. People you work with are smart, they just need a great story to be convinced.
+**Story-tellers**: the best PMs are able to weave tales that incorporate market needs, strategy, and tactics into a story that their stakeholders can get their heads around and hopefully adopt the story themselves. It can be challenging when you see something clearly, but you can’t get others around you to see it. You work through other people, so it takes a lot of convincing. You have to be a great communicator and storyteller. You have to read your audience. You have to try harder to understand others and find an angle to explain that makes sense to them. People you work with are smart, they just need a great story to be convinced.
 
 **Learning by doing**: to master the art of product management requires several years of practice and doing. Ultimately, the best thing you can do to prepare for a career in product management is to build. Manage and “own” a project from inception through execution and operation. Create KPIs and measure your impact.
 
@@ -108,7 +108,7 @@ Being resilient is a key to becoming a successful product manager because if you
 
 **Relationship management**: probably one of the most important characteristics of a great PM is their relationship management skills. By forming authentic and trustworthy connections with both internal and external stakeholders, the best PMs inspire people and help them reach their full potential. Relationship management is also vital in successful negotiation, resolving conflicts, and working with others toward a shared goal, which is especially challenging when a PM is tasked with balancing the needs of customers, resource-constrained engineering teams, and the company’s revenue goals. Authentic and trusting relationships within an organization can lead to more support when additional funding is needed for a product or when an engineer must be swayed to include a quick bug fix in the next sprint. Outside an organization, these skills could encourage existing customers to beta test a new feature for early feedback or to convince a target customer to try the MVP of a product still in stealth mode.
 
-**Confirmation bias**: PMs must be self-aware of their own confirmation biasis to avoid projecting their own preferences onto users of their products. PMs should stay objective despite of features they love which addresses their own pain points. The lack of self-awareness in any sort of biases could derail more important priorities or damage the PM’s relationship with engineers, who may lose confidence in their PM when the feature isn’t readily adopted by users.
+**Confirmation bias**: PMs must be self-aware of their own confirmation biases to avoid projecting their own preferences onto users of their products. PMs should stay objective despite of features they love which addresses their own pain points. The lack of self-awareness in any sort of biases could derail more important priorities or damage the PM’s relationship with engineers, who may lose confidence in their PM when the feature isn’t readily adopted by users.
 
 **Self-management**: being a PM can be incredibly stressful. The CEO wants one thing, the engineering team another, and customers have their own opinions about feature priorities. Managing tight deadlines, revenue targets, market demands, prioritization conflicts, and resource constraints all at once is not for the faint of heart. If a PM cannot maintain their emotions and keep it cool under pressure, they can quickly lose the confidence of all their constituents. The best PMs know how to push hard on the right priorities, with urgency but without conveying a sense of panic or stress. These PMs also know when to take a breath and step away to regroup.
 
@@ -206,7 +206,7 @@ Every company has a different philosophy about the product development process a
     - delight customers with new features in beta period
     - continuously improve quality by fixing bugs
 
-This is a huge knowldge dump, but this is for personal use only. I built products before I knew anything about product management. I never heard of it when I was in school (a decade ago). When I joined Morningstar and got deep into tech ecosystem, I started hearing more about it. It is a contemporary general skillset. Products, and mostly digital products are everywhere so it is obvious why such importance on this topic. Lastly, [Jason Evanish's Twitter thread](https://jasonevanish.com/2020/01/12/100-lessons-and-spicy-takes-on-being-a-software-product-manager/) which I highly recommend. There is so much to unpack, but every single tweet uncovers a larger topic. It is a good overview on what a Product Manager does.
+This is a huge knowledge dump, but this is for personal use only. I built products before I knew anything about product management. I never heard of it when I was in school (a decade ago). When I joined Morningstar and got deep into tech ecosystem, I started hearing more about it. It is a contemporary general skillset. Products, and mostly digital products are everywhere so it is obvious why such importance on this topic. Lastly, [Jason Evanish's Twitter thread](https://jasonevanish.com/2020/01/12/100-lessons-and-spicy-takes-on-being-a-software-product-manager/) which I highly recommend. There is so much to unpack, but every single tweet uncovers a larger topic. It is a good overview on what a Product Manager does.
 
 > Knowledge without action, is like having no knowledge at all. - Ted Nicholas
 
@@ -217,4 +217,4 @@ This is a huge knowldge dump, but this is for personal use only. I built product
 - Wikipedia
 - [Know your customers job to be done](https://hbr.org/2016/09/know-your-customers-jobs-to-be-done)
 - [What it takes to become a great product manager](https://hbr.org/2017/12/what-it-takes-to-become-a-great-product-manager)
-- [On being a software product maanager](https://jasonevanish.com/2020/01/12/100-lessons-and-spicy-takes-on-being-a-software-product-manager/)
+- [On being a software product manager](https://jasonevanish.com/2020/01/12/100-lessons-and-spicy-takes-on-being-a-software-product-manager/)

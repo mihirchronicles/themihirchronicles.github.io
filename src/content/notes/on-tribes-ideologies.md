@@ -15,8 +15,8 @@ Being tribal causes intense ideologies. Intense ideologies cabbages up one’s m
 
 The solution to prevent intense ideologies is to get involved in more of tribal ideologies, not avoid them. Primarily, ego gets in the way because we think we know what is right and wrong. Staying neutral is what many choose but the world is not neutral. This is immensely powerful from an aspect of social learning. Tribes are schools of storytelling, connection, sense making, evolution, persuasion, human behavior and many other things. If any of these things are useful to you, you have to get involved. You can't learn these things from books or any other platform.
 
-Examples of tribes include scientology, crossfit, blockchain, church, religion, etc. The way to free yourself from the control of an entity is to keep reseraching from the source of truth. At the core of tribes are usally patterns to be found around.
+Examples of tribes include scientology, crossfit, blockchain, church, religion, etc. The way to free yourself from the control of an entity is to keep researching from the source of truth. At the core of tribes are usually patterns to be found around.
 
 There are two things that are distilled in our society to prevent us from getting involved — institutions and ego (confirmation bias). Institutions like school, work or religion prevent us from thinking broadly. Second, ego gets in the way because we are so married to our own ideologies. If you really want to learn, join these tribes and exit.
 
-Progressive enrichement of tribe membership should be everyone's goal. This allows us to think and learn incrementally.
+Progressive enrichment of tribe membership should be everyone's goal. This allows us to think and learn incrementally.

@@ -18,11 +18,11 @@ _High-Quality Work Produced **=** Time Spent **x** Intensity of Focus_
 
 State the objective and work backwards. Break down the problem into smaller set of problems. Supply X number of inputs for one set of smaller problem. Aptitude is different than knowledge. Knowledge can be taught but learning how to think (aptitude) can be time consuming. 
 
-## III. Dilberate practice
+## III. Deliberate practice
 
 - Step 1: always opt in for active (read physical books) form of learning as opposed to passive (listen to audible) form of learning
 - Step 2: combine focused mode such as pomodoro and chunking with diffused mode such as exercise, mental exercise and break in between
-    - focused mode requires intesne 45-50 minutes of learning with no distractions such as phone, internet or email. Break down your work into 45-50 minutes of chunks
+    - focused mode requires intense 45-50 minutes of learning with no distractions such as phone, internet or email. Break down your work into 45-50 minutes of chunks
     - diffused mode is taking a break after each chunking session. This helps with long-term memory (LTM)
 - Step 3: apply Feynman Technique which has four simple steps:
     - choose a concept and think very hard and review notes repetitively
@@ -56,11 +56,11 @@ We all experience chemical imbalances if we work too much or not exercise or not
 
 ## VI. Notes from Learning How To Learn (Coursera)
 
-- Tools: chunking, pomodoro, space repitition with Ankii, visual memory system – index cards, memory palace techniques, visual metaphors or analogy (ex: Syria like Cereal), exercise is far effective than any drug, test checklist, sleeping, breathing, optimism — turning a negative situation into positive helps you relieve stress, will power and focused instrumental music.
+- Tools: chunking, pomodoro, space repetition with Ankii, visual memory system – index cards, memory palace techniques, visual metaphors or analogy (ex: Syria like Cereal), exercise is far effective than any drug, test checklist, sleeping, breathing, optimism — turning a negative situation into positive helps you relieve stress, will power and focused instrumental music.
 - Focused mode & Diffused mode (breaks/exercise, sleeping washes away metabolic toxins). Use pomodora technique and chunking for focused, non-distracted learning.
-- Chunking helps you with practice and repitition. Learning little by little, small chunks can become larger and gradually will help you become a master of the material. When wanting to learn something new break it down to atomic steps to learn by chunking each step. Chunks are best built with focused, undivided attention, understanding of the basic idea.
-- Space-repitition technique to move from working memory to long-term memory storage warehouse.
-- Teach others in leyman's words. Learning with others is a form of active learning.
+- Chunking helps you with practice and repetition. Learning little by little, small chunks can become larger and gradually will help you become a master of the material. When wanting to learn something new break it down to atomic steps to learn by chunking each step. Chunks are best built with focused, undivided attention, understanding of the basic idea.
+- Space-repetition technique to move from working memory to long-term memory storage warehouse.
+- Teach others in layman's words. Learning with others is a form of active learning.
 - Law of Serendipity, Deliberate Practice: lady luck favors the one who deliberately practices. Focusing on more difficult tasks as opposed to easy tasks. Work deliberately hard!
 - Eistellung is an enemy of creativity. Einstellung is when your initial thought, an idea you've already had in mind, or a neural pattern you've already developed well and strengthened, prevents a better idea or solution from being found. Or keeps you from being flexible enough to accept new, better, or more appropriate solutions. You have to unlearn your erroneous older ideas or approaches even while you're learning new ones. Number 7 helps you build intuition but be wary of making you from being creative. Einstellung, the idea you are already holding in mind can block you from fresh thoughts.
 - Use multi-disciplinary approach. Interleaving is a process where one mix, or interleave, multiple subjects or topics while they study. Transfer of knowledge or learning refers to learning in one context and applying it to another. Procedural learning by doing many different types of problems you’ll find that you understand both why and how, it will help build your intuition. Fresh ideas will help you with independent thinking.

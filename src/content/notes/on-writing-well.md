@@ -64,7 +64,7 @@ This guide is to communicate your thoughts more clearly. Clear sentences depend 
 
 1. Logical perspective is an expository prose based on factual language. It is the product of your thinking. This requires critical thinking, collecting facts and reason from first principles. Logical perspective demands two questions:
     - What exactly are you talking about?
-    - What exacly are you saying about it?
+    - What exactly are you saying about it?
 2. Rhetoric style depends on what words you use and how you design your sentences. Designing your sentence depends upon logic.
 3. Grammar is the foundation upon which both logic and rhetoric rest. This one is notorious because you can confuse rules with regulations. The writer, like craftsman, works with the rules, and violates them when he or she must insightfully.
     - A regulation is an order for which you can see no real reason.
@@ -94,7 +94,7 @@ Lastly, exposing writing to others will question your intent and thought process
 ## IV. How to make writing less taxing?
 Writing takes cognitive load which introduces writer's block. But it can be less taxing if you go after the incremental wins.
 
-- Use radically simple sentences and do not worry about grammatical syntax. The goal is to pen down whatever comes to your mind. Write basic ideas about the topic you already know. It is okay to sound elmentary. For example, let's explore capitalism.
+- Use radically simple sentences and do not worry about grammatical syntax. The goal is to pen down whatever comes to your mind. Write basic ideas about the topic you already know. It is okay to sound elementary. For example, let's explore capitalism.
    - *Capitalism is a free market. Capitalism is an economic system. America is built on capitalism.*
 - Pretend you are writing a letter to someone either asking questions or explaining what you know. You should choose a person who you admire the most and pretend you are having a conversation with that person. This will bring forth your natural flow and tone. Writing this way will raise several questions which will make it easy to gather information when you start researching more. For example:
     - *Dear Buffett & Munger, I want to explore what capitalism is and the implications of the economic system on our modern society. I understand capitalism is not perfect but is it the only system that works the best out of all the options available? If that is true, then how is China prospering built on socialist economic system?* 
