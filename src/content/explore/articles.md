@@ -4,6 +4,7 @@ path: "/explore/articles"
 ---
 
 ##### 2020
+- [Statement by Jeff Bezos to the U.S. House Committee on the Judiciary](https://blog.aboutamazon.com/policy/statement-by-jeff-bezos-to-the-u-s-house-committee-on-the-judiciary): This memo was recommended to me by a family member. Bezos seemingly is popular in unpopular times for his wealth, policies and corporation drama. However, there is so much American entreprenurial spirit. America is indeed a nation which does not stigmaitize risk-taking. If you can dream it you can do it. A must read!
 - [Researchers and Founders](https://blog.samaltman.com/researchers-and-founders): This post led me to other great articles on conducting not good, but _great_ research. Hamming question is really worth exploring— “what are the most important problems in your field, and why aren’t you working on them?”
     1. [An Opinionated Guide to ML Research](http://joschu.net/blog/opinionated-guide-ml-research.html)
     2. [You and Your Research by Dr. Richard W. Hamming](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
