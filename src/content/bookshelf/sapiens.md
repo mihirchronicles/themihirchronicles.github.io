@@ -1,5 +1,5 @@
 ---
-title: Sapiens — A Brief History of Humankind by Yuval Noah Harari
+title: Sapiens, A Brief History of Humankind by Yuval Noah Harari
 date: "2018-09-23"
 path: "/bookshelf/sapiens"
 ---
