@@ -1,14 +1,16 @@
 ---
 title: Get Together by Bailey Richardson, Kevin Huynh, Kai Elmer Sotto
-date: "2020-02-01"
-path: "/bookshelf/get-together"
+date: 2020-02-01
+path: /bookshelf/get-together
 ---
 
 ## I. Brief Summary
 
-* The premise of the book is how to cultivate a community. Just like how you water plants, you have to "water" communities to keep it alive. It is crucial to remember you are working with living, breathing human beings. The goal is to ask _less_ from the communtiy and do more _with_ them. The secret to getting people together is building your community _with_ people, not _for_ them. Building a community means incorporating more listening, invite more participation and developing leaders. Amateurs try to manage a community, but great leaders create more leaders. Distributing ownership is an ultimate piece of building, growing and maintaining a community. The book shares some amazing stories on how people inspired and built communities, which are not shared in my notes.
+* The premise of the book is how to cultivate a community. Just like how you water plants, you have to water communities to keep it alive. It is crucial to remember you are working with living, breathing human beings. The goal is to ask _less_ from the communtiy and do more _with_ them. The secret to getting people together is building your community _with_ people, not _for_ them. Building a community means incorporating more listening, invite more participation and developing leaders. Amateurs try to manage a community, but great leaders create more leaders. Distributing ownership is an ultimate piece of building, growing and maintaining a community. The book shares some amazing stories on how people inspired and built communities, which are not shared in my notes.
 
 ## II. Big Ideas
+
+The author writes and share their ideas on how to kick the tires on building a robust community.
 
 ### Spark the flame:
 - To spark a fire, you need to gather kindling. Likewise, to start your community, you need to get your people together. Although communities, feel magical , they won't come together by magic. If you want to spark your community, you'll need to first pinpoint your people. Answering _who_ and _why_ are crucial in setting the tone and direction of the community. The original leader should start with a clear _who_, then craft a _why_ with that _who_ in mind. This will determine the shared purpose. It could be running, basketball or an online gaming community. Purpose can mean many things to different people. Shared purpose could be creating value or it could be making an impact or making a change. In early days, communities feel homogenous. So, how do you diversify? It is by bridging and bonding. Commmunities _bond_ and _bridge_ across different dimensions. It is not “either-or” categories. Bridging can be across gender, age or geogrpahy but can also bond through ideology.
@@ -26,14 +28,14 @@ path: "/bookshelf/get-together"
 - Celebrations mobilize around where to head next, give the tanks a much-needed refill, and reflect on what the community has accomplished. Honoring changer-makers, action-takers and memebers will revitalize the group and supercharge your fans. 
 
 ## III. Quotes
-- "Fires can't be made with dead embers, nor can enthusiasm be stirred by spiritless men."  —Balwin
-- "If you want to show that your community is alive and vibrant, you'll need to maintain a steady pulse."
-- "Pride is a captivating energy."
-- "Authentic, shared ownership of the group's identity only fuels a community's fire."
-- "A community is a living organism. It's either declining or improving; there's no steady-state in a community." —Jennifer Sampson
-- "Attention is the rarest and purest form of generosity." —Simone Weil
-- "Catalyst are as rare as they are potent."
-- "New leaders breathe life into a community. Embrace process to figure out how to give them the support that they need, every step of the way."
-- "Celebrations are festive moments that revitalize a group."
-- "The dream of a peaceful society to me is still the dream of the potluck supper. The soceity in which all can contribute, and all can find friendship." —Ursula Frankin
+- Fires can't be made with dead embers, nor can enthusiasm be stirred by spiritless men.  —Balwin
+- If you want to show that your community is alive and vibrant, you'll need to maintain a steady pulse.
+- Pride is a captivating energy.
+- Authentic, shared ownership of the group's identity only fuels a community's fire.
+- A community is a living organism. It's either declining or improving; there's no steady-state in a community. —Jennifer Sampson
+- Attention is the rarest and purest form of generosity. —Simone Weil
+- Catalyst are as rare as they are potent.
+- New leaders breathe life into a community. Embrace process to figure out how to give them the support that they need, every step of the way.
+- Celebrations are festive moments that revitalize a group.
+- The dream of a peaceful society to me is still the dream of the potluck supper. The soceity in which all can contribute, and all can find friendship. —Ursula Frankin
 

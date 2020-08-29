@@ -1,7 +1,7 @@
 ---
 title: Creativity Selection by Ken Kocienda
-date: "2020-04-03"
-path: "/bookshelf/creativity-selection"
+date: 2020-04-03
+path: /bookshelf/creativity-selection
 ---
 
 ## I. Brief Summary
@@ -34,7 +34,7 @@ path: "/bookshelf/creativity-selection"
 - Algorithms and heuristics must coordinate to make a great high-tech product. Fast page loads on Safari or correct insertion point on a small iPhone keyboard are equally important. Finding balance was a key unlike Google trying to find an optimal blue color by running A/B tests on 41 shades of blue. Picking a shade of blue and moving on to value creation feature would've served them well.
 - Algorithms produce quantifiable results, where progress is defined by measurements moving in predetermined direction. The best shade of blue is the one that people clicked most often in a A/B test is an algorithm. Algorithms are objective.
 - Heuristics have a measurement of value associated with each feature. Unlike evaluating algorithms, heuristics are harder to nail down. Heuristics is question based approach. Lots of questions asked to get to a final decision. It takes effort, judgement and time to find what these things are. Apple employees put their faith in their sense of taste when picking motion and colors. Heuristics are subjective.
-- Working at an intersection of algorithms and heuristics was such an example why there were so many demos made. It was often difficult to decide where an algorithm should end and a heuristic should take over. Hence, "deciders" helped bring clarity by making incremental decisions.
+- Working at an intersection of algorithms and heuristics was such an example why there were so many demos made. It was often difficult to decide where an algorithm should end and a heuristic should take over. Hence, deciders helped bring clarity by making incremental decisions.
 - Apple's product development goal was to orchestrate a progression of algorithms and heuristics to create great products that would put smiles on people's faces and would function well without fuss. It was a slow road.
 - Why do products like the iPhone turn out so well? The first part is the demo-making creative selection process. The second part is the 7 essential elements to building a great software. The third part is combination of people and commitment. 
 - The get-it-done mentality was a core piece of Apple's product development culture. It was highly dependent on execution and quality of execution.
@@ -43,16 +43,16 @@ path: "/bookshelf/creativity-selection"
 
 ## III. Quotes
 
-- "...I think Edison's large-scale success was built on foundation of tending to small details."
-- "'...What it boils down to is one percent inspiration and ninety-nine percent perspiration.'"
-- "I agree with Edison. Ideas are nothing without the hard work to make them real."
-- "Hard work is hard. Inspiration does not pay off without deligence."
-- "...premature optimization is the root of all evil." — Donald Knuth
-- "People matter more than programming."
-- "Empathy is a crucial part of making great products."
-- "Taste is developing a refined sense of judgement and finding the balance that produces a pleasing and integrated whole."
-- "Persist too long in making choices without justifying them, and an entire creative effort might wander aimlessly. The results might be the sum of wishy-washy half decisions."
-- "Design is how it works."
-- "Form should follow function."
-- "Objects should explain themselves."
-- "We used the word "heuristics" to describe aspects of software development that tip towards the liberal arts. Its counterpart, "algorithms" was its alter ego on the technical side. Heuristics and algorithms are like two sides of the same coin. Both are specific procedures for making software do what it does: taking input, applying an operation, and producing output. Yet each had a different purpose."
+- ...I think Edison's large-scale success was built on foundation of tending to small details.
+- '...What it boils down to is one percent inspiration and ninety-nine percent perspiration.'
+- I agree with Edison. Ideas are nothing without the hard work to make them real.
+- Hard work is hard. Inspiration does not pay off without deligence.
+- ...premature optimization is the root of all evil. — Donald Knuth
+- People matter more than programming.
+- Empathy is a crucial part of making great products.
+- Taste is developing a refined sense of judgement and finding the balance that produces a pleasing and integrated whole.
+- Persist too long in making choices without justifying them, and an entire creative effort might wander aimlessly. The results might be the sum of wishy-washy half decisions.
+- Design is how it works.
+- Form should follow function.
+- Objects should explain themselves.
+- We used the word heuristics to describe aspects of software development that tip towards the liberal arts. Its counterpart, algorithms was its alter ego on the technical side. Heuristics and algorithms are like two sides of the same coin. Both are specific procedures for making software do what it does: taking input, applying an operation, and producing output. Yet each had a different purpose.

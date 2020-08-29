@@ -10,6 +10,8 @@ path: "/bookshelf/how-to-win-friends-and-influence-people"
 
 ## II. Big Ideas
 
+Dale Carnegie's writes and shares his big ideas broken down into 4 sections with each section consisting of several principles.
+
 ### Part I: Fundamental Techniques in handling people
 
 **Principle 1: Don't criticize, condemn or complain.**
