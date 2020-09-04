@@ -1,6 +1,6 @@
 ---
 title: Cracking the PM Interview by Gayle Laakmann McDowell and Jackie Bavaro
-date: "2020-09-02"
+date: "2020-07-02"
 path: "/bookshelf/cracking-the-pm-interview"
 ---
 
