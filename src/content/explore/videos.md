@@ -4,6 +4,7 @@ path: "/explore/videos"
 ---
 
 ##### 2020
+- [Neil Gaiman - Inspirational Commencement Speech at the University of the Arts 2012](https://www.youtube.com/watch?v=ikAb-NYkseI&list=FLrlPaGQuKQiYMqpFYyc-40A&index=4): Neil Gaiman talks about a distant mountain which we can all dream of. An excellent commencement speech on creative life and self-doubts. “... people who know what they're doing know the rules and they know what is possible and what is impossible. You do not and you should not. The rules on what is possible and impossible in the arts were made by people who had not tested the bounds of the possible by going beyond them and you can if you don't know it's impossible.”
 - [Master Shi Heng Yi – 5 hindrances to self-mastery](https://www.youtube.com/watch?v=4-079YIasck): Mastering yourself is a true power and this talk provides on how to overcome 5 hindrances to gain clarity. “I am not the body, I am not the mind and I am not my emotion" -such a powerful thought.” “All our lifetimes are too unique to copy the path of someone else.”
 - [Admiral McRaven addresses the University of Texas at Austin Class of 2014](https://www.youtube.com/watch?v=yaQZFhrW0fU&list=FLrlPaGQuKQiYMqpFYyc-40A&index=30): One of the best commencement speeches!
 - [Do schools kill creativity? | Sir Ken Robinson](https://www.youtube.com/watch?v=iG9CE55wbtY&list=FLrlPaGQuKQiYMqpFYyc-40A&index=42): Sir Robinson on relationship between creativity and schools.
