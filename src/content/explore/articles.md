@@ -4,6 +4,7 @@ path: "/explore/articles"
 ---
 
 ##### 2020
+- [The Lifecycle of Greed and Fear](https://www.collaborativefund.com/blog/the-lifecycle-of-greed-and-fear/): Morgan Housel does a wonderful job explaining the lifecycle of greed and fear. “All greed starts with an innocent idea: that you are right, deserve to be right, or are owed something for your efforts. It’s a reasonable feeling.”
 - [Statement by Jeff Bezos to the U.S. House Committee on the Judiciary](https://blog.aboutamazon.com/policy/statement-by-jeff-bezos-to-the-u-s-house-committee-on-the-judiciary): This memo was recommended to me by a family member. Bezos seemingly is popular in unpopular times for his wealth, policies and corporation drama. However, there is so much American entreprenurial spirit. America is indeed a nation which does not stigmaitize risk-taking. If you can dream it you can do it. A must read!
 - [Researchers and Founders](https://blog.samaltman.com/researchers-and-founders): This post led me to other great articles on conducting not good, but _great_ research. Hamming question is really worth exploring— “what are the most important problems in your field, and why aren’t you working on them?”
     1. [An Opinionated Guide to ML Research](http://joschu.net/blog/opinionated-guide-ml-research.html)
