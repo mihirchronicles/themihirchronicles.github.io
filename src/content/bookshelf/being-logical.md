@@ -6,7 +6,7 @@ path: "/bookshelf/being-logical"
 
 ## I. Brief Summary
 
-* This book was recommended by Robert Ultimo, professor at Feltre School. Being Logical: A Guide to Good Thinking by Dennis Q. McIner aims to help readers think and reason well. I wanted to understand the flip side of logical thinking. What makes someone illogical? I found the middle to later part of the book loaded with valuable lessons. The first section of the book felt redundant to me, but nonetheless, an important literature.
+This book was recommended by Robert Ultimo, professor at Feltre School. Being Logical: A Guide to Good Thinking by Dennis Q. McIner aims to help readers think and reason well. I wanted to understand the flip side of logical thinking. What makes someone illogical? I found the middle to later part of the book loaded with valuable lessons. The first section of the book felt redundant to me, but nonetheless, an important literature.
 
 ## II. Big Ideas
 

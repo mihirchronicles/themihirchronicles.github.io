@@ -6,7 +6,7 @@ path: /bookshelf/get-together
 
 ## I. Brief Summary
 
-* The premise of the book is how to cultivate a community. Just like how you water plants, you have to water communities to keep it alive. It is crucial to remember you are working with living, breathing human beings. The goal is to ask _less_ from the communtiy and do more _with_ them. The secret to getting people together is building your community _with_ people, not _for_ them. Building a community means incorporating more listening, invite more participation and developing leaders. Amateurs try to manage a community, but great leaders create more leaders. Distributing ownership is an ultimate piece of building, growing and maintaining a community. The book shares some amazing stories on how people inspired and built communities, which are not shared in my notes.
+The premise of the book is how to cultivate a community. Just like how you water plants, you have to water communities to keep it alive. It is crucial to remember you are working with living, breathing human beings. The goal is to ask _less_ from the communtiy and do more _with_ them. The secret to getting people together is building your community _with_ people, not _for_ them. Building a community means incorporating more listening, invite more participation and developing leaders. Amateurs try to manage a community, but great leaders create more leaders. Distributing ownership is an ultimate piece of building, growing and maintaining a community. The book shares some amazing stories on how people inspired and built communities, which are not shared in my notes.
 
 ## II. Big Ideas
 

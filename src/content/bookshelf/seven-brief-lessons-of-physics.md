@@ -6,7 +6,7 @@ path: /bookshelf/seven-brief-lessons-of-physics
 
 ## I. Brief Summary
 
-* The seven lessons are about Einstein’s general theory of relativity, quantum mechanics, the architecture of the cosmos, elementary particles, quantum gravity, probability and the heat of black holes and, finally, how humans fit into this picture. We are stardust, the author reminds us, impossibly minor players in the pageant of the galaxies, and well on our way to becoming the agents of our own demise. The fearful aspects of Seven Brief Lessons on Physics arrive in its final chapter. The author is withering about humanity’s unwillingness to confront global warming.
+The seven lessons are about Einstein’s general theory of relativity, quantum mechanics, the architecture of the cosmos, elementary particles, quantum gravity, probability and the heat of black holes and, finally, how humans fit into this picture. We are stardust, the author reminds us, impossibly minor players in the pageant of the galaxies, and well on our way to becoming the agents of our own demise. The fearful aspects of Seven Brief Lessons on Physics arrive in its final chapter. The author is withering about humanity’s unwillingness to confront global warming.
 
 ## II. Big Ideas
 

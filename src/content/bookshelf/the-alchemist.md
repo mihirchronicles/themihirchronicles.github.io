@@ -6,7 +6,7 @@ path: "/bookshelf/the-alchemist"
 
 ## I. Brief Summary
 
-* Pablo Coelho shares the story of a shepherd boy from the Spanish province of Andalusia who dreams of traveling the world in search of a treasure as desirable as any ever found. From his home he journeys to the exotic markets of North Africa and then into the Egyptian desert, where a fateful encounter with the alchemist awaits him. It is an incredible story about the essential wisdom of listening to your heart and, abover all, following your dreams. A beautiful book with a powerful and simple message but often difficult to follow.
+Pablo Coelho shares the story of a shepherd boy from the Spanish province of Andalusia who dreams of traveling the world in search of a treasure as desirable as any ever found. From his home he journeys to the exotic markets of North Africa and then into the Egyptian desert, where a fateful encounter with the alchemist awaits him. It is an incredible story about the essential wisdom of listening to your heart and, abover all, following your dreams. A beautiful book with a powerful and simple message but often difficult to follow.
 
 ## II. Big Ideas
 

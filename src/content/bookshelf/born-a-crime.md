@@ -6,7 +6,7 @@ path: "/bookshelf/born-a-crime"
 
 ## I. Brief Summary
 
-- Trevor Noah shares fascinating tales from his youth, specifically sharing his struggles as a young colored (white and black mix) kid. He shares hilarious stories on being parented by his mother who he dearly loved. While this is Trevor's story, but it very much a loving tribute to her mom. The book also offers humorous and thought provoking perspective on racism and poverty. A must-read autobiography which  is hilarious, heartbreaking and told through a sympathetic lens. Two lessons that I walked away from this book were, ”*I soon learned that the quickest way to bridge the race gap was through language.”* And, *”We tell people to follow their dreams, but you can only dream of what you can imagine, and, depending on where you come from, your imagination can be quite limited.“*
+Trevor Noah shares fascinating tales from his youth, specifically sharing his struggles as a young colored (white and black mix) kid. He shares hilarious stories on being parented by his mother who he dearly loved. While this is Trevor's story, but it very much a loving tribute to her mom. The book also offers humorous and thought provoking perspective on racism and poverty. A must-read autobiography which  is hilarious, heartbreaking and told through a sympathetic lens. Two lessons that I walked away from this book were, ”*I soon learned that the quickest way to bridge the race gap was through language.”* And, *”We tell people to follow their dreams, but you can only dream of what you can imagine, and, depending on where you come from, your imagination can be quite limited.“*
 
 ## II. Big Ideas
 

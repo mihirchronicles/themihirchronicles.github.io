@@ -6,7 +6,7 @@ path: "/bookshelf/cracking-the-pm-interview"
 
 ## I. Brief Summary
 
-* As I am exploring a Product Management role as a next step of progression in my career path, this was one of the most recommended books from product people. 
+As I am exploring a Product Management role as a next step of progression in my career path, this was one of the most recommended books from product people. 
 
 ## II. Big Ideas
 - PM is responsible for making that a team ships a great product.

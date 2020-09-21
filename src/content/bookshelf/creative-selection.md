@@ -6,7 +6,7 @@ path: /bookshelf/creativity-selection
 
 ## I. Brief Summary
 
-* Ken Kocienda shares his experience of building software products and product development culture at Apple. He shared his experience of what it took to build Safari web browser and iPhone's keyboard. He also shares how he overcame technical challenges. Both were high-profile features and products which brought Ken in direct contact with Steve Jobs.
+Ken Kocienda shares his experience of building software products and product development culture at Apple. He shared his experience of what it took to build Safari web browser and iPhone's keyboard. He also shares how he overcame technical challenges. Both were high-profile features and products which brought Ken in direct contact with Steve Jobs.
 
 ## II. Big Ideas
 

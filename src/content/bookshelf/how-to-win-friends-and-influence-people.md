@@ -6,7 +6,7 @@ path: "/bookshelf/how-to-win-friends-and-influence-people"
 
 ## I. Brief Summary
 
-* Dale Carnegie’s work is masterpiece of self-help and persuasive writing. Although not a fan of self-help books, the classic (1936) covers genuine lessons on how to treat others respectfully and graciously. More importantly, I enjoyed learning about history that was relevant during 1930s. Carnegie uncovers lessons learned by industrialists, presidents, authors, creatives, professors, middle-managers and so many more.
+Dale Carnegie’s work is masterpiece of self-help and persuasive writing. Although not a fan of self-help books, the classic (1936) covers genuine lessons on how to treat others respectfully and graciously. More importantly, I enjoyed learning about history that was relevant during 1930s. Carnegie uncovers lessons learned by industrialists, presidents, authors, creatives, professors, middle-managers and so many more.
 
 ## II. Big Ideas
 

@@ -6,7 +6,7 @@ path: "/bookshelf/living-with-a-seal"
 
 ## I. Brief Summary
 
-* This was laugh-out-loud funny, and inspiring. Jesse Itlzer is someone who I idolize. He likes to live his life outside of his comfort zone. I am process driven, but I also understand the limitations of it. My life falls apart when I don't follow the routine. Jesse wanted to break his routine for the similar reason. So, he hired a SEAL to live with him and his wife and train him. SEAL agreed on one condition, Jesse would have to do anything SEAL would ask. Jesse honored that condition. A quick read with bunch of inspiration and humor.
+This was laugh-out-loud funny, and inspiring. Jesse Itlzer is someone who I idolize. He likes to live his life outside of his comfort zone. I am process driven, but I also understand the limitations of it. My life falls apart when I don't follow the routine. Jesse wanted to break his routine for the similar reason. So, he hired a SEAL to live with him and his wife and train him. SEAL agreed on one condition, Jesse would have to do anything SEAL would ask. Jesse honored that condition. A quick read with bunch of inspiration and humor.
 
 ## II. Big Ideas
 Jesse Itlzer writes—
