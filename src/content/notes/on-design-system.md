@@ -5,11 +5,11 @@ date: "2020-08-24"
 draft: false
 path: "/notes/on-design-system"
 ---
-I have been working on Design System at Morningstar since 2018. There is so much I have learned. For this reason, I wanted to document those important lessons. I am no expert, but below are the notes on my observation made and experiences gained while helping build a Design System.
+I have been working on Design System at Morningstar since 2018. There is so much I have learned. For this reason, I wanted to document those important lessons. I am no expert, but below are the notes on my observations made and experiences gained while helping build a Design System.
 
 ## Overview
 
-The team has gone through 3 versions of the library since I joined. The team is meticulously process driven shaped by Nathan Curtis of Eight Shapes since early days of the team. That culture of process is still present and the team continues to evolve as it overcomes challenges and solve problems.
+The team has gone through 3 versions of the library since I joined. The team is meticulously process driven shaped by Nathan Curtis of Eight Shapes since the early days of the team. That culture of process is still present and the team continues to evolve as it overcomes challenges and solve problems.
 
 > A highly disciplined team that is ruthless about process, rigor and attention to details. This ensures delivery with high quality. The process is transparent and honest. Team members are compassionate but firm; they challenge one another and others. But, don't become married to process. — Nathan Curtis
 
@@ -23,7 +23,7 @@ We didn't start with Vue or React. We didn't even have javascript for almost 2 y
 
 Before joining Morningstar Design System team, I had no clue what Design System did or meant. Twitter Bootstrap was the closest thing I knew. Developers who were not proficient in design would import a third party library such as Twitter Bootstrap to make their web application look ”pretty.“ These third party libraries covered the basics such as shapes, sizes, and colors. This allowed developers to focus on coding their applications instead of design.
 
-The intention of Design System is not to stop people from doing. Design system exist to help people work faster. Sacrifice control and embrace chaos when necessary. 
+The intention of Design System is not to stop people from doing. Design system exist to help people work faster, sacrifice control and embrace chaos when necessary. 
 
 - **Problem statement 1:** Morningstar has over 60 products and they are distributed all across the organization globally. Designers and developers faced the challenge of maintaining the design and code standard. Deadlines and roadmaps took over so the goal would be to make the components look as similar to other products as possible. There were central design specs in form of PDFs but were not accessible to everyone. Or the specs would be outdated. So we would have permutations of buttons, navigations, menus, etc. This disrupted branding and standard user experience for Morningstar.
 
@@ -39,7 +39,7 @@ The intention of Design System is not to stop people from doing. Design system e
     - Product B built another set of library on top of the initial library.
     - Product C is now consuming Product B's library because Product B has the variation of button they need. So there were many extensions of the initial library. This led to many non-standard components again.
 
-## **Morninstar Design System**
+## **Morningstar Design System**
 
 There was no central team managing the library, contributing to the components, documenting the visual guidelines and technical guides, and educating developers and designers on the system.
 
@@ -57,19 +57,19 @@ The main objective of the design system is to bring consistency across all produ
 
 1. **Central team:** The central team has a clear ownership and also accountable for its roadmap. A centralized team helps scale the system. The decisions made by the team should benefit the entire organization not just itself. The central team is not only responsible for building blocks, but also need to maintain what they build. This ensures trust and durability for teams to adopt the Design System.
 2. **Maintenance & Standardization:** Design System eliminates code redundancy which then helps save time and money. Imagine a developer building a button every time a new product is built. Building a component library standardizes the technology stack around the components which allows for maintainable changes or modifications. Reusable components then standardizes the user experience (UX) and branding across all products.
-3. **Product focused:** Design system should be treated as a product while treating consuming teams and implementors as clients. If clients are not treated well, there won't be any adoption gradually leading to decline of the system. Design System is a living system serving other products. Design System consists of many *features—* UI components, design assets, design tokens and documentation. These are tangible outputs from the system which users value. Features are mostly driven by designers. But, developers consume these features while they do rapid development of applications. Following questions must be asked when architecting the system.
+3. **Product focused:** Design system should be treated as a product while treating consuming teams and implementors as clients. If clients are not treated well, there won't be any adoption, gradually leading to decline of the system. Design System is a living system serving other products. Design System consists of many *features—* UI components, design assets, design tokens and documentation. These are tangible outputs from the system which users value. Features are mostly driven by designers. But, developers consume these features while they do rapid development of applications. The following questions must be asked when architecting the system.
     - How do we release the new components?
     - How do we architect with little to no disruption?
     - What tools do developers currently use?
     - Which languages are products written in? For example, Vue or React.
-4. **Stakeholders:** Design system consist of several stakeholders. The system should be built with the mindset of keeping everyone in mind. Treat all the stakeholders as part of the system. An inclusive system brings transparency and build trust. Following are the group of people who keep the design system alive.
+4. **Stakeholders:** Design system consist of several stakeholders. The system should be built with the mindset of keeping everyone in mind. Treat all the stakeholders as part of the system. An inclusive system brings transparency and build trust. The following are the group of people who keep the design system alive.
     - Developers use and build the system
     - Designers create visual language and components
     - Product managers are customers of the system
     - The leadership team are the buyers of the system
     - Contributors include both designers and developers
 5. **Roadmap**: Since Design System is a product, it should also have a roadmap. For us, we had two roadmaps for the year, for the first and second half. MDS team operated remotely since its inception so to bring everyone together the team would gather during the on-site meeting in Chicago. During this week-long planning meeting, the team conducted several sessions on large themes and objectives. The team would have breakout sessions and small group discussions. During the end of the planning meeting, the team would share these objectives with key stakeholders and users. Sharing these objectives with everyone validated the team's priorities. Every design system should have a roadmap because it consists of features and value delivered to users.
-6. **Collaboration**: To welcome collaboration channels are accessible for transparency. There are separate channels for engineering and design. Temporary channels are created during beta and alpha testing. JIRA board is accessible to everyone. The team hosts weekly showcases to share a sprint progress. The team would accept pull-requests (PRs) from other developers if the changes made benefited the larger audience. This sort of transparency is intentional which leads to adoption and contribution.
+6. **Collaboration**: To welcome collaboration, communication channels are accessible for transparency. There are separate channels for engineering and design. Temporary channels are created during beta and alpha testing. JIRA board is accessible to everyone. The team hosts weekly showcases to share a sprint progress. The team would accept pull-requests (PRs) from other developers if the changes made benefited the larger audience. This sort of transparency is intentional which leads to adoption and contribution.
 7. **Adoption & contribution:** Once adoption reaches the peak community contribution takes off. Process needs to be defined because quality can be sacrificed. This can help scale the system but quality can be sacrificed. But if the adoption rate is slow, getting contributing back can be challenging. To embed contribution and collaboration requires continuous engagement with adopters and implementors. But it doesn't just stop at engaging. As a central team, prioritizing feedback and implementing the changes is as crucial to maintain trust.
 8. **Library Distribution:** There are a few ways to distribute UI Libraries. System can publish using NPM or Yarn with Semantic Versioning (SemVer) by versioning in form of X.Y.Z. See below to read more on SemVer. System can also publish the assets on CDN. At Morningstar, for V3 library, MDS uses monorepo to publish pre-built components.
 
@@ -113,7 +113,7 @@ Design system requires a change in mindset. The bullet points below are credited
 
 ## Favorite **Design System**
 
-While building components, I spent several time on what other systems were doing with their components. Below are a few that I frequently visited during discovery phase.
+While building components, I spent much of my time on what other systems were doing with their components. Below are a few that I frequently visited during the discovery phase.
 
 - [Morningstar](https://designsystem.morningstar.com/)
 - [Shopify](https://polaris.shopify.com/)
