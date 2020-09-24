@@ -90,7 +90,7 @@ const LandingBio = () => (
         <Container>
           <NameHeader>{data.site.siteMetadata.title}</NameHeader>
             <Description>Me here, here!</Description>
-            <Description>Building design system at <a href="http://www.morningstar.com/">Morningstar</a> and helping learn independent thinking at <a href="https://wisecharlie.com/">Wise Charlie</a>. Fond of product, investing, art, hiking & telescopes. Process itself is the goal <FontAwesomeIcon icon="cogs"/>.</Description>
+            <Description>Product at <a href="http://www.morningstar.com/">Morningstar</a> and <a href="https://wisecharlie.com/">Wise Charlie</a>. Fond of reading, investing, art, hiking & telescopes. Process itself is the goal <FontAwesomeIcon icon="cogs"/>.</Description>
             <Description><strong>Scientia Potentia Est</strong></Description>
             <ButtonLink href="/notes"><Button type="text">Notes</Button></ButtonLink> 
         </Container>
