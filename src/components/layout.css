@@ -1,9 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Reenie+Beanie');
 
-code {
-  background-color:#000000;
-}
-
 * {
   box-sizing: border-box;
 }
@@ -19,8 +15,11 @@ html, body {
   background-color: #ffffff;
 }
 body {
-  font-size: 14px;
-  font-family: monospace;
+  color: #000000;
+  font-size: 15px;
+  font-weight: 400;
+  font-family: 'Roboto Mono', 'Courier', 'Helvetica', sans-serif;
+  -webkit-font-smoothing: antialiased;
 }
 article,
 aside,
@@ -103,7 +102,7 @@ code,
 kbd,
 pre,
 samp {
-  font-family: monospace, helvetica;
+  font-family: 'Roboto Mono', 'Courier', 'Helvetica', sans-serif;
   font-size: 1em;
 }
 figure {
@@ -207,8 +206,6 @@ html {
   box-sizing: inherit;
 }
 body {
-  color: #000000;
-  font-weight: normal;
   word-wrap: break-word;
   font-kerning: normal;
   -moz-font-feature-settings: "kern", "liga", "clig", "calt";
@@ -374,8 +371,7 @@ dd {
   margin-bottom: 1.45rem;
 }
 p {
-  line-height: 30px;
-  word-spacing: 1px;
+  line-height: 25px;
   margin-left: 0;
   margin-right: 0;
   margin-top: 0;
