@@ -36,7 +36,6 @@ const OuterContainer = styled.div`
 const Description = styled.p`
   padding: 0;
   margin-bottom: 1rem;
-  line-height: 30px;
 `
 
 const NameHeader = styled.h1`
