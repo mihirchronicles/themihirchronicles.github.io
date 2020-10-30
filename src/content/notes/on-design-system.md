@@ -37,7 +37,7 @@ Before joining Morningstar Design System team, I had no clue what Design System 
 
 The intention of Design System is not to stop people from doing. Design system exist to help people work faster, sacrifice control and embrace chaos when necessary.
 
-## Morningstar Design System
+## Morningstar Design System (MDS)
 
 There was no central team managing the library, contributing to the components, documenting the visual guidelines and technical guidelines, and educating developers and designers on the system.
 
@@ -47,7 +47,7 @@ The team was responsible for version 1 release of the library with components th
 
 > The Morningstar Design System is a collection of design & technical standards built into a central library to help teams quickly build high-quality, consistent experiences.
 
-## Design System Objectives
+## Design System objectives
 
 > Design never was just how it looks, but now it’s also how it sounds, how it speaks, and where it can go. — Chris Messina
 
@@ -87,7 +87,7 @@ The main objective of the Design System is to bring consistency across all produ
 - Design System is defaulted to just web platform. It can be multi-platform.
 - Design System limits product teams from building new components. Not true. For a component to be in the system, MDS uses a 2-team rule which means there should be a need for X by more than just one team.
 
-## What makes a **Design System?**
+## What makes a Design System?
 
 A design system consist of but not limited to:
 
@@ -109,7 +109,7 @@ Design system requires a change in mindset. The bullet points below are credited
 - Contribution → shared equity
 - Governance → shared execution
 
-## Favorite **Design System**
+## Favorite Design System
 
 While building components, I spent much of my time on what other systems were doing with their components. Below are a few that I frequently visited during the discovery phase.
 
@@ -122,7 +122,7 @@ While building components, I spent much of my time on what other systems were do
 - [AirBnB](https://airbnb.design/)
 - [Github](https://primer.style/)
 
-## Further Reading
+## Further reading
 
 - [Atomic Design](https://atomicdesign.bradfrost.com/) by Brad Frost
 - [Component](https://eightshapes.com/components/) by Eight Shapes

@@ -5,7 +5,7 @@ path: /bookshelf/siddhartha-a-novel
 ---
 
 ## I. Brief Summary
-This is by far the best novel I have read so far in my life. Nothing about this book is seductive, but is pure. Siddhartha, a young man leaves his family to find the spiritual enlightenment during the time of Buddha. During his pilgrimage, he meets his companion and conceives a son. It comes to a full circle when his son leaves him. Siddartha comes to listening to a river to find meaning. The sound of the river leads to all life lessons. Hermann Hesse is a Nobel Prize winner and his great work is reflected in this literature.
+Hermann Hesse is a Nobel Prize winner and his great work is reflected in this literature. This is by far the best novel I have read in my life. Nothing about this book is seductive, but is pure. Siddhartha, a young man leaves his family to find the spiritual enlightenment during the time of Buddha. During his pilgrimage, he meets his companion and conceives a son. It comes to a full circle when his son also leaves him. Siddartha comes to listening to a river to find the true meaning of life. The sound of the river leads to all sort of life lessons. In the end, he reconnects with Govinda to whom he shares the lessons of life. Govinda has always been searching but fails to find anything.
 
 ## II. Big Ideas
 - Everything is intertwined.

@@ -41,12 +41,12 @@ Analogy is comparable to metaphor and simile that it shows how two different thi
 
 For example, if you live in the US and you've never heard of canton before, a helpful analogy to explain canton — “Cantons in Switzerland are like states in the USA.” Here, cantons are analogous to states, and the comparison can help us understand an unfamiliar term.
 
-## Relationship Between The Three
+## Relationship between the three
 Both simile and metaphor are figures of speech, and both operate by comparing the thing with something else in a figurative way (not literal). This is why simile and metaphor can be confusing. Whereas, an analogy is a logical device for an argumentative purpose. An analogy is a comparison between two similar things. Metaphors and similes are just one way to express that comparison.
 
 A metaphor is almost always more forceful than an analogy, but we have to rely on the reader or listener's intuition to infer what we really mean. An analogy is clear and straightforward about what we mean, but it doesn't always have the same force as a metaphor, nor is it so easy to visualize.
 
-## Metaphors Are Powerful Weapons In Our Writing Arsenal
+## Metaphors are powerful weapons in our writing arsenal
 > The greatest thing by far is to be a master of metaphor; it is the one thing that cannot be learnt from others; and it is also a sign of genius, since a good metaphor implies an intuitive perception of the similarity in the dissimilar. — Aristotle
 
 Aristotle got it right! Metaphors can make words come to life and ignite our understanding about the world. Metaphors are so powerful because of a simple fact of human psychology — we react more willingly to the emotional than the rational. Truth is at the heart of metaphor. Metaphors make our writing more concise because we don't have to spend time explaining something. They can help us enhance our writing with vivid images. Metaphors create a shortcut to instant and memorable understanding.

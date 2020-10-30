@@ -1,7 +1,7 @@
 ---
 title: "On Product Management"
 tags: ["general"]
-date: "2020-03-04"
+date: "2020-10-30"
 draft: false
 path: "/notes/on-product-management"
 ---
@@ -9,112 +9,78 @@ Peter Thiel, in his book, Zero to One, outlines his belief that the biggest insi
 
 > Tell me something that’s true, that almost nobody agrees with you on. — Peter Thiel
 
-The product manager's ultimate quest is to answer this question — **“what is hidden in plain sight?”** In order to answer this question, product manager should be a generalist. As engineering and design becomes more specialized, the generalist fills the gap.
+The Product Manager's ultimate quest is to answer this question — **“what is hidden in plain sight?”** In order to answer this question, product manager should be a generalist. As engineering and design becomes more specialized, the generalist fills the gap. But surfacing those insights are not enough. Those insights need to solve user problems and need to be delivered to them at the right time.
+
+Product Management is an execution job. Strategy plays a huge role but strategy without execution serves neither the organization nor the end-user.
+
+> Knowledge without action, is like having no knowledge at all. - Ted Nicholas
+
+> The essence of strategy is choosing what not to do. — Michael Porter
+
+User problems don't need to be invented for the sake of doing the job of Product Management. For every feature or product delivered, there is only one question that can tell if the meaningful work is being done — are the users making progress with your product?
 
 > Customers don't have needs, they just want to make progress within the system they belong. — Alan Klement
 
 > A good product takes chaos and creates order. — Brian Nogard
 
-> The essence of strategy is choosing what not to do. — Michael Porter
-
 ## What is product management?
 
-Product management is an organizational function within a company dealing with new product development, business justification, planning, verification, forecasting, pricing, product launch, and marketing of a product or products at all stages of the product lifecycle. Product lifecycle management is the process of managing the entire lifecycle of a product from inception, through engineering, design, prototyping, manufacturing physical products, scaling software businesses, to service, maintenance and disposal of products.
+Product Management is an organizational function within a company dealing with new product development, business justification, planning, verification, forecasting, pricing, product launch, and marketing of a product or products at all stages of the product lifecycle. Product lifecycle management is the process of managing the entire lifecycle of a product from inception, through engineering, design, prototyping, manufacturing physical products, scaling software businesses, to service, maintenance and disposal of products or retiring old legacy softwares.
 
-A set of process or processes drives product vision. Process defines the framework and discipline to accomplish the product vision. Every organization has a different process but the following should be addressed when defining a framework.
+A set of process or processes drives product vision. Process defines the framework and discipline to accomplish the product vision. Every organization has a different process but the following should be a starting point when defining a framework.
 
-- Product Vision: what do you want the world around you to look like in 6 months? 1 year? 2 years? 5 years?
-- Outcome: what do you want to achieve to help realize this product vision?
-- Goals & Metrics: what are the measurable goals along the way? How can we measure them?
-- Strategy: what are we going to do in sequence to hit our goals?
-- Resourcing: what resources do we need to hit these metrics? For example, how many engineers and designers to assign?
+- *Product Vision*: what do you want the world around you to look like in 6 months? 1 year? 2 years? 5 years?
+- *Outcome*: what do you want to achieve to help realize this product vision?
+- *Goals & Metrics*: what are the measurable goals along the way? How can we measure them?
+- *Strategy*: what are we going to do in sequence to hit our goals?
+- *Resourcing*: what resources do we need to hit these metrics? For example, how many engineers and designers to assign?
 
-## What is product life cycle management?
+## Role of a product manager
 
-Products have a limited life and thus every product has a life cycle. The goals of product life cycle management are to reduce time to market, improve product quality, reduce prototyping costs, identify potential sales opportunities and revenue contributions, maintain and sustain operational serviceability, and reduce environmental impacts at end-of-life. To create successful new products the company must understand its customers, markets and competitors. Product lifecycle management help organizations overcome the increased complexity, engineering and design challenges of developing new products for the global competitive markets. Following are general stages of product lifecycle:
+There are many flavors of Product Manager, but being a Product Manager is a job of influence to drive positive outcomes for the end user. However, it is not as straight-forward as it sounds in theory. To drive positive outcomes for the end user, Product Managers do many things, but are primarily focused on the following:
 
-- **Market introduction stage**
-    - costs are very high
-    - slow sales volumes to start
-    - little or no competition
-    - demand has to be created
-    - customers have to be prompted to try the product
-    - makes little money at this stage
-- **Growth stage**
-    - costs reduced due to economies of scale
-    - sales volume increases significantly
-    - profitability begins to rise
-    - public awareness increases
-    - competition begins to increase with a few new players in establishing market
-    - increased competition leads to price decreases
-- **Maturity stage**
-    - costs are decreased as a result of production volumes
-    - sales volume peaks and market saturation is reached
-    - increase in competitors entering the market
-    - prices tend to drop due to the proliferation of competing products
-    - brand differentiation and feature diversification is emphasized to maintain or increase market share industrial profits go down
-- **Saturation and decline stage**
-    - costs become counter-optimal
-    - sales volume decline
-    - prices, profitability diminish
-    - profit becomes more a challenge of production and distribution efficiency than increased sales
+- Responsible to set overall vision, direction, capability, quality and delivery of products. These responsibilities are scattered between associates and mid-senior level positions.
+- Able to build coalitions and get a buy in from functional groups — design, data, business, sales, and other cross-functional segments.
+- No room for ego. If there is a key player missing, it will make the Product Manager look weak. Resourcing is not a primary job but is a key element to executing on delivering a great product. This is where the previous point comes into play. A strong partnership with others can help fill the gap.
+- Are constantly learning and picking up on domain knowledge. Best PMs are autodidacts because they are curious about everything. Sales, marketing, negotiation, design, or tech — they are all equally important to learn.
+- Have strong collaboration mindset. PMs are like point guard playing basketball because they make others look great. A good collaboration between business, design and tech make everyone look great.
+- Understanding the roadmap is important even if you don't own it. Features are prioritized based on the roadmap. Product managers turn goals into projects with the help of their teams and entrepreneurial spirit. Too much to do is always a battle. That's the perpetual state of being a product manager but the goal is to use a hammer on the highest nail.
+- Building with user adoption in mind. Beyond shipping new features on a regular cadence and keeping the peace between engineering and the design team, the best Product Managers create products with strong user adoption that have exponential revenue growth and perhaps even disrupt an industry.
+- Able to write for all. Communication is a key and able to communicate with several stakeholders all at once becomes challenging. One way to overcome that challenge is to document for all types of audience. It is a good idea to document something that can be obvious to your audience. Different things mean to different audience. Writing helps bridge that gap.
+- Being resilient is a key to becoming a successful product manager because if you are doing something hard, there will always be failures. People who have overcome adversity in their life. But it is hard to find resilience in a resume. Emotional intelligence goes a long way if there is a product execution failure.
+- Keeping up with core competencies. The following core competencies are the baseline for any PM, and the best PMs hone these skills over the years of defining, shipping, and iterating on products.
+    - conducting customer interviews and user testing
+    - running design sprints
+    - feature prioritization and road map planning
+    - the art of resource allocation and managing conflicts
+    - performing market assessments
+    - translating business-to-technical requirements, and vice versa
+    - pricing and revenue modeling
+    - community (internal or/and external) engagement
+    - gauge prospects to adopt a new feature or a product
+    - act as a liaison with cross-functional business units
+    - document stories, epics, technical requirements, user workflows
+    - defining and tracking success metrics
 
-**How to extend product lifecycle?** Once the product reaches maturity, organizations desire to extend the product life cycle to maximize revenue. Some of the following ways to extend the product lifecycle are:
+In the end, it the product manager's job to solve user problems by delivering relevant products and features at the right time.
 
-- Advertising: its purpose is to get additional audience and potential customers
-- Exploring and expanding to new markets: by conducting market research and offering the product (or some adapted form of it) to new markets, it is possible to get more customers
-- Price reduction: many customers are attracted by price cuts and discount tags
-- Adding new features: adding value to the product to enhance its usability or to attract the attention of a wider customer base
-- Packaging: new, attractive, useful or eco-friendly packaging influence the target customers
-- Changing customer consumption habits: promoting new trends of consumption can increase the number of customers
-- Special promotions: raising interest by offering giveaways and other offers
+## Tips to become a great product manager
 
-## What is the role of a product manager?
+- **Story-tellers**: the best PMs are able to weave tales that incorporate market needs, strategy, and tactics into a story that their stakeholders can get their heads around and hopefully adopt the story themselves. It can be challenging when you see something clearly, but you can’t get others around you to see it. You work through other people, so it takes a lot of convincing. You have to be a great communicator and storyteller. You have to read your audience. You have to try harder to understand others and find an angle to explain that makes sense to them. People you work with are smart, they just need a great story to be convinced.
+- **Learning by doing**: to master the art of product management requires several years of practice and doing. Ultimately, the best thing you can do to prepare for a career in product management is to build. Manage and “own” a project from inception through execution and operation. Create KPIs and measure your impact.
+- **3 Ps**: analyze the 3 Ps — people, process and product to assess on the quality of people, the best process to deliver the product, and excellence and relevance of a product. Keep in mind don't implement process for the sake of process. It has to be relevant for everyone on the team.
+- **Hard decisions**: be willing to stand up for what you believe, especially when you are representing your users. Confidence of a product manager comes from having a strong work ethic. Hard decisions make great products. Success is not guaranteed, but confidence eliminates fear of failure.
+- **Questions**: are a product manager’s best tool. The best way to understand what’s going on or how to get better is to pose probing questions to all stakeholders, and above all, to yourself. Stopping for a tune-up if you’re already further along the road is critical to leveling up as a leader and questions are the keys that unlock the door to development.
+- **Emotional Intelligence (EQ)**: the best PMs have the ability to empathize with customers during surveys and interviews. A PM with a high EQ has strong relationships within their organization and a keen sense of how to navigate both internal and external hurdles to ship a great product. People don’t talk enough about EQ. Product managers get huge value from being highly empathetic with the team, not just with users. There are plenty of smart people, but not enough with EQ.
+- **Social capital**: the expected collective or economic benefits derived from the preferential treatment and cooperation between individuals and groups. Components of social capital include reciprocity, trust and values. If these are shared between individuals within a network then the community will function as an organic whole. This is important for the next up, relationship management.
+- **Relationship management**: probably one of the most important characteristics of a great PM is their relationship management skills. By forming authentic and trustworthy connections with both internal and external stakeholders, the best PMs inspire people and help them reach their full potential. Relationship management is also vital in successful negotiation, resolving conflicts, and working with others toward a shared goal, which is especially challenging when a PM is tasked with balancing the needs of customers, resource-constrained engineering teams, and the company’s revenue goals. Authentic and trusting relationships within an organization can lead to more support when additional funding is needed for a product or when an engineer must be swayed to include a quick bug fix in the next sprint. Outside an organization, these skills could encourage existing customers to beta test a new feature for early feedback or to convince a target customer to try the MVP of a product still in stealth mode.
+- **Confirmation bias**: PMs must be self-aware of their own confirmation biases to avoid projecting their own preferences onto users of their products. PMs should stay objective despite of features they love which addresses their own pain points. The lack of self-awareness in any sort of biases could derail more important priorities or damage the PM’s relationship with engineers, who may lose confidence in their PM when the feature isn’t readily adopted by users.
+- **Self-management**: being a PM can be incredibly stressful. The CEO wants one thing, the engineering team another, and customers have their own opinions about feature priorities. Managing tight deadlines, revenue targets, market demands, prioritization conflicts, and resource constraints all at once is not for the faint of heart. If a PM cannot maintain their emotions and keep it cool under pressure, they can quickly lose the confidence of all their constituents. The best PMs know how to push hard on the right priorities, with urgency but without conveying a sense of panic or stress. These PMs also know when to take a breath and step away to regroup.
+- **Social awareness**: PMs must understand customer's emotions and concerns about their product as much as they understand the concerns of the sales team on how to sell that product, or the support team on how to support it, or the engineering team on how to build it. PMs need deep understanding of how the organization operates and must build social capital to influence the success of their product, from obtaining budget and staffing to securing a top engineer to work on their product. Finally, social awareness ensures the best PMs service their customers with a product that addresses their jobs to be done, which is ultimately what drives product-market fit.
 
-A person who is responsible to set overall vision, direction, capability, quality and delivery of products. A PM ensures roadmap is prioritized to address market opportunities, and lead the product management discipline for the team. Product managers turns goals into projects with the help of their teams and entrepreneurial spirit. Too much to do is always a battle. That's the perpetual state of being a product manager but the goal is to use a hammer on the highest nail.
+## Product management at a startup vs a mature organization
 
-Product managers focus on user and data research through design and development to marketing, sales, and support. Beyond shipping new features on a regular cadence and keeping the peace between engineering and the design team, the best PMs create products with strong user adoption that have exponential revenue growth and perhaps even disrupt an industry.
-
-Being resilient is a key to becoming a successful product manager because if you are doing something hard, there will always be failures. People who have overcome adversity in their life. But it is hard to find resilience in a resume. It is usually in between the lines. The perfect ‘A’ student at the best school who has cruised through has more emotional learning to do, and more to prove about their ability to pick themselves back up after defeat. Emotional intelligence goes a long way. The following core competencies are the baseline for any PM, and the best PMs hone these skills over the years of defining, shipping, and iterating on products.
-
-- conducting customer interviews and user testing
-- running design sprints
-- feature prioritization and road map planning
-- the art of resource allocation
-- performing market assessments
-- translating business-to-technical requirements, and vice versa
-- pricing and revenue modeling
-- community (internal or/and external) engagement
-- gauge prospects to adopt a new feature or a product
-- act as a liaison with cross-functional business units
-- document stories, epics, technical requirements, user workflows
-- defining and tracking success metrics
-
-**What are some of the tips to become a great product manager?**
-
-**Story-tellers**: the best PMs are able to weave tales that incorporate market needs, strategy, and tactics into a story that their stakeholders can get their heads around and hopefully adopt the story themselves. It can be challenging when you see something clearly, but you can’t get others around you to see it. You work through other people, so it takes a lot of convincing. You have to be a great communicator and storyteller. You have to read your audience. You have to try harder to understand others and find an angle to explain that makes sense to them. People you work with are smart, they just need a great story to be convinced.
-
-**Learning by doing**: to master the art of product management requires several years of practice and doing. Ultimately, the best thing you can do to prepare for a career in product management is to build. Manage and “own” a project from inception through execution and operation. Create KPIs and measure your impact.
-
-**3 Ps**: analyze the 3 Ps— people, process and product to assess on the quality of people, the best process to deliver the product, and excellence and relevance of a product.
-
-**Hard decisions**: be willing to stand up for what you believe, especially when you are representing your users. Confidence of a product manager comes from having a strong work ethic. Hard decisions make great products. Success is not guaranteed, but confidence eliminates fear of failure.
-
-**Questions**: are a product manager’s best tool. The best way to understand what’s going on or how to get better is to pose probing questions to all stakeholders, and above all, to yourself. Stopping for a tune-up if you’re already further along the road is critical to leveling up as a leader and questions are the keys that unlock the door to development.
-
-**Emotional Intelligence (EQ)**: the best PMs have the ability to empathize with customers during surveys and interviews. A PM with a high EQ has strong relationships within their organization and a keen sense of how to navigate both internal and external hurdles to ship a great product. People don’t talk enough about EQ. Product managers get huge value from being highly empathetic with the team, not just with users. There are plenty of smart people, but not enough with EQ.
-
-**Social capital**: the expected collective or economic benefits derived from the preferential treatment and cooperation between individuals and groups. Components of social capital include reciprocity, trust and values. If these are shared between individuals within a network then the community will function as an organic whole. This is important for the next up, relationship management.
-
-**Relationship management**: probably one of the most important characteristics of a great PM is their relationship management skills. By forming authentic and trustworthy connections with both internal and external stakeholders, the best PMs inspire people and help them reach their full potential. Relationship management is also vital in successful negotiation, resolving conflicts, and working with others toward a shared goal, which is especially challenging when a PM is tasked with balancing the needs of customers, resource-constrained engineering teams, and the company’s revenue goals. Authentic and trusting relationships within an organization can lead to more support when additional funding is needed for a product or when an engineer must be swayed to include a quick bug fix in the next sprint. Outside an organization, these skills could encourage existing customers to beta test a new feature for early feedback or to convince a target customer to try the MVP of a product still in stealth mode.
-
-**Confirmation bias**: PMs must be self-aware of their own confirmation biases to avoid projecting their own preferences onto users of their products. PMs should stay objective despite of features they love which addresses their own pain points. The lack of self-awareness in any sort of biases could derail more important priorities or damage the PM’s relationship with engineers, who may lose confidence in their PM when the feature isn’t readily adopted by users.
-
-**Self-management**: being a PM can be incredibly stressful. The CEO wants one thing, the engineering team another, and customers have their own opinions about feature priorities. Managing tight deadlines, revenue targets, market demands, prioritization conflicts, and resource constraints all at once is not for the faint of heart. If a PM cannot maintain their emotions and keep it cool under pressure, they can quickly lose the confidence of all their constituents. The best PMs know how to push hard on the right priorities, with urgency but without conveying a sense of panic or stress. These PMs also know when to take a breath and step away to regroup.
-
-**Social awareness**: PMs must understand customer's emotions and concerns about their product as much as they understand the concerns of the sales team on how to sell that product, or the support team on how to support it, or the engineering team on how to build it. PMs need deep understanding of how the organization operates and must build social capital to influence the success of their product, from obtaining budget and staffing to securing a top engineer to work on their product. Finally, social awareness ensures the best PMs service their customers with a product that addresses their jobs to be done, which is ultimately what drives product-market fit.
-
-**How is product management different at a startup than at a mature organization?** The role of the PM at a startup is far more likely to be responsible to wear “all the hats,” whereas at a mature company their role will be more distinctly defined.
+The role of the PM at a startup is far more likely to be responsible to wear “all the hats,” whereas at a mature company their role will be more distinctly defined.
 
 - **Startup**: beyond discovery, definition, and shipping, PMs may also be responsible for pricing, marketing, support, and potentially even sales of the product. These PMs thrive in a scrappy environment and are comfortable with ambiguity and frequent changes to direction as the company works towards product-market fit and learns to operate at scale
     - Pro: PMs are likely to be more involved with company strategy, get exposure to senior leadership and the board, are able to take more risks and make a bigger impact. They also have more influence and authority over company resources
@@ -123,17 +89,18 @@ Being resilient is a key to becoming a successful product manager because if you
     - Pro: PMs are more likely to have mentoring and role models, as well as development standards and best practices. Close association with an engineering team can create strong relationships over time, which is great for long-term impact and career growth. And if the product has market fit, there is an established customer base and performance baseline to work from, versus guessing until you get it right
     - Con: PMs have less exposure to company strategy and are just one of many voices of the customer. They can get “lost” in the system and have to deal with more politics and tight budgets
 
-**How to set product management goals?** In its purest form, a goal is a way to track whether you’re achieving what you set out to do. When setting goals, start with what you’re trying to achieve as a company, team and product. What’s your ultimate mission? A goal should never be an end in itself— the end is achieving your mission. A good goal has the following attributes:
+## Product management goals
+
+In its purest form, a goal is a way to track whether you’re achieving what you set out to do. When setting goals, start with what you’re trying to achieve as a company, team and product. What’s your ultimate mission? A goal should never be an end in itself— the end is achieving your mission. A good goal has the following attributes:
 
 - Concrete: it’s clear and unambiguous (something that isn’t subjective)
 - Simple: everyone understands what it is and how it’s measured
 - Quick feedback loop: the results of your changes can be seen quickly. Think about how long it takes for a user to reach the milestone you’re tracking, and whether you can expect movement in a reasonable timeframe
 - Business-oriented: it’s easy to see how this goal actually drives the larger business
 
-## What are some of the product philosophies?
+## **What are some of the product philosophies?**
 
-Every company has a different philosophy about the product development process and where PMs fit into that process. Below are the three most common types, with pros and cons:
-
+- Every company has a different philosophy about the product development process and where PMs fit into that process. Below are the three most common types, with pros and cons:
 - **PM drives Engineering**: where PMs gather requirements, write product requirement document, and hand it off to engineering to spec out the technical requirements. Contemporary organizations may do this process in a more agile and collaborative way, but the expectation is that PMs know best about what customers need and engineering is there to serve
     - Pro: engineering can focus on coding without a lot of distraction; this tends to work well for *Waterfall* development shops with long lifecycles
     - Con: engineers lose sight of the big picture and do not develop empathy for customers, which can lead to a poor user experience. Often there are unhealthy tensions when technical debt and “plumbing” work needs to be prioritized over customer requirements
@@ -144,7 +111,7 @@ Every company has a different philosophy about the product development process a
     - Pro: a streamlined prioritization process that values technical debt and plumbing projects; better design processes leading to a more positive user experience; higher-performing teams with improved product velocity, quality, and, typically, happier customers
     - Con: breakthrough innovation may not get greenlit; time-to-market may seem to lag (though I’d argue that what’s released is far better aligned with customer needs and more likely to successfully scale)
 
-## **Understanding key areas of product management**
+## Understanding key areas of product management
 
 - Understand the industry, market and users (outward looking)
     - domain knowledge of an industry. Use the following Porter’s Five Forces to do an industry analysis.
@@ -205,16 +172,24 @@ Every company has a different philosophy about the product development process a
     - showcase work-in-progress demos to internal stakeholders
     - delight customers with new features in beta period
     - continuously improve quality by fixing bugs
+- Understand key product management frameworks & topics
+    - Product Market Fit
+    - Jobs To Be Done
+    - Product Manager vs Product Owner
+    - User Interviews
+    - Product Lifecycles
+    - Pricing Strategy
+    - User Onboarding
+    - User Retention & User Churn
+    - Strategy
+    - Moats
+    - Network Effects
+    - Goals: OKRs, SMART
+    - Business Models (Open Source)
+    - LEAN methodology
+    - LEAN methodology
+    - Go-To-Market
 
-This is a huge knowledge dump, but this is for personal use only. I built products before I knew anything about product management. I never heard of it when I was in school (a decade ago). When I joined Morningstar and got deep into tech ecosystem, I started hearing more about it. It is a contemporary general skillset. Products, and mostly digital products are everywhere so it is obvious why such importance on this topic. Lastly, [Jason Evanish's Twitter thread](https://jasonevanish.com/2020/01/12/100-lessons-and-spicy-takes-on-being-a-software-product-manager/) which I highly recommend. There is so much to unpack, but every single tweet uncovers a larger topic. It is a good overview on what a Product Manager does.
+This is a huge knowledge dump, but this is for personal use only. I was an engineer in previous life before I knew anything about product management. If done right, the discipline of Product Management can truly help solve user problems. 
 
-> Knowledge without action, is like having no knowledge at all. - Ted Nicholas
-
----
-
-## **Sources & Notes:**
-
-- Wikipedia
-- [Know your customers job to be done](https://hbr.org/2016/09/know-your-customers-jobs-to-be-done)
-- [What it takes to become a great product manager](https://hbr.org/2017/12/what-it-takes-to-become-a-great-product-manager)
-- [On being a software product manager](https://jasonevanish.com/2020/01/12/100-lessons-and-spicy-takes-on-being-a-software-product-manager/)
+Lastly, I recommend **[Jason Evanish's Twitter thread](https://jasonevanish.com/2020/01/12/100-lessons-and-spicy-takes-on-being-a-software-product-manager/)** and [**Lenny's Newsletter**](https://www.lennyrachitsky.com/). It is a good overview on Product Management discipline and what a Product Manager does. However, there are countless other resources out there which I stopped tracking after a while. Understanding the key concepts mentioned above helped me land a role in Product Management.

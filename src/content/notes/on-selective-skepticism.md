@@ -29,7 +29,7 @@ Selective skepticism and sound reasoning can eliminate all prejudices in necessa
 
 ---
 
-## **Sources & Notes:**
+## Sources & notes:
 - Being Logical: A Guide to Good Thinking by Dennis Q. McInerny
 - Seeking Wisdom, From Darwin To Munger by Peter Bevelin
 - Richard Feynman lectures

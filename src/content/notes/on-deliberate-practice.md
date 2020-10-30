@@ -8,7 +8,7 @@ path: "/notes/on-deliberate-practice"
 
 Deep work is a cognitively demanding task as opposed to shallow work which is non-cognitively demanding task. Deep work is valuable, rare and meaningful. The ability to quickly master hard things and the ability to produce at an elite level, in terms of both speed and quality, are two core abilities for thriving in today’s economy. So how do you do deliberately practice?
 
-## I. Law of Productivity
+## I. Law of productivity
 
 _Time Spent **=** Deliberate Practice_
 
@@ -41,7 +41,7 @@ State the objective and work backwards. Break down the problem into smaller set 
 
 Einstellung is an enemy of creativity. Don’t get hung up on your intuition and old ideas. Steps 3.2 and 3.3 above will help deepen your creativity.
 
-## V. Chemicals Imbalances
+## V. Chemicals imbalances
 
 We all experience chemical imbalances if we work too much or not exercise or not spend time with your loved ones. How to fix chemical imbalances or get back in the flow?
 

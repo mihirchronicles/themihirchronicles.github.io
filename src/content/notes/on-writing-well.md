@@ -574,7 +574,7 @@ Your goal is to make your writing so concise that it can’t be summarized furth
     - What is the purpose of your writing?
 - *Culture*: an essay necessarily exists within a context of interpretation, made up of culture that the reader is embedded in. Knowing your audience's culture is as important as knowing your audience. Context matters!
 
-### Rhythm & Style
+### Rhythm and style
 
 > The essence of a sound style is that it cannot be reduced to rules — that it is a living and breathing thing, with something of the demoniacal in it — that it fits its proprietor tightly and yet ever so loosely, as his skin fits him. It is, in fact, quite as securely an integral part of him as that skin is…. In brief, a style is always the outward and visible symbol of a [writer], and it cannot be anything else.  To attempt to teach it is as silly as to set up courses in making love. — H.L. Mencken
 
@@ -602,7 +602,7 @@ Great writers orchestrate that interplay between tension, suspense, surprise, re
 
 Lastly, providing examples is another stylistic choice. Examples make abstract statements specific. Your brain best remembers things this way. Provide before-and-after examples, or counterexamples, to clarify what you don’t **mean. Help readers orient themselves on a spectrum of right and wrong. If you make examples fun and topical, readers pay more attention. Don't waste time with examples if you're confident your point was self-evident.
 
-### References & Bibliography
+### References & bibliography
 
 Jordan Peterson on references and biliogrpahy
 
@@ -617,7 +617,7 @@ Peterson (2014, p. 19) claims that “the conventions of the American Psychologi
 - [Research & citation by Owl Purdue](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/general_format.html)
 - [Five levels of heading by APA style](https://blog.apastyle.org/apastyle/2011/04/how-to-use-five-levels-of-heading-in-an-apa-style-paper.html)
 
-## Getting Better
+## Getting better
 > What an astonishing thing a book is. It’s a flat object made from a tree with flexible parts on which are imprinted lots of funny dark squiggles. But one glance at it and you’re inside the mind of another person, maybe somebody dead for thousands of years. Across the millennia, an author is speaking clearly and silently inside your head, directly to you.– Carl Sagan
 
 > Books that can be summarized are not worth reading.– N. N. Taleb
@@ -635,7 +635,7 @@ Peterson (2014, p. 19) claims that “the conventions of the American Psychologi
 - How can you develop the inner ear it takes to hear, and make the music of language? Read, read, read.
 
 ---
-## Sources & Notes:
+## Sources & notes:
 - Notes on writing well by Michael Nielsen
 - On writing better, part 1: getting started by Jason Zweig
 - On writing better, part 2: sharpening your tools by Jason Zweig
