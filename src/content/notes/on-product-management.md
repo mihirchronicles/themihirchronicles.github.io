@@ -190,6 +190,40 @@ In its purest form, a goal is a way to track whether you’re achieving what you
     - LEAN methodology
     - Go-To-Market
 
+## Product management on a new team
+
+What should a new product manager do in the first month? Joining a new product team is like starting a new position on a basketball team; eager to play, but don't know the chemistry or tactics yet to perform. Training and practice is necessary before a PM can score. A structured program can provide training, but many organizations don't even understand what Product Management is, let alone what to train new PMs on. More often than not Product Managers are left to sink or swim. Here is a framework I created during the first month of being a Product Manager.
+- **Company's mission**
+    - What is the underlying business? 
+    - What is the objective of the business? 
+    - How does the business help customers? 
+    - Where does the company fall short on meeting customer's expectations?
+- **Learn the product**
+    - What is the product? 
+    - Why are we building? 
+    - Who are we building for? 
+    - How are we going to build it? 
+    - Are there any OKRs for each milestone?
+- **Meet the team & stakeholders**
+    - How is the team structured? 
+    - What role does each member play? 
+    - Where does the team excel? 
+    - Where does the team fall short? 
+    - Is the team aligned on product mission and strategy?
+    - What does the team expect of you?
+- **Review documentation & artifacts**
+    - Review product vision & strategy artifacts
+    - Review the product roadmap
+    - Review the product's technical requirements
+    - Review JIRA board and backlog
+    - Review the product's performance data
+- **Execute**
+    - Provide and update Acceptance Criteria with appropriate context and information including design and data points
+    - Help team unblock during sprint rituals by providing product & business context
+    - Write documents that are missing
+- **Measure**
+    - Measure velocity on each ticket by tracking down start and close tickets
+
 This is a huge knowledge dump, but this is for personal use only. I was an engineer in previous life before I knew anything about product management. If done right, the discipline of Product Management can truly help solve user problems. 
 
 Lastly, I recommend **[Jason Evanish's Twitter thread](https://jasonevanish.com/2020/01/12/100-lessons-and-spicy-takes-on-being-a-software-product-manager/)** and [**Lenny's Newsletter**](https://www.lennyrachitsky.com/). It is a good overview on Product Management discipline and what a Product Manager does. However, there are countless other resources out there which I stopped tracking after a while. Understanding the key concepts mentioned above helped me land a role in Product Management.
