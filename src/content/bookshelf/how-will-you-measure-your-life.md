@@ -15,21 +15,20 @@ Clayton M. Christensen was a Harvard Business School's professor. His influentia
     - Motivation Factors: the things that make you love going to work. Feeling that you are doing work that is meaningful to you and making a meaningful contribution Challenging work, recognition, responsibility, and personal growth.
     - Hygiene Factors: status, compensation, job security, work conditions, company policies, and supervisory practices. Bad hygiene causes dissatisfaction. But good hygiene factors just mean you are not dissatisfied with your job, not that you love your job.
 * Strategy
-    - Deliberative - a focused plan
-    - Emergent - unexpected opportunities that arise
+    - Deliberative — a focused plan
+    - Emergent — unexpected opportunities that arise
     - Ask what has to prove true
     - Ask yourself: what are the assumptions that have to prove true in order for me to be happy with this choice? List them. Test their validity: how do you know the company really has a team culture? How do you know they will be growing this group? etc. Are they within your control?
 * Relationships
-    - relationships with family and close friends equal happiness in life
-    - requires investment, attention and care
-    - early investing does not have immediate payoffs so people don't invest much time in
+    - Relationships with family and close friends equal happiness in life
+    - Requires investment, attention and care
+    - Early investing does not have immediate payoffs so people don't invest much time in
     - The theory of good money, bad money explains that the clock of building a fulfilling relationship is ticking from the start
 * Purpose
-    - Likeness — who you want to become
-        - Clayton’s Likeness
-            - A man who is dedicated to helping improve the lives of other people
-            - A kind, honest, forgiving, and selfless husband, father, and friend
-            - A man who doesn't just believe in God but who believes God
+    - Likeness — who you want to become. For example, Clayton’s likeness were:
+        - A man who is dedicated to helping improve the lives of other people
+        - A kind, honest, forgiving, and selfless husband, father, and friend
+        - A man who doesn't just believe in God but who believes God
     - Commitment — to becoming that at every step. Actually spending your time and energy in ways that get you closer to your likeness
     - Metrics — to measure your progress towards becoming the likeness
 
