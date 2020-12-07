@@ -1,9 +1,9 @@
 ---
-title: "On Asking Questions"
+title: "On Mental Models"
 tags: ["general"]
 date: "2020-02-20"
 draft: false
-path: "/notes/on-asking-questions"
+path: "/notes/on-mental-models"
 ---
 Asking great questions is the most useful yet underutilized tool for anyone who wants to lead or discover.
 
