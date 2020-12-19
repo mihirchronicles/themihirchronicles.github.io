@@ -6,36 +6,36 @@ draft: false
 path: "/notes/on-actions"
 ---
 
-I was fascinated by two heuristics recently: 
+Two heuristics stood out to me recently: 
 
-- **The Game of Iches** by Larry Culp at GE
+- **The Game of Inches** by Larry Culp at GE
 - **Action Produces Information** by Brian Armstrong at Coinbase
 
 ## Game of inches
 
-I started purchasing General Electric (GE) stock in 2018. At this time, General Electric's management was filled with incompetent management and board members. Bad acquisitions, lack of strategic initiatives, mounting debt and fraudulent activities were common. General Electric was also booted from Dow Jones index after 110 years in 2019. It was debatable but General Electric was headed towards bankruptcy. Markets would have felt the implosion of General Electric but Larry Culp came to save the giant. The business produces relevant products and meaningful services — electricity, power, airplane engines, military contracts, digital services, wind turbines, etc.
+I started purchasing General Electric (GE) stock in 2018. At this time, General Electric had incompetent management and board members. Bad acquisitions, lack of strategic initiatives, mounting debt and fraudulent activities were common. General Electric was also booted from Dow Jones index after 110 years in 2019. It was debatable but General Electric was likely headed towards bankruptcy. Markets would have felt the implosion of General Electric but Larry Culp came to save the giant. General Electric's major business portfolio includes electricity, power, airplane engines, military contracts, digital services and wind turbines.
 
-Larry Culp was already a well known CEO prior to the mission of saving GE. I listened to every single one of his call and read every letter he published. Larry Culp constantly brought up “the game of inches” analogy during these conversations. 
+Larry Culp was already a well known CEO before joining General Electric. I listened to every single one of his call and read every letter he published. Larry Culp consistently brought up “the game of inches” analogy during these conversations. 
 
 > As the saying goes, this is a game of inches every day, not feet or miles, and I want us all to keep score together. My goals are aligned with yours. — Larry Culp, 2018 Annual Letter
 
-I am not sure where Larry got this analogy from but many say it was inspired by a famous football speech from a movie *Any Given Sunday*.
+I am not sure where Larry got this analogy from but many say it was from a football movie *Any Given Sunday*.
 
 > We are in hell right now, gentlemen, believe me and we can stay here and get the s--- kicked out of us or we can fight our way back into the light...We can climb our of hell. One inch at a time." — Tony D'Amato, played by Al Pacino
 
-In two years General Electric has made many strides since then and were huge in magnitude. His management is heavily influenced by LEAN methodologies. If it weren't for these incremental steps, General Electric might not have survived during the pandemic, but today it is a much more stable organization. Larry Culp's heuristic *the game of inches* is important when faced with a complex and giant problem. This brings us to the next heuristic.
+In two years General Electric made many strides since then and they were huge in magnitude. His management is heavily influenced by LEAN methodologies. If it weren't for these incremental steps, General Electric might not have survived during the 2020 pandemic. Today it is a much more stable organization. Larry Culp's heuristic *the game of inches* is important when faced with a complex and giant problem. This brings us to the next heuristic.
 
 ## Action produces information
 
 If you are a real-world decision maker such as Larry Culp, you may choose to analyze (or *over analyze*) or you may choose to act. There is a real trade-off. Studying about decision-making frameworks isn't the same thing as effective action.
 
-Theoretically if we lived in a perfect environment presented with all possible outcomes, a *rational choice theory* from economics would be ideal. However, frameworks and models are not immediately applicable to the real world because the real world doesn't share all the assumptions used in textbooks.
+If we lived in a perfect environment presented with all possible outcomes, a *rational choice theory* from economics would be ideal. However, frameworks and models are not immediately applicable to the real world because the real world does not share all the assumptions used in textbooks.
 
-Decisions in the real world are time sensitive; the sooner you act, the more you realize from an action. What if Larry Culp waited for several board meetings to plan out the GE turnaround? He made decisions right away after being appointed as the CEO. He cut the dividend to a penny; previous management stalled many months on whether to cut the dividend or not. It could've been General Electric might not have survived during the pandemic if the management had not made those decisions earlier. There is a cost associated to doing decision analysis.
+Decisions in the real world are time sensitive; the sooner you act, the more you realize from an action. What if Larry Culp waited for several board meetings to plan out the GE turnaround? He made decisions right away after becoming the CEO. He cut the dividend to a penny; previous management stalled for many months on whether to cut the dividend. General Electric might not have survived during the pandemic if the management had not made those decisions earlier. There is a cost associated to doing decision analysis.
 
 Action generates new information which then allows to make better decisions. In the real world, the utility of each choice depends on the decisiveness with which you act on your analysis.
 
-> It doesn't even matter what you do as long as you do something, because that's my other favourite quote, is “action produces information.” So at a certain point, you got to stop pontificating about this stuff and just try something, anything. You're going to be embarrassed by the V1 until you go out there and you create. That's part of the product development process, is just dramatically scaling back kind of the ambition and the feature set and everything to rapidly iterate and prototype these things, but go do anything. The first thing you try is almost guaranteed not to work. So don't give up, just go try the next thing, and the next thing, and the next thing. That's the only way that new products and companies ever get created in the world. You got to put a lot of shots on goal to get one to eventually work. — Brian Armstrong, the founder and CEO of Coinbase
+> It doesn't even matter what you do as long as you do something, because that's my other favorite quote, is “action produces information.” So at a certain point, you got to stop pontificating about this stuff and just try something, anything. You're going to be embarrassed by the V1 until you go out there and you create. That's part of the product development process, is just dramatically scaling back kind of the ambition and the feature set and everything to rapidly iterate and prototype these things, but go do anything. The first thing you try is almost guaranteed not to work. So don't give up, just go try the next thing, and the next thing, and the next thing. That's the only way that new products and companies ever get created in the world. You got to put a lot of shots on goal to get one to eventually work. — Brian Armstrong, the founder and CEO of Coinbase
 
 ## Bias for action from others
 
@@ -51,4 +51,4 @@ Jeff Bezos on decisions in 2015 shareholder letter:
 
 > Some decisions are consequential and irreversible or nearly irreversible — one-way doors — and these decisions must be made methodically, carefully, slowly, with great deliberation and consultation. If you walk through and don’t like what you see on the other side, you can’t get back to where you were before. We can call these Type 1 decisions.But most decisions aren’t like that — they are changeable, reversible — they’re two-way doors. If you’ve made a suboptimal Type 2 decision, you don’t have to live with the consequences for that long. You can reopen the door and go back through. Type 2 decisions can and should be made quickly by high judgment individuals or small groups.As organisations get larger, there seems to be a tendency to use the heavy-weight Type 1 decision-making process on most decisions, including many Type 2 decisions. The end result of this is slowness, unthoughtful risk aversion, failure to experiment sufficiently, and consequently diminished invention*. We’ll have to figure out how to fight that tendency.*The opposite situation is less interesting and there is undoubtedly some survivorship bias. Any companies that habitually use the light-weight Type 2 decision-making process to make Type 1 decisions go extinct before they get large.
 
-If the world were static, the decision-analysis frameworks would be useful, but in a dynamic world, playing the game of inches and a bias towards action produces meaningful information to act on. My return on General Electric was not meaningful but wathing Larry Culp do his job taught me the importance of bias towards actions in small steps.
+If the world were static, the decision-analysis frameworks would be useful. But in a dynamic world, playing the game of inches and a bias towards action is much more meaningful. My investment return on General Electric was not significant, but watching Larry Culp taught me the importance of bias towards actions in incremental steps. I would consider that as a win.
