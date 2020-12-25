@@ -604,7 +604,7 @@ Lastly, providing examples is another stylistic choice. Examples make abstract s
 
 ### References & bibliography
 
-Jordan Peterson on references and biliogrpahy
+Jordan Peterson on references and bibliography
 
 - When you write a sentence that contains what is supposed to be a fact or at least an informed opinion, and you have picked it up from something you read, then you have to refer to that source. Otherwise, following convention, people may accuse you of plagiarism, which is a form of theft (of intellectual property).
 - There are a large number of conventions that you can follow to properly structure your references and your bibliography (which is a list of books and articles that you have read to obtain relevant background information, but from which you may not have drawn any ideas specific enough to require a reference).

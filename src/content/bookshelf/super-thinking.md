@@ -11,7 +11,7 @@ When we first learned multiplication, we also learned multiplication is just rep
 
 When we don’t use mental models, strategic thinking is like using addition when multiplication is available to us. And that’s exactly why knowing the right mental models unlocks super thinking, just as subtraction, multiplication, and division unlock our ability to do more complex math problems.
 
-Multiplication is analgous to mental models. Once wes have internalized a mental model like multiplication, it’s hard to imagine a world without it.
+Multiplication is analogous to mental models. Once wes have internalized a mental model like multiplication, it’s hard to imagine a world without it.
 
 Every discipline, like physics, has its own set of mental models that people in the field learn through coursework, mentorship, and firsthand experience. There is a smaller set of mental models, however, that are useful in general day-to-day decision making, problem solving, and truth seeking. These often originate in specific disciplines (physics, economics, etc.), but have metaphorical value well beyond their originating discipline.
 

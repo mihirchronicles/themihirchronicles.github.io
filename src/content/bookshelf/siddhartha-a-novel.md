@@ -10,7 +10,7 @@ Hermann Hesse is a Nobel Prize winner and his great work is reflected in this li
 ## II. Big Ideas
 - Everything is intertwined.
 - Goals are meaningless because every goal is followed by a new one.
-- Widsom cannot be passed. It has to be experienced. But, knowledge can.
+- Wisdom cannot be passed. It has to be experienced. But, knowledge can.
 - Able to love the world as is, not despise it or hate it.
 - Teachings are illusions.
 - Time is an illusion.

@@ -14,7 +14,7 @@ The book is divided into several chapters covering major topics in relation to i
 - History is subject to geology ... To the geologic eye all the surface of the earth is a fluid form, and man moves upon it as insecurely as Peter walking on the waves to Christ.
 - Man's ingenuity often overcomes geological handicaps ... Let rain become too rare, and civilization disappears under sand, as in Central Asia; let it fall too furiously, and civilization will be choked with jungle, as in Central America.
 - Geography is the matrix of history, its nourishing mother and disciplining home. Its rivers, lakes, seas, and oceans draw settlers to their shores, for water is the life of organism and towns, and offers inexpensive roads for transport and trade.
-- The development of the airplane will again alter the map of civilization. Trade routes will follow less and less the rivers and seas ... Countries like England and France will lose the commercial advantage of abundant coast lines...countries like Russia, China, and Brazil, which were hampered by the excess of their land mass over their coasts, will cancel part of that handicap by taking to the air. **Comment**— is that true in 2020? Did airline industry alter the civilization and gave an edge to countries with massive lands? In my opinion, yes! To what degree? I don't know but these countries are more important than ever in shaping civilization.
+- The development of the airplane will again alter the map of civilization. Trade routes will follow less and less the rivers and seas ... Countries like England and France will lose the commercial advantage of abundant coast lines...countries like Russia, China, and Brazil, which were hampered by the excess of their land mass over their coasts, will cancel part of that handicap by taking to the air. **Comment** — is that true in 2020? Did airline industry alter the civilization and gave an edge to countries with massive lands? In my opinion, yes! To what degree? I don't know but these countries are more important than ever in shaping civilization.
 - The influence of geographic factors diminishes as technology grows.
 - Man, not the earth, makes civilization.
 - History is a fragment of biology.
@@ -71,7 +71,7 @@ The book is divided into several chapters covering major topics in relation to i
 - Suddenly we perceive to what a perilous minority we belong on the impartial planet.
 - Nature smiles at the union of freedom and equality in our utopias.
 - When religion declines Communism grows.
-- Polemos pater panton (War, or competition, is the father of all things, the potent source of ideas, inventions, institutions, and states. Peace is an unstable equilibrium, which can be preserved only by acknowledged supremacy or equal power). —Heracleitus
+- Polemos pater panton (War, or competition, is the father of all things, the potent source of ideas, inventions, institutions, and states. Peace is an unstable equilibrium, which can be preserved only by acknowledged supremacy or equal power). — Heracleitus
 - The men who can manage men manage the men who can manage only things, and the men who can manage money manage all.
 - Moral codes differ because they adjust to the situation. Morals in hunter era were very different from agricultural era: greed, cruelty, polygamy.
 - Man’s sins are the relics of his rise rather than the stigmata of his fall.

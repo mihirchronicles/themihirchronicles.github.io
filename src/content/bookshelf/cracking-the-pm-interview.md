@@ -26,7 +26,7 @@ As I am exploring a Product Management role as a next step of progression in my 
 - As a PM you won't be coding anymore, you'll be responsible for a lot of decisions, you'll spend more time in meetings.
     - The work is less tangible.
     - You become a focus point of criticism, but constructive criticism is good.
-    - You don't have time to do it all so you need to trust others and delgate.
+    - You don't have time to do it all so you need to trust others and delegate.
 - Designers are already focused on customer and designing great products so those skills are valuable for PM.
 - It’s often been said product managers are the “CEO of the product,” but, unfortunately, the popular wisdom here is somewhat inaccurate. You are not the CEO. You will not do acquisitions or mergers. You will not deal with shareholders. You will often not even deal with finances. However, you are responsible for delivering the best product to customers. Note this sentence covers three very important terms: “delivering,” “product,” and “customers.” Most PM questions revolve around these three terms.
 - Technical experience matters to form a strong working relationships with engineers. PM is a job where you have to lead without authority. The only way to get it done is onboard the team with your vision.
@@ -133,7 +133,7 @@ Data analysis can be a huge part of a PM's job. Logs to come up with new ideas o
 - Pick the company where you'll learn the most
 - Choose a growing company
 - Find a manager who believes in you
-- Focus on your own efficeincy
+- Focus on your own efficiency
 - Understand how your role fits into the company
 - Help your team with something tangible early on
 - Work on something that's important to your team and the company

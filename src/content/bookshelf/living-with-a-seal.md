@@ -37,10 +37,6 @@ Jesse Itlzer writes—
 - Any success I have ever had in my life usually occurred when I was not chasing the money but was doing things out of passion.
 - I eat only fruit until noon. That’s been my thing since I read Fit for Life by Harvey Diamond in 1992. For over twenty-five years, just fruit till noon...He credits it to a philosophy and lifestyle called “natural hygiene,” and he lays out the road map in Fit for Life. I read the book three times, and it completely changed my life...One of the main underlying philosophies in his book is that we use more energy for digestion than all other bodily functions combined. That’s why we are usually tired after a big meal...That said, the average American will eat seventy tons of food in their lifetime. Imagine how hard the body has to work to process and break down all of that food...The more efficiently we can digest all this food and the less stress we put on the digestive process, the more energy we will have for everything else...According to Fit for Life, fruit is the perfect food because on top of being sweet and delicious, it’s super-easy to digest...In fact, it is the only food that bypasses the stomach and is digested in the small intestines...It unleashes all its nutrients and goodness without using much, if any, energy, which frees up your energy for other things. As long as you eat fruit on an empty stomach, you can reap amazing benefits...According to Diamond, you don’t have to look beyond the animal kingdom to see evidence of this. The strongest animals in the world thrive on a fruit-and plant-based diet...Silverback gorillas, for example, are thirty times as strong as man and three times our size. Their DNA is 99 percent similar to that of humans, and they are our closest living relatives next to chimps. How are they so strong? Oh yeah, their diet is made up mostly of fruit and leaves. The silverback gorilla doesn’t eat turkey sandwiches, chips, and McDonald’s.
 
-
-
-
-
 ## III. Quotes
 - I don’t stop when I’m tired. I stop when I’m done. — SEAL
 - I don’t celebrate victories but I learn from failures. — SEAL
