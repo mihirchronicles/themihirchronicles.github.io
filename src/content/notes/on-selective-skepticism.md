@@ -34,7 +34,7 @@ Selective skepticism and sound reasoning can eliminate all prejudices in necessa
 - Seeking Wisdom, From Darwin To Munger by Peter Bevelin
 - Richard Feynman lectures
 - [Essay](https://www.edwardtufte.com/tufte/hill) by Edward Tufte
-- [Essay](http://paulgraham.com/hamming.html) by Paul Graham
+- [Essay 1](http://paulgraham.com/hamming.html), [Essay 2](http://www.paulgraham.com/ecw.html) & [Essay 3](http://www.paulgraham.com/determination.html) by Paul Graham
 - [Series of essays](https://peterattiamd.com/ns001/) by Peter Attia
 - [How to research at the MIT Lab](http://dspace.mit.edu/bitstream/handle/1721.1/41487/AI_WP_316.pdf?sequence=4&isAllowed=y)
 - Aristotle work on logic
