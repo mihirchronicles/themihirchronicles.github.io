@@ -85,7 +85,7 @@ const IndexPage = ({ data }) => {
           <Time>[2013]</Time>
           <p><strong>Story</strong>: While working at a design and development shop, Doejo, I was asked to lead a team whose responsibility was to build and an expense tracking tool.</p>
           <p><strong>Product</strong>: An expense tracking tool for Uber, Airbnb and similar sharing economy platform contractors.</p>
-          <p><strong>Results</strong>: We had a few hundred users and were close to signing a deal with Uber Chicago. I eventually left the product team to pursure a career as a developer shortly after.</p> 
+          <p><strong>Results</strong>: We had a few hundred users and were close to signing a deal with Uber Chicago. I eventually left the product team to pursue a career as a developer shortly after.</p> 
           <p><strong>Media</strong>: <a href="http://www.chicagotribune.com/bluesky/originals/81828315-132.html">Chicago Tribune Coverage</a></p>
         </WorkContent>
       </WorkContainer>

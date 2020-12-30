@@ -5,6 +5,6 @@ path: "/bookshelf/a-brief-history-of-times"
 ---
 ## I. Brief Summary
 
-## Big Ideas
+## II. Big Ideas
 
-## Quotes
+## III. Quotes
