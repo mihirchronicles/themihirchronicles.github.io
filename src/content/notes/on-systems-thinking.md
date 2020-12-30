@@ -5,7 +5,7 @@ date: "2020-12-30"
 draft: false
 path: "/notes/on-systems-thinking"
 ---
-_Systems Thinking_ also known as _process driven mentality_ over _goal driven mentality_ has become common these days.
+Systems thinking also known as _process driven mentality_ which is preferred over _goal driven mentality_ has become common these days.
 
 Why?
 
