@@ -35,6 +35,8 @@ Decisions in the real world are time sensitive; the sooner you act, the more you
 
 Action generates new information which then allows to make better decisions. In the real world, the utility of each choice depends on the decisiveness with which you act on your analysis.
 
+If the world were static, the decision-analysis frameworks would be useful. But in a dynamic and complex world, playing *the game of inches* and a *bias towards action* are much more meaningful. My investment return on General Electric was not significant, but watching Larry Culp taught me the importance of bias towards actions. A valuable lesson for me.
+
 ## Bias for action from others
 
 Brian Armstrong, the founder and CEO of Coinbase shares his thoughts *action creates information*.
@@ -65,6 +67,6 @@ This story from the book Art & Fear by David Bayles and Ted Orland shows quantit
 
 > The ceramics teacher announced on opening day that he was dividing the class into two groups. All those on the left side of the studio, he said, would be graded solely on the quantity of work they produced, all those on the right solely on its quality. His procedure was simple: on the final day of class he would bring in his bathroom scales and weigh the work of the “quantity” group: fifty pound of pots rated an “A”, forty pounds a “B”, and so on. Those being graded on “quality”, however, needed to produce only one pot – albeit a perfect one – to get an “A”. Well, came grading time and a curious fact emerged: the works of highest quality were all produced by the group being graded for quantity. It seems that while the “quantity” group was busily churning out piles of work – and learning from their mistakes – the “quality” group had sat theorizing about perfection, and in the end had little more to show for their efforts than grandiose theories and a pile of dead clay.
 
-If the world were static, the decision-analysis frameworks would be useful. But in a dynamic and complex world, playing *the game of inches* and a *bias towards action* are much more meaningful. My investment return on General Electric was not significant, but watching Larry Culp taught me the importance of bias towards actions. A valuable lesson for me.
+Robert Hass on taking action on writing:
 
-> It's hell writing and it's hell not writing. The only tolerable state is having just written. — Robert Hass
+> It's hell writing and it's hell not writing. The only tolerable state is having just written.
