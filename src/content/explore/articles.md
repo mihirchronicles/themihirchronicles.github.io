@@ -6,7 +6,7 @@ path: "/explore/articles"
 ##### 2021
 - [Jerry Seinfeld on Tim Ferris Show](https://tim.blog/2020/12/08/jerry-seinfeld/): this episode was so good! Jerry Seinfeld shares his deep thoughts on creative process, writing, systemizing life and work, and so much more. This should be listened frequently and slowly.
 - [Bill Gates on COVID-19](https://www.gatesnotes.com/Health/What-you-need-to-know-about-the-COVID-19-vaccine): Bill Gates comprehensive post on COVID-19 vaccine development.
-- [Hope Hall on mindset](https://thecreativeindependent.com/people/hope-hall-on-mindset/): Half of the battle in life is the ability to deal with mindset. Understanding on how to cope through stress starts with understanding yourself. Hope Hall offers a list of strategies to build a resilient mindset. 
+- [Hope Hall on mindset](https://thecreativeindependent.com/people/hope-hall-on-mindset/): Half of the battle in life is the ability to deal with mindset. Understanding on how to cope through stress starts with understanding yourself. Hope Hall offers a list of strategies to build a resilient mindset.
 
 ##### 2020
 - [The lifecycle of greed and fear](https://www.collaborativefund.com/blog/the-lifecycle-of-greed-and-fear/): Morgan Housel does a wonderful job explaining the lifecycle of greed and fear. “All greed starts with an innocent idea: that you are right, deserve to be right, or are owed something for your efforts. It’s a reasonable feeling.”
