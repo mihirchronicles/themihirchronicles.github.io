@@ -16,7 +16,7 @@ Hermann Hesse is a Nobel Prize winner and his great work is reflected in this li
 - Time is an illusion.
 
 ### III. Quotes
-- “Your soul is the whole world”
+- Your soul is the whole world.
 - A goal stood before Siddhartha, a single goal: to become empty, empty of thirst, empty of wishing, empty of dreams, empty of joy and sorrow. Dead to himself, not to be a self anymore, to find tranquility with an emptied head, to be open to miracles in unselfish thoughts, that was his goal. Once all of myself was overcome and had died, once every desire and every urge was silent in the heart, then the ultimate part of me had to awake, the innermost of my being, which is no longer myself, the great secret.
 - He went the way of self-denial by means of pain, through voluntarily suffering and overcoming pain, hunger, thirst, tiredness. He went the way of self-denial by means of meditation, through imagining the mind to be void of all conceptions.
 - Suffering was life, full of suffering was the world, but salvation from suffering had been found: salvation was obtained by him who would walk the path of the Buddha.
