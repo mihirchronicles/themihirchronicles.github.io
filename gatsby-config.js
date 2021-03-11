@@ -26,13 +26,6 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: `explore`,
-        path: `${__dirname}/src/content/explore`,
-      },
-    },
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
         name: `bookshelf`,
         path: `${__dirname}/src/content/bookshelf`,
       },
