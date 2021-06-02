@@ -88,7 +88,7 @@ Traditional essays do not allow to explore questions, but rather explore answers
 ### Be critical of timeful vs timeless advice
 If one is equipped to think critically, can a person challenge conventional wisdom? One can start with understanding the basic elements of conventional wisdom. Buying a home to build wealth, for example, was relevant for a specific era, but might not be for many today.
 
-Outsourcing decisions to recent history might sound novel and convenient, but can be dangerous because you have failed to explore why it’s conventional in the first place. Compounding doesn’t have the same magnitude of wealth accumulation when buying a house. Why is that? The elements of yesterday do not comply with elements today. Interest rate environment was different in the 70s than today. That is just one possible explanation. But one should compile all these elements and then try to answer the same question.
+Outsourcing decisions to recent history might sound novel and convenient, but can be dangerous because you have failed to explore why it’s conventional in the first place. Compounding doesn’t have the same magnitude of wealth accumulation when buying a home. Why is that? The elements of yesterday do not comply with elements today. Interest rate environment was different in the 70s than today. That is just one possible explanation. But one should compile all these elements and then try to answer the same question.
 
 Challenging these types of conventional wisdom allows you to differentiate between timeliness and timelessness of advice. [6] John Luttig has written a fantastic piece on how to challenge the timeful advice.
 
