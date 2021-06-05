@@ -1,1 +1,1 @@
-### Persoanl Site
+### Personal Site

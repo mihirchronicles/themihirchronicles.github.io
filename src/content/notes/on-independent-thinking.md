@@ -5,7 +5,7 @@ tags: ["general"]
 draft: false
 path: "/notes/on-independent-thinking"
 ---
-[_Last revised 06/01/2021_]
+[_Last Revised: 06/01/2021_]
 
 Often these days I come across the importance of critical & independent thinking. Critical thinking implies being critical of information presented to you. Independent thinking implies being able to think for yourself. If everyone is hiking the same trail, should you be following the same trail? That is the essence of critical and independent thinking.
 
