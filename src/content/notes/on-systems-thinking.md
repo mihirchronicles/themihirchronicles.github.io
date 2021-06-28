@@ -57,7 +57,9 @@ I have 4 main folders: life of mi, work of mi, school of mi and house of mi. The
 
 That's my “simple process” which allows me to do systems thinking. However, systems thinking can be supervillain.
 
-<img src="../../images/notion_app.png" alt="My System"/>
+<img src="../../images/notion_1.png" alt="My System"/>
+<img src="../../images/notion_2.png" alt="My System"/>
+<img src="../../images/notion_3.png" alt="My System"/>
 <br>
 
 ## Caution against systems thinking
