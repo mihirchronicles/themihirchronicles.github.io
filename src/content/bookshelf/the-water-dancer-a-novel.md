@@ -1,5 +1,5 @@
 ---
-title: The Water Dancer A Novel by Ta-Nehisi Coates
+title: The Water Dancer, A Novel by Ta-Nehisi Coates
 date: "2021-06-15"
 path: "/bookshelf/the-water-dancer"
 ---

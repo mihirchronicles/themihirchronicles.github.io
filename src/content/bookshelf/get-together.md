@@ -38,4 +38,3 @@ The author writes and share their ideas on how to kick the tires on building a r
 - New leaders breathe life into a community. Embrace process to figure out how to give them the support that they need, every step of the way.
 - Celebrations are festive moments that revitalize a group.
 - The dream of a peaceful society to me is still the dream of the potluck supper. The society in which all can contribute, and all can find friendship. — Ursula Franklin
-
